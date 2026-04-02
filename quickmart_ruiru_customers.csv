@@ -1,0 +1,2953 @@
+customer_id,customer_name,age_group,customer_type,loyalty_tier,home_estate,distance_to_store_km
+C00001,Simiyu Njeri,36-45,Occasional,Gold,Kahawa Wendani,0.5
+C00002,Achieng Juma,46-55,Occasional,Bronze,Kihara,5.0
+C00003,Abdullah Hassan,18-25,Occasional,Bronze,Githurai 44,7.4
+C00004,Wanjala Mwangi,46-55,Occasional,Silver,Ndenderu,4.3
+C00005,Okoth Mutiso,26-35,Regular,Bronze,Kahawa Wendani,0.5
+C00006,Wambui Wanjiku,18-25,Premium,Platinum,Green Valley,2.1
+C00007,Wanjiku Okoth,36-45,Regular,Silver,Githurai 45,7.4
+C00008,Mutiso Ochieng,26-35,Regular,Silver,Ndenderu,0.6
+C00009,Mwangi Adhiambo,26-35,Premium,Gold,Ruiru Town Center,3.5
+C00010,Wanjala Hassan,18-25,Regular,Silver,Ruiru Sports Club,6.4
+C00011,Akinyi Kariuki,18-25,Regular,Bronze,Kahawa Wendani,6.8
+C00012,Were Simiyu,26-35,Regular,Gold,Green Valley,4.1
+C00013,Adhiambo Kinyua,56+,Premium,Bronze,Ruiru Town Center,2.2
+C00014,Nyambura Omondi,36-45,Regular,Gold,Ruiru CBD,5.0
+C00015,Maina Adhiambo,18-25,Regular,Bronze,Githurai 44,2.5
+C00016,Wambui Simiyu,56+,Regular,Platinum,Ruiru Town Center,2.4
+C00017,Ochieng Njeri,36-45,Regular,Bronze,Kimbo,6.6
+C00018,Achieng Mwangi,26-35,Occasional,Silver,Githurai 45,1.7
+C00019,Wambui Adhiambo,46-55,New,Bronze,Kimbo,0.5
+C00020,Wanjala Wanjiku,18-25,Regular,Silver,Kahawa Sukari,3.0
+C00021,Mwangi Kinyua,26-35,Regular,Silver,Ruiru Town Center,4.2
+C00022,Otieno Abdullah,46-55,Occasional,Gold,Mwiki,5.8
+C00023,Wairimu Okoth,46-55,Regular,Platinum,Ruiru Town Center,6.4
+C00024,Adhiambo Juma,46-55,New,Bronze,Githurai 44,5.5
+C00025,Kiplagat Wanjala,36-45,Premium,Platinum,Green Valley,5.2
+C00026,Abdullah Wanjala,56+,Occasional,Bronze,Kimbo,5.5
+C00027,Njoroge Otieno,46-55,Regular,Gold,Ruiru CBD,2.5
+C00028,Njoroge Maina,46-55,Regular,Silver,Kimbo,3.4
+C00029,Simiyu Kariuki,26-35,Regular,Silver,Kihara,5.1
+C00030,Ochieng Okoth,18-25,Occasional,Gold,Mwiki,1.0
+C00031,Kariuki Okoth,26-35,Occasional,Bronze,Githurai Kimbo,2.7
+C00032,Kariuki Wambui,18-25,Regular,Bronze,Githurai 44,3.5
+C00033,Wambui Chebet,36-45,Occasional,Silver,Kihara,4.5
+C00034,Omondi Kipchoge,46-55,Regular,Bronze,Kihara,4.1
+C00035,Muthoni Kamau,26-35,Regular,Silver,Mwiki,5.9
+C00036,Kinyua Achieng,36-45,Regular,Silver,Green Valley,4.1
+C00037,Ochieng Abdullah,36-45,New,Bronze,Githurai 44,7.3
+C00038,Ochieng Mutiso,26-35,Occasional,Gold,Githurai Kimbo,3.4
+C00039,Juma Njoroge,26-35,Regular,Bronze,Kimbo,4.4
+C00040,Simiyu Hassan,26-35,Regular,Bronze,Kahawa Wendani,0.5
+C00041,Were Wairimu,36-45,Occasional,Bronze,Ruiru CBD,2.8
+C00042,Kamau Omondi,46-55,Occasional,Gold,Kahawa Wendani,7.0
+C00043,Chebet Njeri,18-25,Regular,Gold,Ndenderu,3.0
+C00044,Omondi Ochieng,46-55,Occasional,Bronze,Githurai Kimbo,2.4
+C00045,Kipchoge Abdullah,36-45,Regular,Silver,Githurai Kimbo,4.6
+C00046,Wambui Mumbi,26-35,Occasional,Bronze,Githurai 45,1.1
+C00047,Wambui Mutiso,26-35,Occasional,Gold,Githurai Kimbo,4.5
+C00048,Wambui Okoth,56+,Occasional,Bronze,Kihara,2.8
+C00049,Wairimu Omondi,36-45,Regular,Gold,Mwiki,3.4
+C00050,Okoth Were,46-55,New,Bronze,Kahawa Wendani,6.4
+C00051,Kariuki Akinyi,46-55,Regular,Silver,Mwiki,5.5
+C00052,Otieno Ochieng,56+,Regular,Gold,Githurai 44,3.8
+C00053,Wanjiku Mumbi,18-25,Regular,Gold,Kahawa Sukari,4.8
+C00054,Mumbi Kiplagat,18-25,Premium,Gold,Ruiru Town Center,6.3
+C00055,Nyambura Kiplagat,56+,Regular,Bronze,Kahawa Wendani,6.1
+C00056,Adhiambo Ochieng,46-55,Occasional,Bronze,Ruiru Sports Club,1.9
+C00057,Muthoni Kariuki,46-55,Occasional,Bronze,Githurai Kimbo,2.8
+C00058,Kariuki Kamau,46-55,Regular,Bronze,Kahawa Wendani,3.1
+C00059,Mwangi Nyambura,26-35,Regular,Bronze,Mwiki,1.9
+C00060,Adhiambo Kiplagat,36-45,Occasional,Silver,Ruiru CBD,0.6
+C00061,Nyambura Wanjala,36-45,Premium,Silver,Ruiru Sports Club,1.8
+C00062,Wambui Kipchoge,46-55,Regular,Silver,Ruiru Sports Club,6.6
+C00063,Abdullah Omondi,18-25,Occasional,Bronze,Kihara,4.6
+C00064,Abdullah Abdullah,56+,Regular,Bronze,Ruiru Town Center,3.1
+C00065,Juma Maina,18-25,New,Gold,Githurai 45,5.1
+C00066,Wairimu Maina,56+,Occasional,Bronze,Ndenderu,6.0
+C00067,Njeri Njoroge,46-55,Occasional,Silver,Kihara,3.2
+C00068,Wanjiku Akinyi,26-35,Regular,Silver,Kahawa Sukari,4.0
+C00069,Maina Wambui,46-55,Occasional,Silver,Mwiki,1.0
+C00070,Omondi Were,18-25,Premium,Bronze,Ruiru Town Center,5.0
+C00071,Wambui Wanjala,26-35,Occasional,Bronze,Kimbo,3.2
+C00072,Juma Mutiso,26-35,Regular,Silver,Mwiki,3.8
+C00073,Wambui Kiplagat,46-55,Occasional,Silver,Githurai 45,3.7
+C00074,Wanjala Mwangi,26-35,Regular,Platinum,Ruiru Sports Club,5.2
+C00075,Ochieng Omondi,36-45,Occasional,Bronze,Ruiru Sports Club,4.8
+C00076,Muthoni Simiyu,26-35,Regular,Platinum,Ruiru Town Center,3.7
+C00077,Wanjala Ochieng,26-35,Regular,Silver,Githurai 44,0.6
+C00078,Omondi Simiyu,26-35,Regular,Bronze,Kihara,5.2
+C00079,Chebet Chebet,56+,Premium,Gold,Ruiru Town Center,7.1
+C00080,Omondi Adhiambo,36-45,Occasional,Silver,Green Valley,6.3
+C00081,Kiplagat Kipchoge,36-45,Occasional,Silver,Mwiki,7.9
+C00082,Achieng Akinyi,26-35,Occasional,Bronze,Githurai 44,1.5
+C00083,Were Juma,18-25,Occasional,Silver,Githurai 44,2.2
+C00084,Kinyua Simiyu,56+,Regular,Gold,Githurai 44,4.5
+C00085,Otieno Akinyi,46-55,Occasional,Silver,Ndenderu,2.3
+C00086,Kinyua Maina,46-55,Occasional,Gold,Mwiki,0.8
+C00087,Kiplagat Wairimu,36-45,Regular,Bronze,Kimbo,3.5
+C00088,Hassan Juma,36-45,Regular,Silver,Githurai Kimbo,2.7
+C00089,Were Mutiso,18-25,New,Bronze,Githurai 45,2.5
+C00090,Chebet Njoroge,56+,Regular,Bronze,Ndenderu,7.6
+C00091,Juma Adhiambo,36-45,Occasional,Gold,Green Valley,2.3
+C00092,Njoroge Achieng,56+,Occasional,Gold,Green Valley,1.5
+C00093,Akinyi Simiyu,36-45,Regular,Bronze,Githurai Kimbo,1.4
+C00094,Ochieng Wanjiku,26-35,Regular,Gold,Green Valley,6.5
+C00095,Mutiso Mwangi,18-25,New,Gold,Ndenderu,5.9
+C00096,Mumbi Wanjala,18-25,Regular,Silver,Kahawa Wendani,1.5
+C00097,Mwangi Otieno,46-55,Occasional,Gold,Ruiru Town Center,2.1
+C00098,Achieng Mutiso,18-25,New,Gold,Kihara,6.1
+C00099,Njeri Kamau,56+,New,Silver,Githurai 44,2.6
+C00100,Akinyi Wanjala,26-35,Regular,Silver,Githurai 45,7.9
+C00101,Were Kariuki,36-45,Occasional,Silver,Ruiru Sports Club,4.6
+C00102,Simiyu Mwangi,26-35,Regular,Gold,Kahawa Wendani,1.9
+C00103,Were Wambui,36-45,Regular,Gold,Ruiru Sports Club,6.9
+C00104,Achieng Mwangi,26-35,Regular,Gold,Ruiru CBD,2.9
+C00105,Wambui Kinyua,46-55,Occasional,Bronze,Green Valley,2.7
+C00106,Njeri Kiplagat,26-35,New,Bronze,Githurai Kimbo,3.0
+C00107,Mwangi Wambui,26-35,New,Silver,Githurai 44,6.3
+C00108,Akinyi Kinyua,56+,Regular,Bronze,Kihara,1.8
+C00109,Nyambura Wambui,46-55,Regular,Gold,Green Valley,3.4
+C00110,Omondi Kamau,18-25,Regular,Silver,Githurai 44,0.7
+C00111,Wanjala Mwangi,26-35,Regular,Silver,Ruiru CBD,6.7
+C00112,Omondi Kipchoge,36-45,Regular,Silver,Ruiru CBD,3.1
+C00113,Achieng Wanjiku,26-35,Occasional,Bronze,Githurai Kimbo,2.4
+C00114,Adhiambo Wanjiku,56+,Regular,Silver,Kimbo,4.8
+C00115,Kariuki Abdullah,26-35,Regular,Bronze,Mwiki,5.8
+C00116,Ochieng Kipchoge,26-35,New,Gold,Githurai 44,6.6
+C00117,Abdullah Njeri,46-55,Regular,Bronze,Ruiru CBD,3.1
+C00118,Ochieng Kipchoge,36-45,New,Gold,Kahawa Wendani,6.6
+C00119,Achieng Njoroge,46-55,Occasional,Silver,Githurai Kimbo,4.0
+C00120,Simiyu Muthoni,36-45,Regular,Platinum,Ruiru Town Center,1.3
+C00121,Okoth Akinyi,46-55,Occasional,Bronze,Kihara,6.8
+C00122,Muthoni Kiplagat,56+,Regular,Bronze,Ruiru Town Center,4.6
+C00123,Hassan Kipchoge,46-55,Occasional,Silver,Kahawa Wendani,5.0
+C00124,Njeri Kamau,46-55,Occasional,Silver,Kahawa Sukari,7.5
+C00125,Kamau Wanjiku,56+,Occasional,Bronze,Githurai 45,4.7
+C00126,Simiyu Akinyi,18-25,Occasional,Silver,Mwiki,0.5
+C00127,Wanjala Kiplagat,56+,Occasional,Silver,Kihara,7.0
+C00128,Simiyu Chebet,36-45,Occasional,Silver,Kimbo,2.6
+C00129,Hassan Nyambura,56+,New,Gold,Ruiru CBD,4.3
+C00130,Kinyua Okoth,46-55,Regular,Gold,Kihara,2.0
+C00131,Were Kamau,18-25,Regular,Gold,Kihara,2.7
+C00132,Simiyu Ochieng,26-35,New,Bronze,Kihara,5.6
+C00133,Mutiso Kinyua,26-35,Regular,Silver,Ruiru Town Center,3.7
+C00134,Abdullah Maina,56+,Regular,Silver,Ruiru CBD,5.2
+C00135,Hassan Kiplagat,46-55,Occasional,Silver,Kahawa Sukari,6.7
+C00136,Abdullah Otieno,18-25,New,Bronze,Mwiki,3.1
+C00137,Adhiambo Wanjiku,36-45,New,Bronze,Githurai 44,4.8
+C00138,Mwangi Wanjala,36-45,Regular,Bronze,Githurai 45,6.3
+C00139,Mwangi Adhiambo,18-25,Regular,Bronze,Mwiki,5.9
+C00140,Chebet Ochieng,26-35,Regular,Bronze,Ruiru CBD,4.5
+C00141,Abdullah Akinyi,26-35,Occasional,Bronze,Githurai Kimbo,3.4
+C00142,Adhiambo Muthoni,18-25,Occasional,Gold,Ndenderu,3.6
+C00143,Abdullah Kiplagat,18-25,Regular,Bronze,Mwiki,3.7
+C00144,Akinyi Nyambura,46-55,Regular,Silver,Green Valley,3.1
+C00145,Kinyua Were,46-55,Regular,Platinum,Green Valley,5.7
+C00146,Kipchoge Kamau,26-35,New,Bronze,Kimbo,1.4
+C00147,Mwangi Achieng,36-45,Regular,Bronze,Githurai 45,7.8
+C00148,Abdullah Abdullah,46-55,New,Bronze,Githurai 44,6.3
+C00149,Kiplagat Simiyu,36-45,Occasional,Bronze,Githurai Kimbo,2.7
+C00150,Hassan Mwangi,26-35,New,Bronze,Ndenderu,0.8
+C00151,Nyambura Muthoni,36-45,Regular,Silver,Kahawa Wendani,5.8
+C00152,Maina Kipchoge,46-55,Regular,Silver,Mwiki,6.0
+C00153,Omondi Simiyu,18-25,Regular,Platinum,Ruiru Town Center,7.7
+C00154,Kiplagat Kipchoge,26-35,New,Bronze,Kihara,2.4
+C00155,Chebet Juma,36-45,Regular,Platinum,Ruiru Town Center,1.1
+C00156,Maina Nyambura,26-35,Premium,Silver,Ruiru Town Center,7.4
+C00157,Wambui Njeri,36-45,Regular,Gold,Kihara,2.4
+C00158,Mwangi Were,46-55,Occasional,Gold,Kihara,5.9
+C00159,Abdullah Omondi,46-55,Regular,Bronze,Kahawa Wendani,1.0
+C00160,Njoroge Kiplagat,26-35,New,Bronze,Githurai 45,6.2
+C00161,Nyambura Kamau,56+,Occasional,Bronze,Githurai 45,1.5
+C00162,Wanjala Simiyu,18-25,Occasional,Bronze,Mwiki,5.7
+C00163,Hassan Njeri,56+,Occasional,Bronze,Githurai Kimbo,4.5
+C00164,Mwangi Abdullah,36-45,New,Gold,Githurai 44,7.7
+C00165,Abdullah Mwangi,18-25,Regular,Bronze,Kahawa Sukari,0.8
+C00166,Nyambura Wanjiku,18-25,Regular,Gold,Kahawa Sukari,2.7
+C00167,Muthoni Omondi,36-45,New,Bronze,Ruiru CBD,1.0
+C00168,Abdullah Okoth,46-55,Occasional,Bronze,Ruiru CBD,7.1
+C00169,Muthoni Njeri,26-35,New,Bronze,Ruiru CBD,5.0
+C00170,Achieng Mutiso,56+,Regular,Gold,Ruiru Sports Club,4.5
+C00171,Okoth Maina,26-35,Occasional,Silver,Ruiru Town Center,1.5
+C00172,Kipchoge Wanjiku,56+,Regular,Bronze,Ruiru Sports Club,4.2
+C00173,Otieno Muthoni,26-35,New,Bronze,Kahawa Wendani,3.5
+C00174,Juma Mumbi,36-45,Regular,Gold,Kihara,2.9
+C00175,Adhiambo Otieno,46-55,New,Silver,Kihara,6.3
+C00176,Njeri Simiyu,18-25,Regular,Platinum,Ruiru Town Center,1.0
+C00177,Achieng Omondi,18-25,Occasional,Bronze,Mwiki,5.4
+C00178,Muthoni Njeri,26-35,Occasional,Gold,Githurai 45,6.7
+C00179,Mutiso Ochieng,36-45,New,Gold,Ndenderu,7.3
+C00180,Ochieng Achieng,36-45,Regular,Silver,Kimbo,6.1
+C00181,Kariuki Kinyua,26-35,Regular,Gold,Githurai 44,2.6
+C00182,Otieno Kipchoge,36-45,Premium,Silver,Ruiru Town Center,5.0
+C00183,Omondi Otieno,46-55,Occasional,Silver,Kimbo,1.6
+C00184,Simiyu Mutiso,56+,New,Bronze,Githurai 45,1.4
+C00185,Otieno Kariuki,56+,Regular,Gold,Kimbo,5.3
+C00186,Were Wairimu,56+,Occasional,Gold,Githurai Kimbo,6.9
+C00187,Chebet Kinyua,56+,Regular,Bronze,Ruiru CBD,1.0
+C00188,Abdullah Chebet,26-35,Regular,Bronze,Githurai 45,1.3
+C00189,Achieng Mumbi,46-55,Occasional,Silver,Kihara,4.7
+C00190,Njoroge Chebet,26-35,Occasional,Gold,Green Valley,2.1
+C00191,Hassan Abdullah,26-35,Occasional,Gold,Ruiru CBD,5.1
+C00192,Mwangi Maina,18-25,Regular,Bronze,Kihara,2.1
+C00193,Otieno Mumbi,46-55,Regular,Bronze,Mwiki,1.4
+C00194,Abdullah Omondi,46-55,Occasional,Bronze,Ndenderu,4.6
+C00195,Omondi Juma,56+,Occasional,Gold,Githurai 45,7.0
+C00196,Njeri Kariuki,18-25,Regular,Bronze,Kimbo,5.6
+C00197,Okoth Hassan,18-25,Occasional,Bronze,Kahawa Wendani,6.6
+C00198,Ochieng Were,18-25,Occasional,Gold,Kahawa Sukari,2.5
+C00199,Kipchoge Okoth,18-25,Regular,Silver,Githurai 44,7.1
+C00200,Wanjiku Njeri,56+,New,Bronze,Kimbo,3.3
+C00201,Mumbi Mutiso,36-45,Occasional,Bronze,Githurai Kimbo,6.9
+C00202,Muthoni Ochieng,56+,New,Gold,Githurai 44,4.0
+C00203,Otieno Mutiso,46-55,Regular,Gold,Green Valley,2.5
+C00204,Kinyua Njeri,18-25,Regular,Gold,Githurai Kimbo,2.5
+C00205,Hassan Wanjiku,18-25,Occasional,Silver,Githurai Kimbo,4.8
+C00206,Abdullah Wanjala,26-35,New,Gold,Ndenderu,1.1
+C00207,Were Adhiambo,46-55,Occasional,Bronze,Kahawa Sukari,7.5
+C00208,Wanjala Kiplagat,56+,Occasional,Gold,Githurai 45,2.5
+C00209,Kariuki Abdullah,56+,Occasional,Silver,Mwiki,3.0
+C00210,Abdullah Kipchoge,26-35,New,Bronze,Githurai Kimbo,2.2
+C00211,Were Njoroge,56+,Occasional,Bronze,Githurai 45,0.5
+C00212,Wanjala Njoroge,36-45,Occasional,Gold,Ruiru Sports Club,5.7
+C00213,Wairimu Were,46-55,Occasional,Silver,Ruiru CBD,4.9
+C00214,Wanjiku Kamau,18-25,Regular,Gold,Githurai Kimbo,6.6
+C00215,Otieno Simiyu,56+,Premium,Bronze,Ruiru Town Center,0.8
+C00216,Njeri Hassan,46-55,New,Bronze,Ruiru CBD,7.5
+C00217,Simiyu Njeri,26-35,Occasional,Silver,Mwiki,3.0
+C00218,Abdullah Mwangi,56+,Occasional,Gold,Ndenderu,7.3
+C00219,Okoth Nyambura,18-25,Regular,Bronze,Green Valley,1.3
+C00220,Simiyu Kamau,26-35,Occasional,Bronze,Ndenderu,6.1
+C00221,Ochieng Abdullah,46-55,New,Bronze,Mwiki,4.8
+C00222,Mwangi Wairimu,18-25,Occasional,Bronze,Kihara,3.2
+C00223,Ochieng Okoth,18-25,Occasional,Gold,Ruiru CBD,1.1
+C00224,Nyambura Mutiso,56+,New,Silver,Mwiki,5.0
+C00225,Chebet Otieno,36-45,Occasional,Platinum,Green Valley,0.7
+C00226,Kipchoge Njoroge,18-25,Regular,Silver,Kihara,4.3
+C00227,Wanjala Abdullah,36-45,Regular,Bronze,Kimbo,5.0
+C00228,Wanjala Simiyu,46-55,Regular,Gold,Ruiru Sports Club,6.0
+C00229,Mutiso Were,46-55,Regular,Gold,Kimbo,7.9
+C00230,Okoth Wambui,36-45,New,Bronze,Kihara,2.5
+C00231,Akinyi Kiplagat,26-35,New,Bronze,Kahawa Sukari,2.9
+C00232,Njoroge Otieno,18-25,New,Gold,Kahawa Wendani,3.1
+C00233,Juma Wanjiku,56+,Occasional,Bronze,Kihara,6.0
+C00234,Otieno Wanjala,18-25,Occasional,Silver,Mwiki,7.5
+C00235,Kariuki Kinyua,26-35,Premium,Silver,Ruiru Town Center,7.8
+C00236,Achieng Mwangi,46-55,Regular,Silver,Ruiru Sports Club,7.6
+C00237,Mutiso Ochieng,36-45,Regular,Bronze,Ndenderu,7.1
+C00238,Mumbi Wairimu,46-55,Occasional,Gold,Githurai 45,7.9
+C00239,Juma Wanjala,36-45,Occasional,Bronze,Kihara,3.3
+C00240,Kiplagat Kinyua,36-45,Premium,Silver,Ruiru Town Center,7.6
+C00241,Mutiso Mwangi,26-35,Occasional,Bronze,Kahawa Sukari,6.2
+C00242,Kiplagat Chebet,56+,Occasional,Bronze,Ndenderu,1.8
+C00243,Kiplagat Nyambura,36-45,Regular,Gold,Ndenderu,0.8
+C00244,Simiyu Kamau,36-45,Premium,Silver,Ruiru Town Center,2.1
+C00245,Hassan Mwangi,26-35,Occasional,Bronze,Githurai Kimbo,6.3
+C00246,Achieng Wanjala,56+,Regular,Gold,Mwiki,5.2
+C00247,Okoth Kinyua,18-25,Occasional,Silver,Kahawa Sukari,2.2
+C00248,Maina Omondi,26-35,New,Gold,Ndenderu,6.1
+C00249,Simiyu Muthoni,56+,New,Bronze,Kimbo,1.6
+C00250,Wairimu Akinyi,18-25,Occasional,Bronze,Ndenderu,6.7
+C00251,Kariuki Otieno,18-25,Regular,Bronze,Ruiru CBD,6.5
+C00252,Mumbi Hassan,18-25,Regular,Bronze,Githurai 45,7.8
+C00253,Kamau Njoroge,56+,New,Bronze,Kimbo,1.6
+C00254,Kinyua Wanjiku,46-55,Occasional,Gold,Kahawa Wendani,7.3
+C00255,Akinyi Kinyua,26-35,Regular,Gold,Ruiru Town Center,3.1
+C00256,Kamau Muthoni,36-45,Occasional,Silver,Mwiki,3.6
+C00257,Juma Kariuki,18-25,New,Silver,Mwiki,4.0
+C00258,Chebet Otieno,18-25,Regular,Bronze,Ruiru CBD,5.2
+C00259,Simiyu Juma,46-55,Regular,Gold,Ruiru Sports Club,8.0
+C00260,Wambui Ochieng,46-55,Occasional,Bronze,Ruiru CBD,5.0
+C00261,Maina Wairimu,26-35,Occasional,Silver,Kahawa Wendani,7.5
+C00262,Mutiso Njoroge,26-35,Occasional,Silver,Ruiru CBD,2.4
+C00263,Mutiso Mutiso,56+,Regular,Bronze,Githurai 44,3.5
+C00264,Hassan Akinyi,56+,Regular,Bronze,Ruiru CBD,4.3
+C00265,Kiplagat Otieno,56+,Occasional,Silver,Githurai 45,2.9
+C00266,Adhiambo Abdullah,46-55,Occasional,Silver,Kahawa Sukari,7.8
+C00267,Wanjiku Adhiambo,56+,Occasional,Bronze,Githurai 44,5.9
+C00268,Okoth Ochieng,36-45,New,Gold,Mwiki,4.1
+C00269,Mumbi Wambui,56+,Regular,Gold,Mwiki,6.1
+C00270,Abdullah Akinyi,36-45,Regular,Bronze,Ruiru CBD,4.0
+C00271,Mutiso Kariuki,56+,New,Silver,Mwiki,0.6
+C00272,Simiyu Kamau,36-45,Regular,Bronze,Githurai Kimbo,4.6
+C00273,Omondi Omondi,26-35,Regular,Gold,Ndenderu,5.2
+C00274,Omondi Hassan,26-35,Regular,Silver,Kihara,7.9
+C00275,Njeri Okoth,36-45,New,Bronze,Kihara,0.8
+C00276,Abdullah Njeri,46-55,New,Bronze,Mwiki,4.3
+C00277,Juma Kipchoge,46-55,New,Bronze,Githurai Kimbo,1.2
+C00278,Adhiambo Hassan,18-25,Regular,Bronze,Green Valley,1.6
+C00279,Chebet Njeri,18-25,Regular,Bronze,Ndenderu,5.1
+C00280,Kariuki Kariuki,56+,Occasional,Gold,Ndenderu,2.2
+C00281,Wanjala Kariuki,56+,Regular,Silver,Kahawa Wendani,6.1
+C00282,Okoth Chebet,46-55,Occasional,Bronze,Ndenderu,4.4
+C00283,Mumbi Muthoni,36-45,Occasional,Silver,Kahawa Sukari,2.1
+C00284,Mutiso Akinyi,46-55,Regular,Platinum,Ruiru Town Center,4.2
+C00285,Otieno Mumbi,46-55,Occasional,Silver,Mwiki,0.5
+C00286,Njeri Kiplagat,46-55,Occasional,Silver,Ndenderu,7.0
+C00287,Wambui Wambui,26-35,Occasional,Bronze,Green Valley,0.6
+C00288,Kariuki Were,36-45,Regular,Bronze,Kahawa Wendani,0.6
+C00289,Ochieng Kinyua,56+,Occasional,Silver,Kahawa Wendani,5.1
+C00290,Kariuki Abdullah,26-35,Premium,Bronze,Green Valley,7.8
+C00291,Otieno Achieng,46-55,Regular,Silver,Green Valley,6.9
+C00292,Kipchoge Njoroge,46-55,Occasional,Silver,Kahawa Sukari,2.4
+C00293,Kinyua Adhiambo,26-35,New,Bronze,Githurai 44,2.0
+C00294,Kariuki Hassan,26-35,Occasional,Bronze,Githurai Kimbo,5.2
+C00295,Okoth Otieno,56+,Premium,Silver,Ruiru Town Center,6.7
+C00296,Okoth Achieng,26-35,Occasional,Bronze,Githurai 45,3.2
+C00297,Kariuki Omondi,56+,Regular,Silver,Ruiru CBD,3.7
+C00298,Wairimu Muthoni,56+,Regular,Bronze,Kahawa Wendani,1.4
+C00299,Kipchoge Muthoni,18-25,Occasional,Gold,Ruiru Town Center,1.6
+C00300,Achieng Were,26-35,Premium,Bronze,Ruiru Sports Club,4.8
+C00301,Njeri Abdullah,36-45,Regular,Gold,Ruiru Town Center,1.3
+C00302,Okoth Mutiso,46-55,Occasional,Silver,Kimbo,2.0
+C00303,Juma Omondi,56+,Occasional,Gold,Ndenderu,2.3
+C00304,Ochieng Achieng,56+,Regular,Silver,Green Valley,3.8
+C00305,Chebet Muthoni,18-25,Premium,Gold,Green Valley,0.8
+C00306,Wambui Kipchoge,26-35,Occasional,Bronze,Ndenderu,4.2
+C00307,Mutiso Mwangi,18-25,New,Silver,Kihara,7.5
+C00308,Wairimu Achieng,56+,New,Bronze,Githurai 45,0.7
+C00309,Njeri Juma,18-25,Occasional,Silver,Githurai 45,5.2
+C00310,Simiyu Wambui,26-35,Regular,Bronze,Githurai Kimbo,6.8
+C00311,Wanjala Hassan,36-45,Occasional,Silver,Githurai 45,2.8
+C00312,Wanjala Mutiso,56+,Regular,Silver,Mwiki,1.5
+C00313,Wanjiku Omondi,46-55,Premium,Gold,Green Valley,0.8
+C00314,Njoroge Kamau,56+,Occasional,Silver,Mwiki,5.3
+C00315,Kipchoge Abdullah,46-55,Occasional,Gold,Githurai 45,4.6
+C00316,Ochieng Chebet,56+,Occasional,Bronze,Mwiki,2.2
+C00317,Chebet Kinyua,18-25,Occasional,Gold,Ruiru Town Center,6.7
+C00318,Kiplagat Njeri,46-55,Premium,Gold,Ruiru Sports Club,6.0
+C00319,Wanjiku Njeri,26-35,Occasional,Bronze,Ruiru CBD,2.6
+C00320,Omondi Nyambura,56+,Premium,Silver,Ruiru Sports Club,6.2
+C00321,Kipchoge Kinyua,18-25,Occasional,Bronze,Githurai 45,2.3
+C00322,Kipchoge Muthoni,18-25,New,Silver,Ruiru CBD,5.6
+C00323,Mumbi Nyambura,46-55,Occasional,Silver,Mwiki,1.4
+C00324,Simiyu Muthoni,36-45,Regular,Gold,Ruiru Sports Club,5.7
+C00325,Akinyi Ochieng,36-45,Occasional,Bronze,Kahawa Wendani,2.3
+C00326,Mutiso Mumbi,26-35,Premium,Gold,Ruiru Town Center,4.8
+C00327,Mumbi Akinyi,26-35,Occasional,Gold,Kahawa Wendani,1.8
+C00328,Ochieng Wambui,36-45,New,Bronze,Kimbo,5.9
+C00329,Nyambura Omondi,26-35,New,Bronze,Githurai Kimbo,1.0
+C00330,Mutiso Wairimu,56+,Occasional,Gold,Kihara,1.7
+C00331,Nyambura Wambui,56+,Occasional,Bronze,Kihara,1.9
+C00332,Were Kinyua,36-45,Occasional,Silver,Kahawa Sukari,0.8
+C00333,Were Kamau,36-45,New,Bronze,Githurai 44,6.1
+C00334,Mumbi Wambui,26-35,Regular,Gold,Githurai 44,7.9
+C00335,Wambui Hassan,36-45,Occasional,Silver,Githurai Kimbo,6.3
+C00336,Otieno Juma,26-35,Regular,Silver,Githurai Kimbo,7.0
+C00337,Muthoni Simiyu,18-25,Occasional,Silver,Githurai Kimbo,0.5
+C00338,Mwangi Wambui,18-25,Regular,Bronze,Mwiki,1.4
+C00339,Ochieng Kariuki,36-45,Regular,Silver,Mwiki,4.7
+C00340,Akinyi Adhiambo,18-25,Occasional,Bronze,Kahawa Wendani,7.8
+C00341,Kiplagat Muthoni,18-25,Regular,Bronze,Kimbo,5.5
+C00342,Kariuki Abdullah,36-45,Occasional,Gold,Mwiki,3.3
+C00343,Adhiambo Omondi,56+,Regular,Bronze,Githurai 44,1.6
+C00344,Were Kipchoge,26-35,Occasional,Gold,Ruiru Town Center,1.6
+C00345,Muthoni Adhiambo,36-45,Regular,Bronze,Ruiru CBD,3.2
+C00346,Achieng Wambui,46-55,Regular,Silver,Ruiru CBD,5.9
+C00347,Abdullah Wanjiku,26-35,New,Silver,Ruiru CBD,0.7
+C00348,Kiplagat Okoth,18-25,New,Bronze,Kihara,6.9
+C00349,Mutiso Kiplagat,26-35,Occasional,Bronze,Kahawa Wendani,7.6
+C00350,Muthoni Mumbi,36-45,Regular,Bronze,Kimbo,7.2
+C00351,Were Wanjala,46-55,Regular,Gold,Green Valley,7.3
+C00352,Kipchoge Omondi,56+,Regular,Platinum,Ruiru Town Center,0.6
+C00353,Kipchoge Omondi,18-25,Regular,Gold,Kahawa Sukari,7.8
+C00354,Kariuki Maina,46-55,Regular,Gold,Githurai 44,3.2
+C00355,Omondi Simiyu,56+,Regular,Gold,Githurai Kimbo,7.0
+C00356,Njeri Mumbi,26-35,New,Silver,Kihara,1.9
+C00357,Chebet Chebet,26-35,Occasional,Gold,Kihara,3.8
+C00358,Abdullah Maina,18-25,Regular,Bronze,Mwiki,0.8
+C00359,Akinyi Chebet,36-45,Occasional,Silver,Ruiru CBD,0.8
+C00360,Ochieng Were,18-25,Regular,Silver,Kimbo,7.6
+C00361,Okoth Wairimu,36-45,Occasional,Bronze,Ruiru Sports Club,6.6
+C00362,Mutiso Were,56+,Regular,Silver,Kihara,4.5
+C00363,Njeri Ochieng,36-45,Regular,Bronze,Kahawa Sukari,4.4
+C00364,Mumbi Hassan,18-25,Regular,Bronze,Kahawa Wendani,6.1
+C00365,Akinyi Kipchoge,18-25,Regular,Bronze,Ruiru CBD,3.1
+C00366,Simiyu Wanjiku,18-25,New,Gold,Ruiru CBD,6.2
+C00367,Akinyi Mwangi,46-55,Regular,Bronze,Githurai 44,4.1
+C00368,Ochieng Omondi,56+,Occasional,Bronze,Githurai 45,5.3
+C00369,Wairimu Mutiso,18-25,New,Silver,Kahawa Sukari,7.7
+C00370,Kariuki Ochieng,26-35,Occasional,Bronze,Ndenderu,4.0
+C00371,Njoroge Kariuki,46-55,New,Bronze,Kimbo,3.6
+C00372,Mumbi Were,26-35,Regular,Silver,Githurai Kimbo,7.3
+C00373,Simiyu Njoroge,18-25,Regular,Platinum,Ruiru Town Center,7.3
+C00374,Kariuki Kiplagat,56+,Regular,Bronze,Kahawa Wendani,7.9
+C00375,Wanjala Ochieng,36-45,Regular,Gold,Kimbo,4.6
+C00376,Wambui Otieno,46-55,Regular,Bronze,Githurai 45,3.1
+C00377,Omondi Mutiso,26-35,Occasional,Silver,Ruiru CBD,2.3
+C00378,Chebet Wambui,46-55,Regular,Bronze,Ruiru CBD,0.8
+C00379,Mutiso Kiplagat,26-35,New,Bronze,Ruiru CBD,6.0
+C00380,Mwangi Otieno,36-45,New,Bronze,Githurai 45,2.3
+C00381,Simiyu Mumbi,56+,Occasional,Bronze,Githurai Kimbo,5.0
+C00382,Kariuki Nyambura,36-45,Premium,Bronze,Green Valley,7.4
+C00383,Simiyu Kamau,56+,Regular,Silver,Githurai Kimbo,7.6
+C00384,Mutiso Nyambura,56+,Premium,Platinum,Ruiru Town Center,0.5
+C00385,Kipchoge Simiyu,36-45,Regular,Bronze,Githurai 44,2.9
+C00386,Kariuki Otieno,26-35,Occasional,Silver,Ruiru CBD,6.8
+C00387,Akinyi Njoroge,56+,Occasional,Gold,Kimbo,4.5
+C00388,Chebet Juma,36-45,Regular,Gold,Ruiru CBD,6.6
+C00389,Kipchoge Njoroge,18-25,Occasional,Gold,Kimbo,6.9
+C00390,Simiyu Chebet,26-35,Occasional,Silver,Githurai Kimbo,3.8
+C00391,Njoroge Akinyi,56+,Regular,Silver,Ruiru Sports Club,3.2
+C00392,Wambui Kinyua,36-45,Occasional,Silver,Ruiru Town Center,3.9
+C00393,Muthoni Abdullah,18-25,Occasional,Bronze,Ndenderu,5.4
+C00394,Adhiambo Wairimu,46-55,Regular,Silver,Githurai 44,3.3
+C00395,Kamau Chebet,56+,Occasional,Gold,Githurai 44,6.3
+C00396,Omondi Njeri,18-25,Occasional,Bronze,Githurai 45,7.3
+C00397,Achieng Okoth,46-55,Regular,Silver,Ruiru Sports Club,2.6
+C00398,Wanjiku Mwangi,18-25,Regular,Silver,Githurai Kimbo,7.7
+C00399,Achieng Abdullah,56+,Occasional,Bronze,Ruiru CBD,5.2
+C00400,Wambui Nyambura,46-55,Regular,Bronze,Kahawa Wendani,7.1
+C00401,Simiyu Abdullah,18-25,Occasional,Silver,Green Valley,1.3
+C00402,Akinyi Njoroge,36-45,Regular,Platinum,Ruiru Town Center,2.4
+C00403,Mumbi Hassan,18-25,Regular,Gold,Githurai Kimbo,2.9
+C00404,Muthoni Kipchoge,26-35,Occasional,Gold,Ndenderu,2.8
+C00405,Maina Mutiso,36-45,Occasional,Silver,Ruiru CBD,1.8
+C00406,Abdullah Chebet,36-45,Occasional,Bronze,Githurai 45,7.0
+C00407,Mwangi Wanjiku,36-45,Regular,Gold,Kihara,3.6
+C00408,Mutiso Mumbi,36-45,Regular,Gold,Kahawa Sukari,7.7
+C00409,Kamau Were,36-45,Regular,Silver,Githurai Kimbo,4.9
+C00410,Adhiambo Maina,18-25,Regular,Bronze,Mwiki,1.5
+C00411,Kinyua Maina,56+,New,Gold,Kihara,4.6
+C00412,Wanjiku Omondi,26-35,Regular,Bronze,Mwiki,8.0
+C00413,Kamau Mwangi,26-35,Occasional,Gold,Mwiki,4.7
+C00414,Adhiambo Ochieng,56+,New,Silver,Ruiru CBD,0.5
+C00415,Muthoni Abdullah,18-25,Occasional,Gold,Kihara,7.5
+C00416,Kamau Mwangi,46-55,Occasional,Bronze,Ruiru CBD,2.3
+C00417,Njeri Kiplagat,56+,Occasional,Bronze,Ruiru CBD,5.7
+C00418,Muthoni Akinyi,18-25,Occasional,Bronze,Githurai 45,4.4
+C00419,Nyambura Otieno,26-35,Occasional,Gold,Githurai 45,2.9
+C00420,Chebet Njeri,36-45,New,Silver,Kimbo,2.6
+C00421,Wairimu Ochieng,18-25,Regular,Platinum,Green Valley,7.5
+C00422,Wanjiku Okoth,26-35,Regular,Bronze,Kahawa Sukari,7.3
+C00423,Achieng Ochieng,26-35,Occasional,Bronze,Kihara,4.3
+C00424,Mumbi Wairimu,36-45,Regular,Bronze,Green Valley,2.4
+C00425,Mumbi Njoroge,18-25,New,Gold,Kahawa Sukari,1.3
+C00426,Mwangi Kipchoge,26-35,Regular,Gold,Githurai Kimbo,1.7
+C00427,Kamau Omondi,56+,Occasional,Bronze,Kahawa Wendani,4.4
+C00428,Abdullah Kamau,26-35,Occasional,Bronze,Ruiru CBD,2.8
+C00429,Wambui Wanjala,26-35,Premium,Gold,Ruiru Town Center,0.8
+C00430,Ochieng Kiplagat,36-45,Occasional,Bronze,Ndenderu,3.9
+C00431,Akinyi Wairimu,18-25,New,Silver,Ndenderu,6.1
+C00432,Adhiambo Njeri,36-45,Regular,Bronze,Ndenderu,7.2
+C00433,Otieno Maina,26-35,Occasional,Bronze,Githurai 45,4.9
+C00434,Abdullah Omondi,18-25,Occasional,Silver,Githurai Kimbo,5.9
+C00435,Hassan Simiyu,18-25,Regular,Bronze,Ruiru CBD,3.2
+C00436,Ochieng Kiplagat,46-55,Regular,Bronze,Githurai 44,4.2
+C00437,Kipchoge Maina,56+,Regular,Silver,Ruiru Sports Club,6.0
+C00438,Simiyu Akinyi,26-35,Occasional,Silver,Mwiki,6.0
+C00439,Kinyua Wambui,56+,New,Gold,Githurai Kimbo,3.7
+C00440,Simiyu Juma,18-25,Regular,Gold,Kahawa Wendani,4.6
+C00441,Wanjala Chebet,36-45,Regular,Gold,Ndenderu,7.4
+C00442,Njoroge Okoth,18-25,Occasional,Bronze,Ruiru CBD,5.2
+C00443,Kinyua Achieng,18-25,Regular,Bronze,Githurai Kimbo,5.3
+C00444,Mutiso Juma,36-45,New,Bronze,Kimbo,6.4
+C00445,Juma Njeri,46-55,Occasional,Silver,Kihara,1.4
+C00446,Omondi Akinyi,56+,Premium,Platinum,Ruiru Sports Club,4.4
+C00447,Kinyua Abdullah,36-45,Occasional,Bronze,Kimbo,7.7
+C00448,Njeri Njoroge,56+,Regular,Gold,Green Valley,3.2
+C00449,Achieng Okoth,18-25,Occasional,Bronze,Githurai 45,2.7
+C00450,Adhiambo Wambui,56+,Occasional,Silver,Kahawa Wendani,5.0
+C00451,Were Juma,18-25,Occasional,Bronze,Githurai 44,2.2
+C00452,Otieno Juma,26-35,Occasional,Bronze,Ruiru CBD,4.7
+C00453,Maina Kinyua,18-25,Regular,Bronze,Kahawa Sukari,1.7
+C00454,Chebet Wanjala,36-45,Regular,Silver,Ruiru Town Center,4.8
+C00455,Muthoni Otieno,26-35,Occasional,Bronze,Githurai Kimbo,5.0
+C00456,Wambui Kiplagat,56+,Occasional,Bronze,Githurai 44,3.6
+C00457,Kinyua Kariuki,56+,Regular,Bronze,Githurai 45,3.4
+C00458,Simiyu Kinyua,36-45,Regular,Bronze,Githurai 45,2.3
+C00459,Ochieng Mwangi,18-25,Occasional,Bronze,Kimbo,3.0
+C00460,Otieno Ochieng,46-55,Regular,Gold,Ndenderu,4.2
+C00461,Okoth Hassan,56+,Regular,Platinum,Ruiru Town Center,2.4
+C00462,Mutiso Akinyi,46-55,Regular,Bronze,Githurai 45,6.4
+C00463,Mwangi Omondi,46-55,Regular,Bronze,Kimbo,5.8
+C00464,Juma Maina,18-25,Occasional,Bronze,Kahawa Sukari,2.5
+C00465,Chebet Muthoni,18-25,New,Silver,Ruiru CBD,1.2
+C00466,Juma Muthoni,56+,Occasional,Silver,Green Valley,0.5
+C00467,Wanjala Maina,36-45,Occasional,Platinum,Ruiru Town Center,5.0
+C00468,Njeri Kiplagat,36-45,Occasional,Bronze,Kahawa Sukari,2.1
+C00469,Wambui Chebet,46-55,Regular,Gold,Mwiki,0.6
+C00470,Omondi Juma,56+,Regular,Platinum,Ruiru Sports Club,3.2
+C00471,Njeri Kiplagat,46-55,Occasional,Platinum,Ruiru Sports Club,7.7
+C00472,Ochieng Juma,26-35,Occasional,Gold,Ruiru CBD,5.7
+C00473,Akinyi Hassan,18-25,Occasional,Silver,Ruiru CBD,6.9
+C00474,Kiplagat Kariuki,56+,Occasional,Platinum,Ruiru Town Center,1.6
+C00475,Maina Otieno,36-45,Occasional,Bronze,Ruiru CBD,1.0
+C00476,Wanjala Njoroge,46-55,New,Bronze,Kahawa Sukari,0.6
+C00477,Simiyu Wanjiku,46-55,Occasional,Silver,Githurai 45,7.7
+C00478,Wambui Simiyu,26-35,Regular,Silver,Kahawa Sukari,2.8
+C00479,Achieng Maina,46-55,Regular,Silver,Githurai Kimbo,3.9
+C00480,Kiplagat Kipchoge,26-35,Premium,Silver,Ruiru Town Center,3.5
+C00481,Nyambura Akinyi,46-55,New,Bronze,Mwiki,6.0
+C00482,Abdullah Hassan,26-35,New,Bronze,Kimbo,2.8
+C00483,Adhiambo Mutiso,18-25,New,Silver,Mwiki,4.5
+C00484,Akinyi Akinyi,46-55,Regular,Platinum,Ruiru Sports Club,8.0
+C00485,Adhiambo Kinyua,36-45,New,Bronze,Ndenderu,3.8
+C00486,Chebet Wanjala,46-55,Occasional,Silver,Ndenderu,4.6
+C00487,Maina Hassan,46-55,Occasional,Silver,Ruiru Town Center,4.3
+C00488,Muthoni Simiyu,26-35,Occasional,Bronze,Githurai Kimbo,6.5
+C00489,Otieno Okoth,36-45,Premium,Gold,Ruiru Sports Club,2.5
+C00490,Were Mumbi,36-45,Occasional,Silver,Kahawa Wendani,1.8
+C00491,Mutiso Kiplagat,26-35,Regular,Silver,Kahawa Wendani,6.2
+C00492,Juma Wairimu,26-35,Occasional,Silver,Ndenderu,3.6
+C00493,Njoroge Adhiambo,46-55,Regular,Bronze,Ruiru CBD,7.4
+C00494,Otieno Wairimu,36-45,Regular,Silver,Githurai Kimbo,5.3
+C00495,Juma Kipchoge,18-25,New,Bronze,Githurai 44,4.7
+C00496,Mwangi Otieno,26-35,Regular,Bronze,Kahawa Sukari,1.0
+C00497,Maina Okoth,18-25,Regular,Gold,Green Valley,6.0
+C00498,Mwangi Kiplagat,46-55,Regular,Silver,Ruiru Sports Club,5.6
+C00499,Achieng Juma,26-35,Regular,Bronze,Ruiru CBD,5.3
+C00500,Njeri Hassan,18-25,Regular,Silver,Ruiru Town Center,2.5
+C00501,Omondi Okoth,26-35,Occasional,Silver,Kahawa Sukari,7.6
+C00502,Otieno Njeri,46-55,Occasional,Silver,Kihara,2.9
+C00503,Achieng Achieng,56+,Occasional,Bronze,Githurai Kimbo,1.6
+C00504,Chebet Kariuki,46-55,Occasional,Bronze,Kimbo,7.9
+C00505,Omondi Abdullah,46-55,Occasional,Bronze,Ndenderu,6.1
+C00506,Otieno Adhiambo,26-35,Regular,Gold,Green Valley,3.6
+C00507,Akinyi Nyambura,36-45,Occasional,Bronze,Kahawa Wendani,7.5
+C00508,Ochieng Kiplagat,18-25,Premium,Silver,Green Valley,1.2
+C00509,Nyambura Ochieng,36-45,Regular,Gold,Green Valley,1.2
+C00510,Kamau Omondi,18-25,Regular,Silver,Kahawa Sukari,5.6
+C00511,Wairimu Hassan,46-55,Occasional,Gold,Mwiki,1.8
+C00512,Muthoni Okoth,26-35,Regular,Silver,Kahawa Wendani,7.4
+C00513,Adhiambo Maina,26-35,Premium,Platinum,Ruiru Town Center,6.8
+C00514,Mutiso Kariuki,26-35,Regular,Silver,Kimbo,2.8
+C00515,Wanjiku Ochieng,36-45,Regular,Bronze,Kimbo,7.2
+C00516,Otieno Wambui,36-45,Regular,Bronze,Kahawa Wendani,0.8
+C00517,Kipchoge Njeri,56+,Occasional,Bronze,Kahawa Wendani,4.6
+C00518,Muthoni Kinyua,36-45,Occasional,Silver,Kahawa Sukari,7.5
+C00519,Achieng Kiplagat,26-35,New,Silver,Ndenderu,6.9
+C00520,Chebet Kinyua,26-35,Occasional,Bronze,Kahawa Wendani,3.2
+C00521,Njoroge Kinyua,56+,Occasional,Silver,Mwiki,1.9
+C00522,Kipchoge Hassan,26-35,New,Silver,Kimbo,2.1
+C00523,Maina Kipchoge,18-25,Premium,Gold,Green Valley,4.4
+C00524,Kiplagat Muthoni,36-45,Occasional,Silver,Githurai Kimbo,5.0
+C00525,Kamau Were,36-45,Regular,Gold,Kihara,0.7
+C00526,Wambui Kinyua,46-55,Regular,Bronze,Githurai Kimbo,3.6
+C00527,Adhiambo Adhiambo,46-55,New,Silver,Ruiru CBD,6.7
+C00528,Mwangi Were,36-45,Occasional,Silver,Kihara,3.8
+C00529,Mumbi Nyambura,36-45,Occasional,Bronze,Kimbo,1.8
+C00530,Mumbi Abdullah,18-25,New,Gold,Githurai Kimbo,7.7
+C00531,Kariuki Achieng,56+,Occasional,Gold,Green Valley,2.5
+C00532,Were Omondi,36-45,Regular,Bronze,Ruiru Town Center,6.5
+C00533,Njoroge Nyambura,18-25,New,Bronze,Githurai 45,2.0
+C00534,Kinyua Kipchoge,46-55,New,Silver,Ruiru CBD,3.7
+C00535,Akinyi Otieno,36-45,Regular,Silver,Githurai 44,4.2
+C00536,Muthoni Adhiambo,18-25,Regular,Bronze,Githurai Kimbo,4.3
+C00537,Kiplagat Muthoni,56+,Regular,Silver,Ruiru Town Center,4.4
+C00538,Mumbi Mumbi,18-25,Occasional,Bronze,Kahawa Wendani,2.2
+C00539,Chebet Juma,36-45,Premium,Gold,Green Valley,4.4
+C00540,Otieno Otieno,56+,Occasional,Gold,Ruiru Town Center,4.1
+C00541,Wairimu Wanjiku,56+,Regular,Bronze,Green Valley,2.1
+C00542,Ochieng Njoroge,26-35,Occasional,Bronze,Mwiki,7.9
+C00543,Kiplagat Chebet,36-45,Regular,Bronze,Githurai 44,7.0
+C00544,Wanjiku Adhiambo,56+,Occasional,Bronze,Kimbo,7.2
+C00545,Wanjala Maina,56+,Regular,Gold,Kihara,5.6
+C00546,Njeri Chebet,46-55,New,Gold,Githurai Kimbo,1.7
+C00547,Kinyua Njoroge,46-55,New,Gold,Githurai 44,4.8
+C00548,Mumbi Hassan,46-55,Regular,Bronze,Githurai 44,6.7
+C00549,Mutiso Mutiso,46-55,Regular,Bronze,Mwiki,0.8
+C00550,Wairimu Were,46-55,Regular,Gold,Kimbo,4.2
+C00551,Muthoni Wambui,46-55,Regular,Bronze,Kahawa Wendani,3.5
+C00552,Njoroge Njeri,36-45,Regular,Bronze,Githurai 45,2.1
+C00553,Wairimu Kariuki,46-55,Occasional,Silver,Kahawa Wendani,3.3
+C00554,Njeri Kinyua,56+,Occasional,Bronze,Ruiru CBD,7.9
+C00555,Kariuki Kinyua,36-45,Regular,Silver,Green Valley,5.9
+C00556,Okoth Wambui,26-35,Occasional,Bronze,Kimbo,2.7
+C00557,Kiplagat Njeri,36-45,Regular,Bronze,Kahawa Sukari,5.0
+C00558,Ochieng Okoth,26-35,Regular,Bronze,Ruiru CBD,2.3
+C00559,Were Wanjala,26-35,New,Bronze,Githurai 44,5.1
+C00560,Kamau Hassan,46-55,Regular,Gold,Ndenderu,7.2
+C00561,Wanjiku Omondi,26-35,New,Bronze,Githurai Kimbo,4.7
+C00562,Were Kariuki,46-55,Regular,Silver,Green Valley,6.0
+C00563,Kiplagat Maina,46-55,Regular,Silver,Green Valley,3.9
+C00564,Chebet Achieng,18-25,Occasional,Gold,Ndenderu,4.4
+C00565,Omondi Kiplagat,46-55,Occasional,Gold,Kahawa Sukari,5.7
+C00566,Were Akinyi,36-45,New,Silver,Kahawa Wendani,6.6
+C00567,Simiyu Wambui,18-25,Occasional,Bronze,Green Valley,5.4
+C00568,Okoth Kipchoge,36-45,Occasional,Silver,Kahawa Wendani,7.8
+C00569,Adhiambo Njeri,36-45,Regular,Bronze,Githurai 44,6.6
+C00570,Mutiso Kinyua,56+,Occasional,Bronze,Ruiru CBD,6.3
+C00571,Kiplagat Ochieng,46-55,Premium,Silver,Ruiru Town Center,6.8
+C00572,Ochieng Adhiambo,18-25,New,Gold,Kimbo,2.6
+C00573,Adhiambo Otieno,46-55,Regular,Silver,Mwiki,3.7
+C00574,Kamau Otieno,46-55,Regular,Gold,Githurai Kimbo,4.7
+C00575,Mwangi Wairimu,36-45,Occasional,Bronze,Ndenderu,4.0
+C00576,Wambui Muthoni,56+,Regular,Bronze,Githurai Kimbo,6.9
+C00577,Ochieng Nyambura,56+,Regular,Bronze,Githurai Kimbo,0.7
+C00578,Kamau Mwangi,46-55,Regular,Bronze,Mwiki,2.1
+C00579,Kipchoge Mumbi,46-55,Premium,Gold,Ruiru Town Center,7.1
+C00580,Nyambura Simiyu,56+,New,Gold,Kahawa Sukari,0.9
+C00581,Akinyi Were,56+,Occasional,Silver,Kihara,2.2
+C00582,Adhiambo Simiyu,56+,Occasional,Bronze,Ndenderu,3.1
+C00583,Kinyua Okoth,46-55,Occasional,Silver,Ndenderu,6.1
+C00584,Were Nyambura,36-45,Regular,Bronze,Ndenderu,4.7
+C00585,Adhiambo Kinyua,36-45,New,Bronze,Kahawa Sukari,7.7
+C00586,Wairimu Muthoni,18-25,Regular,Bronze,Kihara,2.2
+C00587,Ochieng Muthoni,26-35,Premium,Gold,Green Valley,7.0
+C00588,Akinyi Mwangi,26-35,Regular,Bronze,Kahawa Wendani,2.6
+C00589,Nyambura Mumbi,36-45,Occasional,Platinum,Ruiru Sports Club,2.3
+C00590,Abdullah Ochieng,18-25,Regular,Gold,Green Valley,4.2
+C00591,Otieno Chebet,18-25,Occasional,Bronze,Kahawa Sukari,1.0
+C00592,Hassan Okoth,18-25,New,Gold,Githurai Kimbo,3.4
+C00593,Kiplagat Njoroge,26-35,Occasional,Gold,Kihara,3.2
+C00594,Otieno Njeri,36-45,Regular,Bronze,Githurai 45,1.7
+C00595,Njeri Mwangi,36-45,Occasional,Bronze,Githurai 44,7.0
+C00596,Akinyi Njoroge,36-45,Premium,Silver,Ruiru Town Center,3.4
+C00597,Nyambura Kamau,56+,Occasional,Bronze,Kahawa Wendani,7.9
+C00598,Kariuki Omondi,18-25,New,Bronze,Mwiki,7.2
+C00599,Were Otieno,36-45,Occasional,Bronze,Kahawa Sukari,2.0
+C00600,Otieno Chebet,18-25,Regular,Bronze,Kihara,4.3
+C00601,Njoroge Njoroge,46-55,Regular,Bronze,Kihara,5.0
+C00602,Njoroge Wambui,36-45,New,Gold,Mwiki,6.6
+C00603,Were Njeri,26-35,Premium,Gold,Ruiru Sports Club,7.1
+C00604,Kinyua Maina,26-35,New,Silver,Kahawa Sukari,5.2
+C00605,Maina Mutiso,26-35,Occasional,Bronze,Githurai 45,0.8
+C00606,Simiyu Kamau,46-55,Regular,Silver,Ruiru Sports Club,4.1
+C00607,Mumbi Wanjiku,36-45,New,Bronze,Githurai Kimbo,7.1
+C00608,Kipchoge Ochieng,36-45,New,Silver,Kimbo,5.9
+C00609,Omondi Omondi,26-35,Regular,Bronze,Githurai 44,7.0
+C00610,Kiplagat Maina,56+,New,Silver,Ruiru CBD,5.6
+C00611,Adhiambo Maina,36-45,Occasional,Bronze,Kihara,0.8
+C00612,Wairimu Njoroge,56+,Occasional,Silver,Githurai 45,7.8
+C00613,Kariuki Njoroge,56+,Premium,Platinum,Green Valley,7.4
+C00614,Wambui Kamau,26-35,Regular,Bronze,Kahawa Sukari,1.4
+C00615,Kipchoge Juma,18-25,Occasional,Gold,Githurai 45,1.3
+C00616,Njeri Chebet,26-35,Occasional,Silver,Mwiki,4.5
+C00617,Mutiso Njoroge,18-25,Regular,Bronze,Ruiru Sports Club,6.2
+C00618,Mumbi Ochieng,56+,Regular,Silver,Green Valley,3.4
+C00619,Kamau Okoth,18-25,Regular,Bronze,Kahawa Wendani,1.5
+C00620,Akinyi Juma,18-25,Regular,Bronze,Githurai 44,4.3
+C00621,Kamau Achieng,36-45,New,Bronze,Kahawa Wendani,3.0
+C00622,Mwangi Maina,46-55,Regular,Bronze,Githurai 45,3.1
+C00623,Adhiambo Nyambura,26-35,Regular,Bronze,Kimbo,5.3
+C00624,Omondi Akinyi,18-25,Occasional,Bronze,Mwiki,7.1
+C00625,Muthoni Simiyu,46-55,New,Silver,Githurai 44,4.7
+C00626,Juma Mumbi,56+,Regular,Silver,Kihara,5.7
+C00627,Akinyi Juma,56+,New,Bronze,Kahawa Wendani,5.4
+C00628,Abdullah Kiplagat,56+,Occasional,Bronze,Githurai 44,4.6
+C00629,Akinyi Akinyi,18-25,Premium,Bronze,Green Valley,2.8
+C00630,Njeri Wanjala,18-25,Occasional,Bronze,Ndenderu,3.3
+C00631,Kinyua Juma,46-55,New,Bronze,Kahawa Wendani,2.9
+C00632,Njoroge Hassan,56+,Occasional,Gold,Githurai Kimbo,7.4
+C00633,Njeri Njeri,56+,Occasional,Silver,Kimbo,6.7
+C00634,Adhiambo Ochieng,36-45,Regular,Silver,Ruiru Sports Club,4.8
+C00635,Chebet Wanjiku,46-55,Regular,Gold,Ruiru Sports Club,7.3
+C00636,Kiplagat Mumbi,46-55,Regular,Bronze,Githurai Kimbo,7.1
+C00637,Juma Abdullah,18-25,Occasional,Silver,Ruiru CBD,7.5
+C00638,Njeri Kinyua,36-45,Regular,Gold,Ndenderu,2.2
+C00639,Njeri Hassan,18-25,Regular,Silver,Githurai Kimbo,5.9
+C00640,Achieng Kariuki,46-55,Occasional,Bronze,Githurai 44,5.1
+C00641,Wanjala Kinyua,56+,Occasional,Silver,Githurai 45,6.0
+C00642,Simiyu Mutiso,56+,New,Bronze,Kihara,2.5
+C00643,Okoth Otieno,36-45,Regular,Bronze,Githurai 44,5.7
+C00644,Juma Juma,56+,Regular,Bronze,Ruiru CBD,3.6
+C00645,Mutiso Simiyu,56+,Regular,Silver,Ruiru Sports Club,6.8
+C00646,Omondi Akinyi,46-55,Regular,Silver,Githurai Kimbo,6.5
+C00647,Akinyi Abdullah,26-35,Regular,Silver,Kahawa Wendani,2.1
+C00648,Hassan Kamau,46-55,Occasional,Bronze,Ruiru CBD,1.9
+C00649,Wanjala Mwangi,56+,Regular,Bronze,Githurai 44,5.9
+C00650,Wanjala Otieno,18-25,Regular,Bronze,Ruiru Sports Club,4.6
+C00651,Wanjiku Wambui,18-25,Occasional,Gold,Githurai 44,4.7
+C00652,Adhiambo Omondi,46-55,Regular,Silver,Kahawa Sukari,6.1
+C00653,Mumbi Nyambura,36-45,Occasional,Bronze,Kahawa Sukari,6.9
+C00654,Kipchoge Were,26-35,Premium,Gold,Ruiru Town Center,2.3
+C00655,Kariuki Adhiambo,18-25,Occasional,Bronze,Kimbo,4.7
+C00656,Abdullah Kinyua,46-55,Regular,Gold,Mwiki,6.7
+C00657,Kinyua Njoroge,56+,Regular,Bronze,Kahawa Wendani,7.0
+C00658,Mumbi Okoth,46-55,Regular,Bronze,Githurai Kimbo,2.7
+C00659,Kariuki Wairimu,18-25,New,Gold,Githurai 45,1.3
+C00660,Chebet Mutiso,46-55,Regular,Bronze,Githurai 44,2.2
+C00661,Okoth Were,36-45,Occasional,Bronze,Ruiru CBD,7.6
+C00662,Hassan Njeri,56+,Occasional,Bronze,Mwiki,4.0
+C00663,Otieno Ochieng,36-45,Occasional,Platinum,Ruiru Sports Club,3.6
+C00664,Kinyua Abdullah,18-25,New,Bronze,Ruiru CBD,0.6
+C00665,Wambui Kamau,26-35,Occasional,Bronze,Mwiki,0.9
+C00666,Kariuki Mutiso,56+,Premium,Gold,Ruiru Sports Club,5.5
+C00667,Juma Maina,26-35,Occasional,Bronze,Githurai Kimbo,4.9
+C00668,Juma Omondi,18-25,Regular,Bronze,Kimbo,4.8
+C00669,Nyambura Ochieng,36-45,New,Bronze,Kimbo,1.3
+C00670,Hassan Achieng,56+,Regular,Gold,Kihara,3.1
+C00671,Nyambura Mwangi,36-45,Regular,Bronze,Githurai Kimbo,6.6
+C00672,Muthoni Simiyu,46-55,Occasional,Bronze,Kimbo,1.8
+C00673,Kamau Mutiso,56+,Regular,Bronze,Githurai Kimbo,7.1
+C00674,Wairimu Mutiso,18-25,Occasional,Bronze,Githurai 44,1.4
+C00675,Mumbi Okoth,26-35,Regular,Silver,Githurai 45,1.8
+C00676,Kiplagat Were,56+,Occasional,Bronze,Kahawa Wendani,4.1
+C00677,Mwangi Mwangi,56+,Regular,Gold,Ruiru Town Center,7.6
+C00678,Wairimu Wanjala,36-45,Regular,Bronze,Kihara,3.0
+C00679,Kamau Okoth,56+,Premium,Gold,Ruiru Town Center,5.4
+C00680,Simiyu Mwangi,56+,Regular,Platinum,Ruiru Town Center,4.9
+C00681,Ochieng Were,46-55,Occasional,Gold,Ruiru Sports Club,1.6
+C00682,Otieno Wambui,46-55,Occasional,Bronze,Ruiru CBD,2.4
+C00683,Kiplagat Njeri,36-45,Regular,Silver,Green Valley,7.5
+C00684,Akinyi Simiyu,26-35,Regular,Silver,Ruiru CBD,1.9
+C00685,Mumbi Njeri,56+,Occasional,Gold,Kahawa Sukari,5.7
+C00686,Kariuki Okoth,18-25,Regular,Gold,Githurai Kimbo,7.7
+C00687,Juma Chebet,18-25,Regular,Platinum,Ruiru Sports Club,1.4
+C00688,Wanjiku Omondi,46-55,Occasional,Bronze,Ruiru Sports Club,3.5
+C00689,Ochieng Wanjiku,18-25,Regular,Bronze,Kihara,2.2
+C00690,Wambui Wanjala,26-35,Occasional,Silver,Ruiru CBD,2.2
+C00691,Hassan Wanjala,36-45,Regular,Bronze,Githurai 44,1.4
+C00692,Njeri Muthoni,46-55,Regular,Silver,Kihara,5.4
+C00693,Kariuki Akinyi,56+,New,Gold,Githurai 45,6.1
+C00694,Ochieng Mutiso,26-35,Regular,Bronze,Kimbo,5.6
+C00695,Okoth Abdullah,26-35,Regular,Bronze,Githurai 44,7.4
+C00696,Juma Wanjiku,26-35,Occasional,Silver,Githurai 44,1.6
+C00697,Abdullah Akinyi,56+,Regular,Gold,Kahawa Wendani,2.9
+C00698,Omondi Were,36-45,Regular,Bronze,Githurai 45,3.1
+C00699,Wanjiku Kiplagat,26-35,Occasional,Silver,Kahawa Wendani,2.2
+C00700,Wairimu Kinyua,56+,Occasional,Bronze,Ruiru CBD,1.6
+C00701,Chebet Achieng,46-55,Regular,Silver,Kahawa Sukari,4.2
+C00702,Muthoni Njeri,18-25,Occasional,Bronze,Ruiru Town Center,6.8
+C00703,Mwangi Wambui,56+,Regular,Gold,Ruiru Sports Club,7.7
+C00704,Juma Wambui,18-25,Occasional,Bronze,Kimbo,1.5
+C00705,Maina Wambui,18-25,Regular,Bronze,Kihara,6.7
+C00706,Okoth Akinyi,56+,Regular,Silver,Kahawa Wendani,6.7
+C00707,Juma Mwangi,56+,Occasional,Bronze,Githurai 45,3.4
+C00708,Mwangi Adhiambo,36-45,Regular,Bronze,Kihara,1.3
+C00709,Omondi Were,36-45,Regular,Silver,Ruiru Town Center,7.9
+C00710,Mutiso Wanjiku,46-55,Premium,Platinum,Ruiru Town Center,5.4
+C00711,Nyambura Wambui,18-25,New,Bronze,Kihara,7.9
+C00712,Chebet Mutiso,36-45,Occasional,Gold,Kimbo,4.1
+C00713,Wambui Ochieng,56+,Occasional,Silver,Githurai 45,3.5
+C00714,Kiplagat Omondi,36-45,New,Bronze,Ruiru CBD,2.4
+C00715,Otieno Otieno,18-25,Regular,Gold,Githurai Kimbo,7.9
+C00716,Omondi Mutiso,18-25,Regular,Gold,Kihara,2.4
+C00717,Abdullah Okoth,36-45,Regular,Silver,Kimbo,0.7
+C00718,Okoth Kinyua,56+,Regular,Silver,Ruiru Sports Club,4.3
+C00719,Hassan Maina,26-35,Regular,Bronze,Githurai 45,3.3
+C00720,Kinyua Hassan,56+,Occasional,Silver,Ruiru CBD,2.5
+C00721,Omondi Abdullah,56+,Regular,Silver,Kimbo,5.3
+C00722,Omondi Nyambura,56+,Occasional,Bronze,Mwiki,3.2
+C00723,Wanjiku Omondi,26-35,Occasional,Gold,Mwiki,3.5
+C00724,Mumbi Wanjala,18-25,Premium,Silver,Ruiru Sports Club,0.7
+C00725,Njeri Akinyi,46-55,Regular,Bronze,Kimbo,4.9
+C00726,Hassan Okoth,56+,Regular,Platinum,Ruiru Sports Club,1.4
+C00727,Mwangi Njoroge,36-45,New,Silver,Kahawa Wendani,2.1
+C00728,Mutiso Wambui,26-35,Regular,Bronze,Ndenderu,5.9
+C00729,Abdullah Adhiambo,56+,Regular,Silver,Githurai Kimbo,2.8
+C00730,Okoth Mwangi,46-55,Occasional,Silver,Mwiki,1.7
+C00731,Njoroge Simiyu,18-25,Regular,Bronze,Kihara,4.8
+C00732,Hassan Kinyua,26-35,Regular,Bronze,Githurai 44,2.1
+C00733,Wanjiku Njeri,56+,New,Bronze,Githurai Kimbo,2.5
+C00734,Adhiambo Were,18-25,Regular,Platinum,Ruiru Sports Club,5.2
+C00735,Were Kipchoge,56+,Regular,Bronze,Mwiki,6.0
+C00736,Hassan Kipchoge,46-55,Regular,Bronze,Green Valley,6.0
+C00737,Were Njeri,46-55,Occasional,Gold,Kahawa Sukari,4.1
+C00738,Muthoni Kariuki,56+,Occasional,Bronze,Ndenderu,3.9
+C00739,Achieng Otieno,46-55,Regular,Bronze,Kahawa Sukari,6.4
+C00740,Wambui Okoth,56+,Occasional,Bronze,Githurai 44,1.9
+C00741,Achieng Kiplagat,26-35,New,Silver,Kihara,1.6
+C00742,Ochieng Akinyi,56+,Occasional,Bronze,Kahawa Sukari,5.5
+C00743,Mumbi Kiplagat,36-45,Regular,Silver,Kahawa Wendani,3.6
+C00744,Wambui Njoroge,36-45,Occasional,Gold,Kihara,5.8
+C00745,Otieno Juma,46-55,Regular,Silver,Ndenderu,2.4
+C00746,Maina Kariuki,36-45,Regular,Bronze,Ruiru CBD,2.9
+C00747,Wanjala Ochieng,26-35,Regular,Bronze,Githurai 45,7.2
+C00748,Kiplagat Mumbi,46-55,Occasional,Bronze,Kahawa Wendani,3.7
+C00749,Kiplagat Mwangi,26-35,Regular,Bronze,Ruiru CBD,4.9
+C00750,Wanjiku Njeri,18-25,Premium,Platinum,Green Valley,1.3
+C00751,Kipchoge Mutiso,26-35,Regular,Bronze,Green Valley,1.8
+C00752,Were Ochieng,26-35,Regular,Platinum,Ruiru Town Center,0.8
+C00753,Were Njoroge,46-55,New,Bronze,Kahawa Wendani,3.7
+C00754,Otieno Adhiambo,26-35,New,Bronze,Kahawa Wendani,7.9
+C00755,Njoroge Mwangi,18-25,Occasional,Bronze,Kahawa Wendani,7.1
+C00756,Kiplagat Wambui,36-45,Occasional,Silver,Githurai 45,5.2
+C00757,Njeri Were,26-35,Regular,Gold,Kahawa Wendani,7.0
+C00758,Maina Wanjiku,56+,Occasional,Platinum,Green Valley,5.0
+C00759,Nyambura Kamau,36-45,Regular,Gold,Green Valley,3.3
+C00760,Maina Wairimu,26-35,Regular,Bronze,Green Valley,1.8
+C00761,Wairimu Juma,18-25,Occasional,Bronze,Kimbo,5.4
+C00762,Mumbi Njoroge,56+,Occasional,Bronze,Githurai Kimbo,1.9
+C00763,Hassan Kamau,18-25,Regular,Silver,Githurai Kimbo,3.6
+C00764,Kamau Kariuki,56+,New,Bronze,Githurai 44,6.7
+C00765,Wanjala Mwangi,56+,Regular,Bronze,Ndenderu,1.5
+C00766,Kinyua Mwangi,36-45,New,Silver,Githurai 44,1.5
+C00767,Simiyu Abdullah,56+,Occasional,Gold,Githurai Kimbo,2.2
+C00768,Hassan Okoth,46-55,Regular,Bronze,Kahawa Sukari,4.6
+C00769,Njoroge Wairimu,46-55,Regular,Bronze,Green Valley,2.4
+C00770,Mutiso Abdullah,46-55,Occasional,Bronze,Kimbo,4.3
+C00771,Wanjiku Njoroge,26-35,Occasional,Gold,Kahawa Wendani,2.8
+C00772,Nyambura Adhiambo,26-35,Occasional,Gold,Ruiru CBD,4.3
+C00773,Wambui Adhiambo,56+,Regular,Bronze,Mwiki,2.6
+C00774,Wairimu Okoth,36-45,Regular,Bronze,Githurai 45,7.9
+C00775,Adhiambo Kamau,36-45,Occasional,Bronze,Mwiki,4.2
+C00776,Wairimu Achieng,46-55,New,Bronze,Ndenderu,6.1
+C00777,Simiyu Were,56+,Occasional,Silver,Mwiki,5.8
+C00778,Wairimu Wambui,26-35,Regular,Gold,Ruiru Sports Club,4.2
+C00779,Mutiso Were,56+,Occasional,Silver,Kimbo,2.3
+C00780,Nyambura Muthoni,26-35,Regular,Gold,Green Valley,4.3
+C00781,Abdullah Otieno,36-45,Regular,Bronze,Kahawa Sukari,5.6
+C00782,Wanjala Kiplagat,36-45,Occasional,Silver,Ruiru Town Center,3.9
+C00783,Njoroge Wambui,56+,Regular,Platinum,Green Valley,1.1
+C00784,Mutiso Juma,36-45,Occasional,Bronze,Githurai 45,0.6
+C00785,Wanjiku Chebet,46-55,Regular,Gold,Green Valley,3.0
+C00786,Chebet Chebet,56+,Occasional,Gold,Ruiru Town Center,1.6
+C00787,Omondi Maina,18-25,Occasional,Bronze,Mwiki,7.3
+C00788,Were Achieng,36-45,Premium,Bronze,Green Valley,1.8
+C00789,Njeri Njoroge,26-35,New,Silver,Githurai 44,3.5
+C00790,Hassan Wairimu,56+,Occasional,Bronze,Kihara,5.8
+C00791,Njoroge Wanjiku,56+,Regular,Silver,Kihara,6.6
+C00792,Kamau Chebet,46-55,Regular,Gold,Ndenderu,4.1
+C00793,Njoroge Omondi,56+,Regular,Silver,Kihara,1.9
+C00794,Wanjala Mutiso,36-45,Regular,Gold,Kahawa Sukari,2.5
+C00795,Wanjiku Nyambura,36-45,Regular,Gold,Githurai Kimbo,3.6
+C00796,Abdullah Maina,46-55,Regular,Gold,Ruiru Sports Club,3.2
+C00797,Adhiambo Abdullah,46-55,Premium,Bronze,Ruiru Town Center,3.1
+C00798,Abdullah Were,46-55,Occasional,Bronze,Mwiki,1.5
+C00799,Mwangi Wanjiku,26-35,Regular,Bronze,Ndenderu,7.3
+C00800,Mumbi Kiplagat,26-35,Regular,Silver,Ruiru Town Center,0.7
+C00801,Hassan Mumbi,26-35,Regular,Bronze,Kahawa Sukari,3.8
+C00802,Were Kipchoge,26-35,Occasional,Bronze,Ruiru CBD,7.9
+C00803,Abdullah Abdullah,36-45,New,Bronze,Githurai 44,5.4
+C00804,Njeri Wairimu,36-45,Regular,Bronze,Kahawa Sukari,3.2
+C00805,Kinyua Ochieng,26-35,Occasional,Silver,Ruiru Sports Club,1.6
+C00806,Mwangi Hassan,26-35,Regular,Bronze,Githurai 44,7.7
+C00807,Adhiambo Ochieng,46-55,Regular,Platinum,Ruiru Sports Club,0.6
+C00808,Nyambura Kipchoge,46-55,Regular,Silver,Green Valley,5.6
+C00809,Hassan Hassan,18-25,Occasional,Bronze,Kahawa Wendani,7.1
+C00810,Muthoni Otieno,46-55,Regular,Gold,Kahawa Wendani,0.7
+C00811,Nyambura Maina,18-25,Regular,Bronze,Githurai 45,5.9
+C00812,Njoroge Kariuki,46-55,Regular,Gold,Ndenderu,8.0
+C00813,Kinyua Wambui,18-25,Regular,Bronze,Kahawa Sukari,5.3
+C00814,Mwangi Ochieng,26-35,Occasional,Bronze,Kahawa Wendani,3.6
+C00815,Wairimu Achieng,18-25,Regular,Gold,Green Valley,7.1
+C00816,Wambui Akinyi,46-55,Regular,Silver,Kahawa Wendani,4.7
+C00817,Hassan Wanjala,18-25,Occasional,Bronze,Githurai Kimbo,6.1
+C00818,Hassan Achieng,56+,Regular,Platinum,Ruiru Sports Club,4.9
+C00819,Mumbi Okoth,26-35,Premium,Bronze,Ruiru Town Center,0.8
+C00820,Okoth Mwangi,56+,Occasional,Silver,Githurai 45,2.1
+C00821,Juma Juma,18-25,Occasional,Bronze,Githurai Kimbo,1.1
+C00822,Ochieng Nyambura,26-35,Regular,Platinum,Green Valley,1.3
+C00823,Wanjiku Kipchoge,18-25,New,Bronze,Kimbo,0.6
+C00824,Wanjiku Omondi,46-55,Regular,Gold,Kihara,3.7
+C00825,Were Kariuki,46-55,New,Bronze,Githurai Kimbo,1.8
+C00826,Akinyi Mutiso,46-55,Occasional,Bronze,Githurai Kimbo,6.9
+C00827,Ochieng Muthoni,56+,Premium,Silver,Ruiru Sports Club,6.1
+C00828,Were Hassan,56+,New,Silver,Kahawa Wendani,4.8
+C00829,Nyambura Wanjala,18-25,Regular,Silver,Ruiru CBD,4.2
+C00830,Nyambura Achieng,26-35,New,Bronze,Kahawa Sukari,2.4
+C00831,Kipchoge Okoth,46-55,Occasional,Bronze,Ruiru CBD,4.1
+C00832,Okoth Otieno,36-45,New,Bronze,Ruiru CBD,5.3
+C00833,Maina Wanjiku,26-35,Regular,Silver,Githurai 45,6.4
+C00834,Juma Mwangi,46-55,Regular,Platinum,Ruiru Town Center,1.1
+C00835,Mumbi Nyambura,18-25,New,Gold,Kahawa Wendani,5.8
+C00836,Maina Kiplagat,26-35,Regular,Bronze,Kahawa Wendani,6.1
+C00837,Wanjala Njeri,26-35,Regular,Gold,Kahawa Wendani,4.7
+C00838,Nyambura Kipchoge,46-55,Occasional,Silver,Mwiki,2.1
+C00839,Wairimu Kariuki,56+,Regular,Bronze,Kihara,4.5
+C00840,Wanjala Omondi,46-55,Regular,Gold,Ruiru Sports Club,4.3
+C00841,Juma Maina,46-55,Regular,Bronze,Kimbo,4.1
+C00842,Chebet Wairimu,56+,New,Bronze,Ndenderu,4.0
+C00843,Wambui Were,56+,Occasional,Silver,Kahawa Wendani,1.3
+C00844,Otieno Kiplagat,26-35,Regular,Silver,Ruiru Town Center,1.9
+C00845,Wanjala Mutiso,26-35,Regular,Silver,Githurai 45,1.2
+C00846,Maina Chebet,26-35,New,Silver,Kahawa Sukari,2.3
+C00847,Adhiambo Wanjiku,56+,Regular,Bronze,Mwiki,2.5
+C00848,Wanjiku Njeri,26-35,Occasional,Silver,Mwiki,2.3
+C00849,Ochieng Otieno,36-45,Occasional,Silver,Ruiru CBD,2.1
+C00850,Wanjala Wairimu,36-45,Regular,Bronze,Kimbo,6.0
+C00851,Adhiambo Kipchoge,36-45,Occasional,Silver,Ruiru CBD,6.6
+C00852,Chebet Kipchoge,36-45,New,Bronze,Kihara,3.0
+C00853,Wanjiku Juma,18-25,Occasional,Bronze,Mwiki,2.8
+C00854,Wairimu Ochieng,56+,Occasional,Bronze,Ruiru CBD,6.8
+C00855,Mwangi Kiplagat,36-45,Regular,Gold,Kimbo,5.2
+C00856,Mwangi Abdullah,46-55,Occasional,Bronze,Githurai 45,2.7
+C00857,Akinyi Maina,26-35,Occasional,Bronze,Mwiki,5.9
+C00858,Kariuki Maina,36-45,Regular,Bronze,Kahawa Sukari,3.1
+C00859,Njoroge Were,26-35,Premium,Silver,Ruiru Sports Club,4.9
+C00860,Wambui Maina,18-25,Occasional,Silver,Githurai 45,7.9
+C00861,Wanjala Were,26-35,Occasional,Silver,Kahawa Wendani,2.8
+C00862,Mwangi Kipchoge,46-55,Regular,Bronze,Kihara,7.5
+C00863,Hassan Were,56+,New,Bronze,Kimbo,2.9
+C00864,Maina Juma,26-35,Regular,Silver,Mwiki,4.6
+C00865,Mutiso Omondi,56+,Regular,Platinum,Green Valley,3.9
+C00866,Simiyu Kipchoge,18-25,Regular,Bronze,Ruiru Sports Club,6.4
+C00867,Okoth Maina,18-25,Regular,Silver,Ndenderu,1.0
+C00868,Juma Hassan,26-35,Regular,Silver,Githurai Kimbo,5.2
+C00869,Were Ochieng,56+,Premium,Silver,Green Valley,6.2
+C00870,Maina Maina,56+,Regular,Bronze,Kahawa Sukari,4.0
+C00871,Hassan Hassan,56+,Regular,Silver,Ruiru CBD,1.3
+C00872,Njoroge Adhiambo,46-55,Regular,Silver,Green Valley,2.3
+C00873,Muthoni Chebet,46-55,Regular,Bronze,Kahawa Sukari,5.6
+C00874,Kariuki Mutiso,18-25,Regular,Gold,Ruiru Town Center,7.2
+C00875,Ochieng Wambui,18-25,Regular,Silver,Green Valley,3.7
+C00876,Mutiso Kipchoge,56+,Regular,Bronze,Mwiki,4.7
+C00877,Okoth Chebet,36-45,Regular,Bronze,Githurai Kimbo,2.2
+C00878,Maina Juma,46-55,Occasional,Silver,Kihara,3.6
+C00879,Kamau Nyambura,36-45,Occasional,Bronze,Githurai 44,3.0
+C00880,Simiyu Njoroge,26-35,Occasional,Platinum,Ruiru Town Center,5.4
+C00881,Njoroge Mumbi,18-25,New,Silver,Githurai Kimbo,7.9
+C00882,Wanjala Okoth,26-35,Occasional,Bronze,Ndenderu,6.6
+C00883,Kinyua Nyambura,56+,New,Bronze,Kimbo,1.9
+C00884,Kiplagat Abdullah,36-45,Occasional,Gold,Kahawa Sukari,4.8
+C00885,Mwangi Wanjala,26-35,Premium,Gold,Ruiru Town Center,1.0
+C00886,Kamau Wambui,18-25,Regular,Silver,Ruiru CBD,2.4
+C00887,Mumbi Juma,36-45,Occasional,Gold,Githurai 44,1.8
+C00888,Njeri Kiplagat,46-55,Occasional,Bronze,Githurai Kimbo,3.0
+C00889,Abdullah Okoth,56+,Premium,Platinum,Ruiru Sports Club,5.6
+C00890,Njeri Wairimu,26-35,Occasional,Bronze,Githurai 45,4.2
+C00891,Nyambura Simiyu,26-35,Occasional,Bronze,Githurai 44,7.5
+C00892,Adhiambo Muthoni,36-45,Occasional,Silver,Githurai 44,2.1
+C00893,Wairimu Mumbi,26-35,Regular,Silver,Ruiru Sports Club,3.2
+C00894,Nyambura Wanjiku,26-35,Occasional,Bronze,Kahawa Wendani,3.0
+C00895,Wairimu Kamau,36-45,Occasional,Gold,Mwiki,2.3
+C00896,Otieno Kamau,46-55,Regular,Silver,Githurai 45,7.9
+C00897,Juma Njeri,18-25,Regular,Bronze,Ruiru Sports Club,3.4
+C00898,Juma Nyambura,18-25,Regular,Silver,Ruiru Sports Club,7.6
+C00899,Wambui Njeri,18-25,Premium,Platinum,Ruiru Sports Club,3.4
+C00900,Kariuki Hassan,18-25,Regular,Silver,Githurai Kimbo,2.0
+C00901,Wairimu Nyambura,56+,New,Bronze,Ndenderu,1.4
+C00902,Maina Wanjiku,26-35,New,Silver,Githurai 44,6.9
+C00903,Ochieng Nyambura,26-35,Premium,Gold,Ruiru Sports Club,0.7
+C00904,Chebet Okoth,18-25,New,Gold,Kahawa Wendani,7.7
+C00905,Akinyi Wanjala,56+,Regular,Bronze,Green Valley,3.6
+C00906,Maina Adhiambo,46-55,Occasional,Silver,Kihara,2.4
+C00907,Mutiso Wanjiku,36-45,Regular,Bronze,Kihara,5.1
+C00908,Nyambura Kariuki,46-55,Occasional,Bronze,Kahawa Sukari,1.5
+C00909,Njoroge Achieng,46-55,New,Bronze,Kahawa Wendani,1.0
+C00910,Kipchoge Maina,26-35,Premium,Silver,Ruiru Sports Club,6.7
+C00911,Kinyua Njoroge,46-55,Regular,Silver,Kimbo,3.7
+C00912,Juma Wambui,56+,Occasional,Silver,Kimbo,4.4
+C00913,Hassan Wairimu,46-55,Regular,Bronze,Ndenderu,1.8
+C00914,Abdullah Wanjala,46-55,Regular,Bronze,Mwiki,1.0
+C00915,Kariuki Wambui,46-55,Regular,Bronze,Githurai 45,3.3
+C00916,Kinyua Otieno,26-35,Regular,Bronze,Kahawa Wendani,4.3
+C00917,Kipchoge Juma,18-25,Regular,Silver,Mwiki,6.2
+C00918,Chebet Mumbi,36-45,New,Silver,Ndenderu,4.3
+C00919,Hassan Were,36-45,New,Silver,Githurai 45,6.4
+C00920,Kariuki Otieno,36-45,New,Bronze,Githurai 44,1.4
+C00921,Kamau Akinyi,56+,New,Silver,Kahawa Sukari,1.0
+C00922,Wambui Omondi,46-55,Regular,Silver,Ruiru Town Center,1.7
+C00923,Were Chebet,36-45,New,Bronze,Githurai 45,6.3
+C00924,Hassan Juma,18-25,Regular,Bronze,Githurai 44,6.2
+C00925,Kariuki Mutiso,18-25,Occasional,Silver,Ruiru CBD,1.6
+C00926,Wairimu Kinyua,18-25,Occasional,Gold,Kihara,0.7
+C00927,Mumbi Otieno,36-45,New,Gold,Kimbo,5.6
+C00928,Otieno Adhiambo,36-45,Regular,Bronze,Ndenderu,6.9
+C00929,Adhiambo Maina,26-35,Occasional,Bronze,Mwiki,6.2
+C00930,Juma Wambui,18-25,Regular,Platinum,Ruiru Sports Club,2.0
+C00931,Kariuki Njoroge,36-45,New,Bronze,Githurai 45,4.9
+C00932,Mutiso Omondi,18-25,Regular,Bronze,Ndenderu,6.2
+C00933,Wairimu Mwangi,18-25,Regular,Silver,Green Valley,2.4
+C00934,Kipchoge Juma,36-45,Occasional,Bronze,Ruiru CBD,4.5
+C00935,Chebet Kamau,56+,Occasional,Platinum,Ruiru Town Center,2.9
+C00936,Were Kamau,46-55,Regular,Gold,Ruiru Town Center,2.2
+C00937,Kamau Adhiambo,36-45,Occasional,Bronze,Githurai Kimbo,7.8
+C00938,Wairimu Juma,36-45,Occasional,Silver,Mwiki,7.3
+C00939,Kariuki Wambui,36-45,Regular,Gold,Mwiki,3.8
+C00940,Wambui Mutiso,46-55,Occasional,Bronze,Githurai 45,1.5
+C00941,Wairimu Kinyua,18-25,Regular,Bronze,Githurai 45,6.0
+C00942,Kiplagat Omondi,26-35,New,Gold,Kahawa Wendani,2.4
+C00943,Simiyu Kipchoge,26-35,Occasional,Bronze,Kihara,1.8
+C00944,Hassan Abdullah,46-55,New,Bronze,Ndenderu,3.4
+C00945,Juma Achieng,26-35,Regular,Bronze,Githurai 45,4.5
+C00946,Mwangi Wanjiku,36-45,Premium,Gold,Ruiru Sports Club,1.2
+C00947,Omondi Wambui,36-45,Regular,Bronze,Ruiru Town Center,4.8
+C00948,Akinyi Otieno,26-35,Occasional,Bronze,Ndenderu,0.6
+C00949,Njoroge Mutiso,46-55,New,Bronze,Githurai 45,7.2
+C00950,Nyambura Kamau,46-55,Regular,Gold,Ruiru Town Center,7.4
+C00951,Mumbi Ochieng,26-35,Occasional,Bronze,Ndenderu,6.0
+C00952,Mutiso Okoth,46-55,Regular,Platinum,Ruiru Town Center,4.0
+C00953,Mwangi Kamau,56+,Occasional,Silver,Githurai 45,2.4
+C00954,Juma Adhiambo,26-35,New,Bronze,Kihara,6.1
+C00955,Otieno Juma,36-45,Occasional,Bronze,Mwiki,7.5
+C00956,Kamau Kinyua,56+,New,Gold,Githurai Kimbo,1.7
+C00957,Kariuki Njeri,26-35,Occasional,Gold,Kimbo,4.0
+C00958,Wanjiku Kamau,26-35,New,Bronze,Githurai Kimbo,2.9
+C00959,Wanjiku Omondi,46-55,Occasional,Bronze,Kahawa Sukari,3.2
+C00960,Njoroge Kariuki,26-35,Regular,Bronze,Ndenderu,3.5
+C00961,Kiplagat Wanjala,46-55,Regular,Bronze,Mwiki,7.6
+C00962,Nyambura Juma,26-35,Regular,Silver,Ruiru CBD,2.4
+C00963,Juma Chebet,18-25,Premium,Gold,Ruiru Town Center,4.2
+C00964,Wanjiku Kamau,56+,Regular,Bronze,Githurai Kimbo,7.6
+C00965,Wanjala Muthoni,18-25,Premium,Gold,Green Valley,4.1
+C00966,Mwangi Njeri,18-25,Regular,Silver,Githurai 45,7.0
+C00967,Wairimu Njeri,56+,Regular,Silver,Githurai 44,0.9
+C00968,Njeri Juma,46-55,Premium,Gold,Ruiru Town Center,7.6
+C00969,Chebet Mumbi,56+,Regular,Bronze,Kihara,1.9
+C00970,Njoroge Simiyu,18-25,Regular,Silver,Kahawa Sukari,7.8
+C00971,Njoroge Mutiso,36-45,Regular,Bronze,Githurai Kimbo,1.8
+C00972,Kinyua Wanjala,46-55,Regular,Bronze,Kahawa Wendani,3.8
+C00973,Njeri Okoth,46-55,Occasional,Bronze,Githurai 44,2.8
+C00974,Wambui Njeri,46-55,Regular,Bronze,Green Valley,3.7
+C00975,Muthoni Achieng,36-45,New,Gold,Ruiru CBD,2.4
+C00976,Abdullah Omondi,18-25,Regular,Silver,Ruiru Town Center,7.7
+C00977,Maina Mwangi,18-25,Regular,Silver,Githurai 45,2.8
+C00978,Omondi Kipchoge,36-45,Regular,Gold,Ruiru Town Center,5.4
+C00979,Wanjala Adhiambo,26-35,Occasional,Gold,Kihara,1.5
+C00980,Mumbi Njeri,26-35,Regular,Bronze,Green Valley,6.7
+C00981,Muthoni Kiplagat,36-45,Premium,Gold,Ruiru Sports Club,4.6
+C00982,Wanjiku Omondi,26-35,Regular,Gold,Ruiru CBD,7.8
+C00983,Njeri Otieno,36-45,Regular,Bronze,Ndenderu,3.7
+C00984,Kipchoge Juma,36-45,Occasional,Silver,Ruiru Town Center,2.0
+C00985,Kinyua Kamau,18-25,Occasional,Bronze,Kimbo,3.1
+C00986,Mutiso Kinyua,18-25,New,Bronze,Ndenderu,6.0
+C00987,Omondi Adhiambo,26-35,Occasional,Gold,Green Valley,5.4
+C00988,Wairimu Okoth,18-25,Regular,Silver,Ruiru Town Center,6.3
+C00989,Kinyua Omondi,46-55,Occasional,Bronze,Githurai 44,1.1
+C00990,Akinyi Ochieng,36-45,New,Bronze,Ruiru CBD,4.9
+C00991,Njoroge Kariuki,36-45,Occasional,Silver,Kahawa Sukari,7.5
+C00992,Njoroge Ochieng,18-25,New,Silver,Kimbo,1.3
+C00993,Wairimu Simiyu,26-35,Premium,Gold,Ruiru Town Center,1.2
+C00994,Otieno Okoth,18-25,Occasional,Gold,Kahawa Wendani,5.9
+C00995,Simiyu Simiyu,18-25,Occasional,Bronze,Mwiki,2.9
+C00996,Mwangi Nyambura,46-55,Occasional,Silver,Kihara,5.4
+C00997,Otieno Wanjala,36-45,Regular,Bronze,Kahawa Sukari,4.6
+C00998,Akinyi Chebet,36-45,Occasional,Bronze,Kahawa Wendani,7.9
+C00999,Ochieng Mumbi,56+,Regular,Silver,Kimbo,7.2
+C01000,Nyambura Kinyua,36-45,Occasional,Bronze,Ndenderu,5.6
+C01001,Mumbi Omondi,36-45,Occasional,Gold,Kahawa Sukari,2.5
+C01002,Achieng Okoth,46-55,Regular,Bronze,Githurai Kimbo,2.5
+C01003,Kamau Kamau,56+,Occasional,Gold,Ndenderu,7.1
+C01004,Mumbi Kiplagat,36-45,Occasional,Bronze,Ndenderu,4.9
+C01005,Adhiambo Kariuki,36-45,Regular,Silver,Githurai 44,6.4
+C01006,Wambui Otieno,18-25,New,Bronze,Githurai 45,3.9
+C01007,Wanjiku Wanjala,18-25,Occasional,Gold,Kihara,1.3
+C01008,Omondi Otieno,56+,Regular,Bronze,Kahawa Sukari,3.0
+C01009,Achieng Simiyu,26-35,Premium,Gold,Ruiru Town Center,1.7
+C01010,Kiplagat Kamau,26-35,New,Gold,Ruiru CBD,6.4
+C01011,Muthoni Maina,56+,Occasional,Bronze,Githurai 44,5.8
+C01012,Simiyu Njeri,18-25,Regular,Gold,Ruiru Town Center,1.2
+C01013,Nyambura Okoth,18-25,New,Gold,Ruiru CBD,5.2
+C01014,Mutiso Chebet,46-55,Regular,Gold,Githurai Kimbo,7.1
+C01015,Wambui Mwangi,56+,Occasional,Gold,Githurai Kimbo,5.7
+C01016,Wairimu Achieng,26-35,Regular,Gold,Kahawa Wendani,4.3
+C01017,Mutiso Abdullah,26-35,New,Bronze,Kihara,2.8
+C01018,Njoroge Ochieng,26-35,Premium,Platinum,Ruiru Sports Club,7.2
+C01019,Akinyi Kariuki,56+,Occasional,Bronze,Ndenderu,3.7
+C01020,Juma Mutiso,46-55,Regular,Silver,Mwiki,6.9
+C01021,Okoth Simiyu,26-35,Regular,Bronze,Kimbo,6.4
+C01022,Otieno Omondi,56+,Occasional,Bronze,Githurai 44,6.6
+C01023,Abdullah Kipchoge,18-25,Regular,Silver,Githurai 45,7.9
+C01024,Kinyua Kiplagat,56+,Occasional,Platinum,Ruiru Town Center,6.1
+C01025,Kipchoge Achieng,36-45,Regular,Gold,Githurai 45,0.8
+C01026,Kinyua Wanjiku,26-35,Occasional,Silver,Kihara,2.0
+C01027,Mumbi Adhiambo,46-55,Regular,Bronze,Kihara,0.8
+C01028,Adhiambo Were,26-35,Occasional,Silver,Kahawa Sukari,1.9
+C01029,Wairimu Hassan,56+,Occasional,Silver,Mwiki,1.0
+C01030,Okoth Hassan,46-55,Regular,Silver,Green Valley,4.3
+C01031,Wanjala Kamau,26-35,Occasional,Bronze,Githurai 44,0.7
+C01032,Okoth Wambui,26-35,Regular,Bronze,Kahawa Sukari,4.0
+C01033,Kariuki Kinyua,46-55,Regular,Bronze,Green Valley,7.2
+C01034,Kipchoge Kinyua,18-25,Regular,Silver,Kihara,6.1
+C01035,Wanjala Maina,36-45,Occasional,Silver,Mwiki,7.6
+C01036,Omondi Muthoni,18-25,Occasional,Silver,Kahawa Wendani,2.2
+C01037,Wairimu Kiplagat,36-45,Regular,Bronze,Githurai 45,4.5
+C01038,Nyambura Njoroge,56+,Occasional,Bronze,Githurai 44,2.9
+C01039,Kiplagat Kinyua,36-45,Regular,Silver,Ruiru Town Center,4.2
+C01040,Wanjala Mwangi,18-25,Regular,Bronze,Githurai 45,4.7
+C01041,Abdullah Mwangi,18-25,New,Silver,Kahawa Sukari,0.8
+C01042,Kamau Adhiambo,46-55,Occasional,Bronze,Githurai Kimbo,2.2
+C01043,Wanjiku Adhiambo,26-35,Occasional,Bronze,Mwiki,5.8
+C01044,Wanjala Muthoni,46-55,Premium,Gold,Ruiru Town Center,6.3
+C01045,Juma Juma,46-55,Occasional,Silver,Kimbo,4.8
+C01046,Nyambura Otieno,26-35,Regular,Bronze,Ndenderu,2.5
+C01047,Wambui Adhiambo,18-25,Regular,Gold,Kihara,3.5
+C01048,Hassan Wanjala,36-45,New,Bronze,Githurai 44,1.2
+C01049,Mwangi Muthoni,18-25,Regular,Bronze,Ruiru Sports Club,7.6
+C01050,Mutiso Wambui,36-45,Regular,Gold,Ruiru Sports Club,7.0
+C01051,Kipchoge Omondi,46-55,Occasional,Platinum,Ruiru Town Center,1.0
+C01052,Otieno Kiplagat,18-25,New,Bronze,Ndenderu,1.7
+C01053,Wanjiku Nyambura,56+,Regular,Bronze,Ndenderu,4.9
+C01054,Mutiso Kariuki,36-45,Occasional,Bronze,Kihara,2.2
+C01055,Kariuki Okoth,36-45,Occasional,Bronze,Kihara,7.5
+C01056,Chebet Wanjala,46-55,New,Bronze,Kahawa Wendani,6.2
+C01057,Achieng Chebet,26-35,Occasional,Silver,Ruiru Sports Club,2.5
+C01058,Wambui Achieng,46-55,New,Bronze,Kahawa Wendani,0.5
+C01059,Akinyi Achieng,36-45,Occasional,Gold,Mwiki,6.5
+C01060,Otieno Achieng,56+,Occasional,Bronze,Mwiki,3.7
+C01061,Achieng Wairimu,36-45,Premium,Platinum,Ruiru Town Center,5.3
+C01062,Otieno Simiyu,26-35,New,Bronze,Githurai Kimbo,2.7
+C01063,Hassan Mutiso,56+,Regular,Silver,Ruiru Sports Club,1.6
+C01064,Ochieng Adhiambo,26-35,Regular,Bronze,Githurai Kimbo,5.6
+C01065,Juma Wambui,46-55,Regular,Bronze,Githurai Kimbo,3.9
+C01066,Ochieng Njoroge,18-25,Occasional,Bronze,Ndenderu,2.3
+C01067,Njeri Wairimu,56+,Regular,Bronze,Ndenderu,1.5
+C01068,Mutiso Otieno,18-25,New,Bronze,Kimbo,4.9
+C01069,Chebet Kariuki,36-45,Regular,Silver,Ruiru Town Center,5.9
+C01070,Kariuki Ochieng,26-35,Occasional,Bronze,Githurai Kimbo,2.6
+C01071,Kinyua Were,26-35,Regular,Platinum,Ruiru Sports Club,6.0
+C01072,Achieng Kamau,18-25,Regular,Bronze,Kimbo,1.9
+C01073,Abdullah Kipchoge,56+,New,Bronze,Kihara,3.0
+C01074,Omondi Nyambura,26-35,Occasional,Bronze,Ndenderu,6.1
+C01075,Okoth Chebet,36-45,New,Gold,Githurai 45,5.5
+C01076,Wairimu Kamau,36-45,Occasional,Platinum,Green Valley,2.5
+C01077,Akinyi Maina,36-45,Regular,Silver,Kimbo,1.4
+C01078,Hassan Juma,56+,Occasional,Gold,Green Valley,0.8
+C01079,Okoth Maina,56+,New,Bronze,Kahawa Wendani,6.8
+C01080,Kamau Simiyu,26-35,Premium,Gold,Ruiru Town Center,1.1
+C01081,Maina Mumbi,18-25,Occasional,Bronze,Mwiki,1.4
+C01082,Mumbi Wairimu,46-55,New,Bronze,Kihara,2.3
+C01083,Adhiambo Maina,26-35,Regular,Bronze,Githurai 44,3.8
+C01084,Njoroge Njeri,26-35,Occasional,Bronze,Mwiki,6.4
+C01085,Muthoni Kariuki,26-35,New,Bronze,Kahawa Sukari,2.4
+C01086,Kariuki Kamau,36-45,Premium,Gold,Ruiru Sports Club,4.6
+C01087,Akinyi Juma,26-35,Occasional,Gold,Githurai 45,1.2
+C01088,Omondi Omondi,46-55,Regular,Silver,Mwiki,4.0
+C01089,Okoth Kiplagat,36-45,Regular,Bronze,Mwiki,1.8
+C01090,Simiyu Kamau,46-55,New,Bronze,Mwiki,2.1
+C01091,Okoth Njeri,36-45,Occasional,Bronze,Kahawa Sukari,3.3
+C01092,Okoth Mwangi,56+,New,Bronze,Kahawa Wendani,6.2
+C01093,Mutiso Kariuki,36-45,Regular,Bronze,Ruiru Town Center,6.1
+C01094,Juma Njoroge,56+,Premium,Bronze,Ruiru Sports Club,3.6
+C01095,Nyambura Akinyi,18-25,Occasional,Silver,Ruiru Town Center,1.4
+C01096,Wanjala Njeri,56+,Occasional,Bronze,Ndenderu,2.6
+C01097,Wairimu Wairimu,18-25,Premium,Silver,Ruiru Town Center,4.3
+C01098,Mumbi Adhiambo,18-25,Occasional,Bronze,Ndenderu,7.0
+C01099,Akinyi Njeri,46-55,New,Bronze,Mwiki,7.8
+C01100,Kipchoge Nyambura,46-55,Regular,Bronze,Kahawa Wendani,5.3
+C01101,Wairimu Njeri,26-35,New,Bronze,Kimbo,3.1
+C01102,Akinyi Akinyi,46-55,Occasional,Silver,Kahawa Wendani,5.7
+C01103,Adhiambo Kiplagat,46-55,Regular,Silver,Kimbo,3.0
+C01104,Were Wanjiku,46-55,Regular,Silver,Green Valley,5.2
+C01105,Njeri Kariuki,46-55,Regular,Silver,Kimbo,2.3
+C01106,Mwangi Wairimu,18-25,Regular,Bronze,Kihara,2.5
+C01107,Okoth Mwangi,18-25,Premium,Bronze,Green Valley,1.1
+C01108,Chebet Ochieng,18-25,New,Silver,Githurai Kimbo,3.7
+C01109,Kiplagat Omondi,46-55,Premium,Silver,Ruiru Sports Club,5.1
+C01110,Wanjala Otieno,46-55,Regular,Bronze,Githurai 44,6.4
+C01111,Wairimu Chebet,46-55,Regular,Bronze,Kahawa Sukari,6.6
+C01112,Njoroge Muthoni,26-35,Regular,Bronze,Mwiki,7.9
+C01113,Omondi Mumbi,36-45,New,Bronze,Kahawa Sukari,1.2
+C01114,Kariuki Wambui,56+,Occasional,Silver,Mwiki,4.2
+C01115,Nyambura Muthoni,18-25,Regular,Gold,Githurai 44,4.4
+C01116,Achieng Muthoni,26-35,Regular,Silver,Ruiru Sports Club,6.5
+C01117,Maina Wanjiku,36-45,Occasional,Bronze,Kimbo,2.5
+C01118,Omondi Maina,46-55,Occasional,Silver,Kahawa Wendani,1.0
+C01119,Wanjiku Mumbi,36-45,Regular,Gold,Mwiki,2.9
+C01120,Simiyu Wairimu,26-35,Occasional,Bronze,Ruiru Town Center,7.9
+C01121,Hassan Wanjala,46-55,Regular,Gold,Githurai 45,7.2
+C01122,Wanjiku Juma,36-45,Regular,Silver,Ruiru Town Center,3.5
+C01123,Kamau Maina,26-35,Occasional,Gold,Ndenderu,7.1
+C01124,Njoroge Chebet,46-55,Regular,Bronze,Kimbo,0.7
+C01125,Mwangi Kiplagat,36-45,Regular,Gold,Green Valley,2.9
+C01126,Were Kipchoge,18-25,Occasional,Bronze,Kimbo,6.0
+C01127,Njoroge Njeri,26-35,Occasional,Silver,Ruiru CBD,2.2
+C01128,Maina Njoroge,36-45,Regular,Bronze,Mwiki,2.0
+C01129,Muthoni Wairimu,56+,Regular,Silver,Ndenderu,7.0
+C01130,Juma Mutiso,46-55,Regular,Silver,Kimbo,5.1
+C01131,Hassan Njeri,18-25,Regular,Silver,Green Valley,7.9
+C01132,Muthoni Wambui,36-45,Occasional,Silver,Mwiki,1.5
+C01133,Achieng Otieno,18-25,Occasional,Bronze,Kihara,3.2
+C01134,Nyambura Okoth,36-45,Regular,Silver,Githurai Kimbo,2.8
+C01135,Were Kariuki,26-35,Occasional,Gold,Githurai 45,7.1
+C01136,Okoth Hassan,18-25,Occasional,Silver,Kahawa Wendani,2.4
+C01137,Kariuki Mwangi,46-55,Regular,Bronze,Kihara,3.2
+C01138,Simiyu Akinyi,56+,Regular,Gold,Kahawa Wendani,1.6
+C01139,Otieno Were,18-25,Regular,Bronze,Kihara,6.3
+C01140,Njeri Akinyi,56+,Regular,Silver,Githurai 44,2.3
+C01141,Njoroge Were,56+,Regular,Bronze,Kahawa Sukari,1.0
+C01142,Njoroge Nyambura,18-25,Regular,Bronze,Githurai 44,3.8
+C01143,Otieno Mwangi,46-55,Regular,Bronze,Githurai 45,3.4
+C01144,Kamau Mutiso,46-55,Occasional,Platinum,Ruiru Town Center,1.8
+C01145,Were Wanjala,36-45,Regular,Bronze,Kahawa Sukari,1.5
+C01146,Mumbi Kinyua,46-55,Occasional,Bronze,Ruiru Town Center,7.2
+C01147,Simiyu Hassan,56+,Regular,Bronze,Mwiki,1.0
+C01148,Chebet Muthoni,26-35,Regular,Bronze,Kimbo,1.2
+C01149,Omondi Muthoni,18-25,Regular,Bronze,Githurai Kimbo,2.3
+C01150,Simiyu Kamau,36-45,Occasional,Bronze,Ruiru CBD,7.6
+C01151,Nyambura Njoroge,56+,Occasional,Gold,Ruiru Town Center,1.1
+C01152,Kariuki Wairimu,46-55,New,Bronze,Kahawa Sukari,6.6
+C01153,Omondi Were,26-35,Occasional,Bronze,Kimbo,7.2
+C01154,Wanjala Wanjala,18-25,Occasional,Bronze,Ruiru CBD,3.3
+C01155,Simiyu Ochieng,56+,Premium,Silver,Ruiru Sports Club,2.7
+C01156,Njoroge Wambui,18-25,Occasional,Gold,Kahawa Sukari,5.6
+C01157,Ochieng Wairimu,46-55,New,Silver,Ndenderu,5.8
+C01158,Mumbi Kipchoge,46-55,Occasional,Bronze,Ruiru Town Center,6.3
+C01159,Maina Otieno,36-45,Occasional,Silver,Githurai Kimbo,6.7
+C01160,Abdullah Juma,26-35,Occasional,Bronze,Ndenderu,2.5
+C01161,Akinyi Kariuki,36-45,New,Silver,Githurai Kimbo,5.7
+C01162,Otieno Njoroge,36-45,Regular,Bronze,Githurai Kimbo,1.5
+C01163,Kiplagat Kinyua,46-55,New,Silver,Ruiru CBD,4.3
+C01164,Njoroge Kariuki,36-45,Regular,Gold,Ruiru Sports Club,5.1
+C01165,Abdullah Wairimu,46-55,Occasional,Silver,Ruiru Town Center,1.7
+C01166,Kiplagat Wairimu,26-35,Regular,Bronze,Githurai 44,1.1
+C01167,Njoroge Wambui,36-45,Occasional,Gold,Ruiru Sports Club,2.0
+C01168,Nyambura Kipchoge,36-45,Occasional,Silver,Ndenderu,3.7
+C01169,Njeri Kiplagat,56+,Occasional,Silver,Kihara,7.2
+C01170,Kipchoge Abdullah,46-55,Regular,Silver,Ndenderu,4.5
+C01171,Abdullah Kiplagat,46-55,Premium,Bronze,Green Valley,6.1
+C01172,Wanjala Muthoni,26-35,Premium,Silver,Ruiru Town Center,1.8
+C01173,Adhiambo Mwangi,56+,New,Silver,Kahawa Wendani,1.3
+C01174,Njeri Mutiso,46-55,Occasional,Gold,Kihara,2.3
+C01175,Simiyu Kipchoge,36-45,Occasional,Silver,Githurai 45,2.9
+C01176,Mwangi Okoth,18-25,Regular,Silver,Kimbo,4.6
+C01177,Juma Kamau,36-45,Regular,Gold,Kihara,7.1
+C01178,Akinyi Wanjiku,46-55,Regular,Bronze,Ndenderu,3.7
+C01179,Kariuki Were,46-55,Occasional,Bronze,Ndenderu,4.4
+C01180,Simiyu Adhiambo,56+,Regular,Silver,Ruiru Sports Club,0.5
+C01181,Hassan Adhiambo,36-45,Occasional,Bronze,Mwiki,0.7
+C01182,Achieng Wairimu,36-45,Regular,Bronze,Mwiki,1.1
+C01183,Muthoni Juma,46-55,Regular,Gold,Mwiki,5.7
+C01184,Wambui Hassan,18-25,New,Silver,Githurai 45,4.1
+C01185,Achieng Maina,46-55,Occasional,Gold,Kahawa Sukari,1.9
+C01186,Okoth Omondi,36-45,New,Gold,Ruiru CBD,4.9
+C01187,Kiplagat Otieno,46-55,Regular,Silver,Githurai 44,4.6
+C01188,Maina Maina,18-25,Regular,Bronze,Kahawa Wendani,1.2
+C01189,Maina Wanjiku,46-55,Occasional,Bronze,Ndenderu,5.3
+C01190,Achieng Wanjala,56+,Regular,Silver,Kihara,6.3
+C01191,Mutiso Kariuki,26-35,Occasional,Silver,Githurai 44,2.6
+C01192,Wanjala Akinyi,46-55,Occasional,Bronze,Ruiru CBD,5.7
+C01193,Chebet Kinyua,46-55,Occasional,Silver,Mwiki,2.0
+C01194,Kinyua Muthoni,56+,New,Bronze,Ndenderu,6.2
+C01195,Kinyua Kipchoge,36-45,Regular,Gold,Ruiru Sports Club,7.3
+C01196,Wanjiku Were,26-35,New,Silver,Githurai Kimbo,3.8
+C01197,Kiplagat Wairimu,26-35,Regular,Silver,Green Valley,2.3
+C01198,Chebet Wanjiku,26-35,Occasional,Bronze,Githurai Kimbo,3.5
+C01199,Hassan Kiplagat,26-35,Occasional,Gold,Mwiki,2.4
+C01200,Wanjala Wanjiku,36-45,New,Bronze,Githurai Kimbo,0.5
+C01201,Otieno Akinyi,18-25,Occasional,Bronze,Ndenderu,5.4
+C01202,Achieng Okoth,56+,Occasional,Bronze,Githurai 44,0.8
+C01203,Adhiambo Mwangi,46-55,Occasional,Bronze,Ndenderu,2.1
+C01204,Wambui Kinyua,26-35,New,Bronze,Mwiki,5.9
+C01205,Nyambura Otieno,18-25,Occasional,Silver,Kihara,5.5
+C01206,Otieno Achieng,46-55,New,Gold,Ndenderu,1.0
+C01207,Wambui Juma,26-35,Regular,Silver,Githurai Kimbo,5.5
+C01208,Muthoni Akinyi,26-35,Occasional,Bronze,Ruiru Sports Club,7.5
+C01209,Njoroge Abdullah,46-55,Occasional,Bronze,Ruiru CBD,1.1
+C01210,Wairimu Omondi,56+,Regular,Gold,Kahawa Wendani,3.6
+C01211,Chebet Kinyua,36-45,Regular,Bronze,Githurai Kimbo,6.0
+C01212,Kamau Chebet,36-45,Regular,Silver,Ruiru CBD,5.5
+C01213,Kiplagat Abdullah,56+,Occasional,Silver,Green Valley,2.2
+C01214,Wambui Nyambura,18-25,Regular,Silver,Green Valley,1.7
+C01215,Akinyi Simiyu,36-45,Regular,Silver,Githurai 44,6.4
+C01216,Njoroge Mutiso,56+,Occasional,Bronze,Githurai 45,7.7
+C01217,Njeri Mutiso,36-45,Occasional,Bronze,Ruiru CBD,6.3
+C01218,Wanjala Mwangi,36-45,Occasional,Silver,Githurai 45,7.7
+C01219,Omondi Mumbi,26-35,Regular,Bronze,Ruiru Sports Club,5.0
+C01220,Njeri Wanjala,18-25,Regular,Silver,Ndenderu,7.5
+C01221,Ochieng Maina,46-55,Occasional,Bronze,Githurai 45,5.7
+C01222,Chebet Kamau,18-25,New,Silver,Kahawa Sukari,7.3
+C01223,Nyambura Okoth,56+,Occasional,Gold,Kahawa Sukari,1.7
+C01224,Muthoni Omondi,18-25,Regular,Silver,Mwiki,6.6
+C01225,Muthoni Muthoni,36-45,Regular,Bronze,Kimbo,2.0
+C01226,Chebet Muthoni,56+,Regular,Silver,Ruiru Town Center,0.7
+C01227,Otieno Mwangi,56+,Occasional,Silver,Ruiru Sports Club,4.4
+C01228,Akinyi Kinyua,26-35,Regular,Silver,Green Valley,2.9
+C01229,Wairimu Kinyua,56+,Occasional,Bronze,Githurai Kimbo,0.8
+C01230,Njoroge Kariuki,26-35,Regular,Bronze,Githurai Kimbo,7.9
+C01231,Simiyu Muthoni,26-35,Premium,Gold,Ruiru Town Center,5.5
+C01232,Mwangi Kinyua,46-55,Regular,Silver,Ruiru CBD,7.3
+C01233,Abdullah Kinyua,18-25,Premium,Gold,Green Valley,8.0
+C01234,Kiplagat Mutiso,18-25,Premium,Silver,Ruiru Sports Club,3.4
+C01235,Were Ochieng,56+,Premium,Platinum,Green Valley,2.4
+C01236,Chebet Achieng,46-55,New,Silver,Kahawa Wendani,1.9
+C01237,Okoth Adhiambo,36-45,Premium,Gold,Ruiru Sports Club,4.4
+C01238,Wairimu Njeri,46-55,Regular,Gold,Githurai 44,5.0
+C01239,Kariuki Okoth,18-25,Regular,Gold,Mwiki,4.0
+C01240,Kiplagat Mutiso,26-35,Occasional,Bronze,Ruiru CBD,3.4
+C01241,Okoth Maina,26-35,Occasional,Gold,Kihara,1.8
+C01242,Muthoni Njoroge,18-25,Regular,Silver,Mwiki,3.8
+C01243,Chebet Simiyu,36-45,Occasional,Silver,Ndenderu,1.1
+C01244,Ochieng Njeri,18-25,Regular,Silver,Ruiru CBD,7.0
+C01245,Kariuki Njeri,18-25,Occasional,Silver,Ruiru Town Center,0.9
+C01246,Simiyu Nyambura,26-35,New,Silver,Githurai 44,3.4
+C01247,Mutiso Wanjiku,56+,Regular,Silver,Kahawa Sukari,1.3
+C01248,Okoth Kiplagat,46-55,Regular,Gold,Ruiru CBD,6.3
+C01249,Muthoni Kiplagat,36-45,Regular,Bronze,Kimbo,2.8
+C01250,Omondi Otieno,56+,Regular,Silver,Githurai 44,1.3
+C01251,Njoroge Maina,18-25,Regular,Silver,Kimbo,4.5
+C01252,Wanjiku Wanjala,56+,Regular,Bronze,Githurai 44,7.4
+C01253,Mumbi Adhiambo,46-55,Occasional,Bronze,Kihara,7.3
+C01254,Kiplagat Mutiso,56+,Occasional,Gold,Githurai 45,2.4
+C01255,Mwangi Wanjala,18-25,Regular,Bronze,Kimbo,5.9
+C01256,Omondi Akinyi,56+,Regular,Silver,Kahawa Wendani,0.7
+C01257,Njoroge Nyambura,26-35,Regular,Bronze,Mwiki,1.5
+C01258,Abdullah Kinyua,26-35,Regular,Silver,Kahawa Sukari,4.2
+C01259,Mumbi Kariuki,36-45,Occasional,Bronze,Kimbo,2.2
+C01260,Wambui Otieno,18-25,Regular,Gold,Ruiru Sports Club,6.5
+C01261,Akinyi Kinyua,36-45,Regular,Bronze,Kahawa Wendani,7.5
+C01262,Kinyua Okoth,36-45,Occasional,Bronze,Kihara,0.5
+C01263,Abdullah Okoth,18-25,Occasional,Silver,Githurai Kimbo,2.2
+C01264,Maina Ochieng,26-35,New,Bronze,Kahawa Sukari,3.8
+C01265,Okoth Wanjala,26-35,Regular,Gold,Ruiru Sports Club,4.7
+C01266,Were Abdullah,18-25,New,Bronze,Ndenderu,7.4
+C01267,Abdullah Mwangi,26-35,Regular,Bronze,Kahawa Sukari,7.2
+C01268,Hassan Abdullah,56+,New,Bronze,Kahawa Sukari,5.3
+C01269,Kipchoge Kinyua,56+,Regular,Silver,Ruiru Sports Club,2.4
+C01270,Adhiambo Otieno,26-35,Regular,Silver,Kimbo,6.4
+C01271,Mwangi Hassan,46-55,Occasional,Gold,Kimbo,2.0
+C01272,Adhiambo Juma,46-55,Regular,Bronze,Kihara,7.7
+C01273,Kinyua Were,26-35,Regular,Silver,Green Valley,0.5
+C01274,Kinyua Achieng,18-25,Occasional,Bronze,Kahawa Sukari,4.8
+C01275,Wairimu Adhiambo,36-45,Regular,Silver,Kahawa Sukari,1.2
+C01276,Simiyu Juma,36-45,New,Gold,Ruiru CBD,3.6
+C01277,Kipchoge Kiplagat,56+,Occasional,Gold,Mwiki,5.3
+C01278,Wairimu Kipchoge,56+,Occasional,Silver,Mwiki,5.7
+C01279,Juma Juma,26-35,New,Bronze,Githurai 45,6.4
+C01280,Wanjiku Omondi,46-55,Regular,Silver,Kihara,4.9
+C01281,Abdullah Otieno,56+,Occasional,Silver,Kahawa Sukari,2.4
+C01282,Abdullah Wambui,26-35,New,Bronze,Githurai 45,7.2
+C01283,Nyambura Nyambura,46-55,Occasional,Gold,Githurai Kimbo,6.6
+C01284,Maina Mumbi,46-55,Occasional,Bronze,Githurai 44,1.7
+C01285,Kinyua Abdullah,46-55,New,Bronze,Mwiki,6.7
+C01286,Simiyu Njeri,36-45,Regular,Silver,Mwiki,7.8
+C01287,Wanjiku Juma,56+,Regular,Gold,Kahawa Sukari,5.3
+C01288,Wambui Kamau,46-55,Premium,Gold,Ruiru Sports Club,2.6
+C01289,Hassan Adhiambo,36-45,New,Bronze,Kahawa Sukari,5.0
+C01290,Njoroge Njeri,18-25,Regular,Gold,Ruiru CBD,3.1
+C01291,Ochieng Nyambura,46-55,Occasional,Gold,Ruiru Sports Club,5.6
+C01292,Maina Abdullah,46-55,New,Silver,Kahawa Sukari,4.6
+C01293,Were Muthoni,56+,Regular,Silver,Mwiki,7.5
+C01294,Muthoni Njoroge,36-45,Regular,Silver,Ruiru CBD,5.1
+C01295,Wanjiku Abdullah,36-45,Regular,Gold,Kimbo,2.1
+C01296,Wambui Mumbi,36-45,Regular,Bronze,Githurai 45,5.9
+C01297,Kamau Kinyua,18-25,Regular,Silver,Green Valley,2.8
+C01298,Adhiambo Mutiso,46-55,New,Gold,Kimbo,2.5
+C01299,Abdullah Wanjala,56+,Regular,Platinum,Ruiru Sports Club,3.4
+C01300,Wanjiku Wambui,46-55,New,Gold,Kihara,0.6
+C01301,Juma Mutiso,36-45,Premium,Bronze,Ruiru Town Center,7.8
+C01302,Akinyi Muthoni,46-55,Premium,Bronze,Green Valley,4.5
+C01303,Abdullah Wairimu,56+,Occasional,Bronze,Githurai 44,6.3
+C01304,Njeri Ochieng,56+,Occasional,Gold,Kimbo,2.4
+C01305,Omondi Nyambura,18-25,Regular,Bronze,Kahawa Wendani,6.1
+C01306,Maina Otieno,18-25,Premium,Bronze,Green Valley,4.8
+C01307,Mumbi Akinyi,26-35,New,Silver,Kahawa Sukari,3.7
+C01308,Ochieng Muthoni,46-55,Regular,Silver,Ndenderu,7.8
+C01309,Kamau Mutiso,46-55,New,Gold,Kihara,4.2
+C01310,Mutiso Maina,36-45,New,Bronze,Githurai 44,5.4
+C01311,Kiplagat Akinyi,56+,Regular,Bronze,Ruiru Town Center,0.6
+C01312,Kiplagat Kinyua,46-55,New,Bronze,Githurai Kimbo,2.8
+C01313,Kamau Juma,26-35,New,Gold,Kimbo,7.2
+C01314,Nyambura Ochieng,18-25,Occasional,Silver,Mwiki,6.2
+C01315,Hassan Mumbi,36-45,Regular,Bronze,Githurai Kimbo,4.5
+C01316,Kinyua Simiyu,46-55,Regular,Bronze,Mwiki,7.3
+C01317,Wanjiku Mutiso,36-45,Regular,Silver,Githurai 45,4.1
+C01318,Mutiso Kamau,46-55,Occasional,Bronze,Githurai 45,4.7
+C01319,Abdullah Adhiambo,46-55,New,Bronze,Githurai 45,3.4
+C01320,Kamau Akinyi,46-55,Occasional,Bronze,Githurai 44,5.2
+C01321,Hassan Mutiso,46-55,Occasional,Bronze,Ndenderu,2.9
+C01322,Wairimu Kariuki,56+,Occasional,Gold,Githurai 45,3.4
+C01323,Njoroge Ochieng,46-55,Occasional,Platinum,Green Valley,7.7
+C01324,Omondi Wanjiku,18-25,New,Silver,Ruiru CBD,1.3
+C01325,Otieno Kariuki,46-55,Premium,Platinum,Green Valley,1.3
+C01326,Ochieng Muthoni,26-35,Occasional,Silver,Ruiru CBD,0.8
+C01327,Achieng Kamau,36-45,Regular,Bronze,Ruiru CBD,2.9
+C01328,Kinyua Juma,26-35,Regular,Bronze,Kahawa Wendani,3.5
+C01329,Muthoni Mwangi,56+,Regular,Silver,Kihara,1.2
+C01330,Akinyi Wanjiku,36-45,Regular,Silver,Kahawa Sukari,4.6
+C01331,Mumbi Mutiso,46-55,New,Silver,Kihara,4.9
+C01332,Wanjiku Wanjala,56+,New,Bronze,Mwiki,6.1
+C01333,Juma Wairimu,46-55,Occasional,Silver,Mwiki,7.8
+C01334,Wambui Achieng,26-35,New,Bronze,Kimbo,5.1
+C01335,Kamau Wambui,18-25,Regular,Bronze,Kahawa Sukari,1.3
+C01336,Wanjala Nyambura,26-35,Regular,Bronze,Green Valley,1.2
+C01337,Njoroge Njoroge,26-35,Regular,Bronze,Githurai 44,6.3
+C01338,Wanjala Muthoni,26-35,Regular,Bronze,Mwiki,5.4
+C01339,Wanjiku Abdullah,46-55,Regular,Silver,Githurai 44,1.7
+C01340,Were Mumbi,46-55,Occasional,Gold,Kihara,2.4
+C01341,Ochieng Juma,56+,New,Silver,Githurai 45,6.1
+C01342,Mwangi Wanjiku,26-35,Occasional,Silver,Mwiki,4.7
+C01343,Kariuki Ochieng,46-55,Regular,Silver,Mwiki,4.9
+C01344,Kinyua Okoth,36-45,Regular,Bronze,Githurai Kimbo,2.1
+C01345,Mwangi Nyambura,18-25,Regular,Gold,Ruiru Town Center,5.2
+C01346,Njeri Chebet,46-55,Regular,Bronze,Kimbo,6.3
+C01347,Wairimu Otieno,36-45,Occasional,Platinum,Ruiru Town Center,7.1
+C01348,Kipchoge Mwangi,26-35,Regular,Gold,Kahawa Sukari,6.0
+C01349,Wanjala Maina,26-35,Regular,Bronze,Kihara,4.8
+C01350,Simiyu Akinyi,46-55,Regular,Silver,Githurai 44,5.5
+C01351,Nyambura Ochieng,18-25,Occasional,Bronze,Githurai 45,4.1
+C01352,Maina Okoth,26-35,Regular,Gold,Ruiru CBD,2.2
+C01353,Njeri Juma,56+,Regular,Bronze,Kahawa Wendani,7.1
+C01354,Mwangi Hassan,18-25,Occasional,Silver,Green Valley,4.5
+C01355,Njeri Kinyua,26-35,Regular,Silver,Githurai 44,5.0
+C01356,Simiyu Mwangi,36-45,Occasional,Bronze,Ndenderu,7.9
+C01357,Simiyu Njoroge,18-25,Regular,Gold,Kahawa Sukari,7.9
+C01358,Akinyi Akinyi,56+,Occasional,Platinum,Ruiru Sports Club,4.9
+C01359,Kamau Maina,46-55,Regular,Bronze,Kihara,0.8
+C01360,Muthoni Chebet,18-25,Occasional,Bronze,Githurai 44,3.5
+C01361,Ochieng Wairimu,26-35,Premium,Gold,Ruiru Sports Club,7.5
+C01362,Akinyi Mwangi,26-35,Regular,Silver,Mwiki,2.7
+C01363,Nyambura Ochieng,46-55,New,Gold,Ndenderu,8.0
+C01364,Mwangi Okoth,26-35,New,Bronze,Mwiki,1.1
+C01365,Mutiso Kamau,18-25,Regular,Bronze,Kahawa Sukari,4.8
+C01366,Akinyi Kamau,18-25,Occasional,Bronze,Githurai 45,4.4
+C01367,Chebet Njoroge,26-35,Occasional,Gold,Ndenderu,2.4
+C01368,Mwangi Kamau,26-35,Regular,Silver,Kihara,7.6
+C01369,Mutiso Wanjiku,56+,New,Bronze,Ruiru CBD,5.1
+C01370,Mwangi Wambui,36-45,Occasional,Silver,Kimbo,2.2
+C01371,Abdullah Kinyua,18-25,Regular,Bronze,Kahawa Wendani,3.4
+C01372,Nyambura Hassan,46-55,Occasional,Bronze,Kahawa Wendani,5.9
+C01373,Were Wanjala,18-25,Regular,Silver,Ruiru Town Center,2.7
+C01374,Kiplagat Njeri,36-45,New,Bronze,Ndenderu,7.1
+C01375,Maina Wambui,26-35,Occasional,Silver,Mwiki,1.7
+C01376,Chebet Kariuki,26-35,Regular,Silver,Ruiru CBD,2.5
+C01377,Abdullah Kipchoge,46-55,New,Bronze,Kahawa Wendani,1.6
+C01378,Simiyu Kiplagat,18-25,Regular,Bronze,Kimbo,1.3
+C01379,Omondi Hassan,26-35,Regular,Silver,Githurai Kimbo,2.8
+C01380,Adhiambo Mutiso,36-45,New,Bronze,Ndenderu,8.0
+C01381,Kamau Kariuki,46-55,Occasional,Silver,Githurai Kimbo,1.2
+C01382,Akinyi Kamau,46-55,Regular,Gold,Mwiki,2.1
+C01383,Abdullah Kamau,26-35,New,Bronze,Mwiki,2.5
+C01384,Omondi Otieno,18-25,Regular,Silver,Kahawa Sukari,5.1
+C01385,Njeri Kinyua,36-45,Occasional,Silver,Githurai 45,6.1
+C01386,Wambui Hassan,26-35,Regular,Bronze,Ruiru CBD,6.1
+C01387,Kariuki Maina,56+,Regular,Bronze,Ruiru Town Center,0.6
+C01388,Simiyu Abdullah,36-45,Occasional,Silver,Kihara,5.4
+C01389,Juma Wairimu,46-55,Regular,Bronze,Ruiru Sports Club,5.2
+C01390,Wambui Omondi,26-35,Occasional,Bronze,Githurai 44,4.4
+C01391,Were Ochieng,26-35,Regular,Bronze,Githurai 45,3.3
+C01392,Kiplagat Omondi,56+,Regular,Bronze,Githurai 44,6.5
+C01393,Kiplagat Achieng,46-55,Regular,Gold,Kahawa Sukari,3.1
+C01394,Hassan Otieno,26-35,Occasional,Bronze,Githurai Kimbo,2.2
+C01395,Maina Kiplagat,18-25,Regular,Platinum,Ruiru Sports Club,2.8
+C01396,Simiyu Kinyua,18-25,Regular,Gold,Kihara,3.8
+C01397,Abdullah Nyambura,26-35,Occasional,Silver,Kimbo,2.1
+C01398,Wambui Were,36-45,Occasional,Gold,Ruiru Town Center,5.1
+C01399,Were Juma,18-25,Regular,Silver,Kimbo,7.1
+C01400,Kamau Kamau,46-55,Regular,Bronze,Mwiki,5.0
+C01401,Muthoni Akinyi,46-55,Regular,Gold,Ruiru Sports Club,3.9
+C01402,Wambui Kamau,36-45,Occasional,Gold,Githurai Kimbo,6.5
+C01403,Nyambura Okoth,18-25,Regular,Gold,Kahawa Sukari,6.1
+C01404,Wambui Abdullah,46-55,Regular,Bronze,Ndenderu,3.3
+C01405,Nyambura Akinyi,26-35,New,Bronze,Githurai 44,5.0
+C01406,Nyambura Wairimu,46-55,Occasional,Bronze,Githurai 44,6.0
+C01407,Okoth Adhiambo,26-35,Occasional,Bronze,Githurai 45,2.3
+C01408,Achieng Wanjala,46-55,Occasional,Silver,Kimbo,3.2
+C01409,Ochieng Chebet,26-35,New,Bronze,Githurai Kimbo,1.3
+C01410,Kipchoge Mumbi,36-45,Occasional,Gold,Mwiki,7.9
+C01411,Wairimu Abdullah,26-35,Occasional,Bronze,Kimbo,1.1
+C01412,Ochieng Ochieng,18-25,Occasional,Gold,Mwiki,1.8
+C01413,Kamau Kariuki,56+,Regular,Silver,Githurai Kimbo,4.1
+C01414,Kamau Wanjala,56+,Occasional,Gold,Mwiki,7.0
+C01415,Adhiambo Abdullah,18-25,Regular,Gold,Githurai 44,3.2
+C01416,Otieno Muthoni,36-45,Occasional,Gold,Ruiru Sports Club,6.3
+C01417,Omondi Adhiambo,18-25,Regular,Bronze,Mwiki,5.6
+C01418,Were Akinyi,46-55,Occasional,Bronze,Githurai 44,5.3
+C01419,Chebet Juma,26-35,Regular,Bronze,Githurai 44,6.8
+C01420,Mutiso Wanjiku,36-45,Occasional,Bronze,Kimbo,0.6
+C01421,Muthoni Nyambura,18-25,Occasional,Bronze,Kahawa Wendani,7.5
+C01422,Chebet Njeri,26-35,Occasional,Bronze,Githurai 44,6.7
+C01423,Okoth Kiplagat,18-25,Regular,Bronze,Ruiru Town Center,7.5
+C01424,Akinyi Abdullah,18-25,Occasional,Bronze,Kahawa Sukari,6.5
+C01425,Nyambura Hassan,56+,Premium,Bronze,Green Valley,7.1
+C01426,Abdullah Kiplagat,18-25,Occasional,Gold,Kahawa Sukari,2.0
+C01427,Wanjala Wanjala,46-55,Occasional,Bronze,Kahawa Sukari,2.9
+C01428,Omondi Kamau,26-35,Regular,Bronze,Ndenderu,2.9
+C01429,Akinyi Juma,26-35,Occasional,Gold,Kahawa Sukari,1.3
+C01430,Simiyu Omondi,56+,New,Bronze,Ndenderu,6.0
+C01431,Simiyu Wanjiku,56+,Regular,Silver,Ruiru Town Center,1.5
+C01432,Kiplagat Wanjala,46-55,Occasional,Gold,Githurai 45,0.9
+C01433,Ochieng Simiyu,46-55,Regular,Gold,Ruiru Town Center,6.3
+C01434,Achieng Wambui,46-55,Occasional,Bronze,Ndenderu,7.3
+C01435,Omondi Mumbi,56+,Occasional,Silver,Kahawa Wendani,6.2
+C01436,Hassan Njoroge,56+,Regular,Bronze,Green Valley,6.7
+C01437,Njoroge Kamau,36-45,Premium,Platinum,Ruiru Town Center,5.0
+C01438,Okoth Kiplagat,56+,Regular,Silver,Githurai 45,7.2
+C01439,Okoth Otieno,56+,New,Bronze,Ruiru CBD,4.2
+C01440,Kiplagat Chebet,26-35,New,Gold,Githurai 44,7.9
+C01441,Mutiso Kariuki,18-25,Occasional,Bronze,Ruiru CBD,1.3
+C01442,Akinyi Kamau,46-55,Regular,Gold,Kahawa Wendani,6.6
+C01443,Adhiambo Omondi,26-35,Regular,Silver,Ruiru Sports Club,5.3
+C01444,Abdullah Chebet,18-25,Regular,Gold,Ruiru Sports Club,4.9
+C01445,Were Mumbi,18-25,Occasional,Bronze,Kahawa Sukari,5.9
+C01446,Mumbi Muthoni,36-45,Regular,Gold,Mwiki,6.8
+C01447,Otieno Otieno,56+,New,Silver,Githurai 45,7.0
+C01448,Mwangi Kariuki,26-35,Occasional,Bronze,Mwiki,1.8
+C01449,Muthoni Wanjala,18-25,Regular,Bronze,Green Valley,2.0
+C01450,Wanjiku Chebet,56+,Regular,Bronze,Ruiru CBD,0.6
+C01451,Abdullah Juma,26-35,Premium,Platinum,Ruiru Town Center,1.5
+C01452,Mwangi Mwangi,36-45,Regular,Bronze,Ruiru Town Center,2.5
+C01453,Maina Kariuki,46-55,Occasional,Silver,Mwiki,5.9
+C01454,Adhiambo Kamau,46-55,Regular,Silver,Green Valley,4.1
+C01455,Chebet Wanjala,18-25,Regular,Platinum,Ruiru Sports Club,6.2
+C01456,Wanjala Achieng,56+,Occasional,Bronze,Githurai 44,4.1
+C01457,Juma Nyambura,36-45,Regular,Bronze,Kihara,4.7
+C01458,Abdullah Simiyu,18-25,Occasional,Silver,Mwiki,1.3
+C01459,Njoroge Kiplagat,56+,New,Bronze,Ruiru CBD,6.3
+C01460,Wairimu Abdullah,26-35,Premium,Bronze,Ruiru Sports Club,6.2
+C01461,Maina Kinyua,46-55,Regular,Silver,Ruiru Sports Club,2.8
+C01462,Wanjiku Kipchoge,18-25,Regular,Bronze,Githurai 44,3.0
+C01463,Mutiso Wanjala,18-25,Regular,Bronze,Kahawa Wendani,2.1
+C01464,Wairimu Wanjala,56+,Regular,Bronze,Ndenderu,6.6
+C01465,Kamau Omondi,18-25,New,Silver,Ruiru CBD,6.1
+C01466,Akinyi Ochieng,26-35,Regular,Gold,Ndenderu,5.1
+C01467,Kiplagat Otieno,46-55,New,Bronze,Githurai 45,2.3
+C01468,Simiyu Maina,46-55,Occasional,Gold,Githurai 44,1.8
+C01469,Wambui Juma,56+,Occasional,Silver,Kihara,0.9
+C01470,Mumbi Were,18-25,New,Gold,Kahawa Wendani,0.8
+C01471,Okoth Juma,36-45,Regular,Bronze,Githurai 44,1.9
+C01472,Adhiambo Njeri,18-25,Regular,Bronze,Githurai 45,1.3
+C01473,Kiplagat Kariuki,56+,Occasional,Silver,Githurai 45,4.7
+C01474,Maina Kipchoge,26-35,New,Silver,Kihara,3.2
+C01475,Kariuki Adhiambo,46-55,Regular,Silver,Kihara,3.8
+C01476,Wairimu Were,46-55,Occasional,Silver,Githurai 45,5.0
+C01477,Okoth Otieno,26-35,New,Silver,Kimbo,5.4
+C01478,Chebet Muthoni,36-45,New,Bronze,Githurai 44,5.4
+C01479,Were Njoroge,18-25,Occasional,Bronze,Kahawa Wendani,2.5
+C01480,Simiyu Juma,46-55,New,Bronze,Kahawa Sukari,6.6
+C01481,Njeri Wanjiku,36-45,Occasional,Bronze,Kahawa Sukari,7.4
+C01482,Otieno Were,18-25,Regular,Silver,Githurai 44,2.9
+C01483,Njoroge Kamau,36-45,Regular,Bronze,Kimbo,0.6
+C01484,Were Abdullah,36-45,Regular,Silver,Kihara,7.2
+C01485,Mumbi Mutiso,46-55,Regular,Gold,Kahawa Wendani,7.4
+C01486,Njoroge Kinyua,56+,New,Bronze,Kahawa Wendani,0.9
+C01487,Okoth Simiyu,26-35,Regular,Bronze,Kimbo,0.5
+C01488,Maina Akinyi,26-35,Regular,Silver,Ruiru Sports Club,6.6
+C01489,Abdullah Ochieng,46-55,Premium,Platinum,Ruiru Town Center,2.8
+C01490,Wanjala Kamau,36-45,Occasional,Bronze,Kahawa Sukari,7.4
+C01491,Akinyi Ochieng,36-45,Premium,Bronze,Green Valley,2.1
+C01492,Njoroge Wambui,46-55,New,Gold,Kahawa Wendani,7.0
+C01493,Abdullah Maina,46-55,Regular,Bronze,Githurai Kimbo,1.0
+C01494,Mumbi Kiplagat,26-35,Occasional,Silver,Githurai 44,2.5
+C01495,Njeri Kipchoge,26-35,New,Silver,Ruiru CBD,7.8
+C01496,Omondi Hassan,56+,Regular,Platinum,Ruiru Sports Club,2.2
+C01497,Omondi Mumbi,56+,Regular,Gold,Githurai 44,1.5
+C01498,Nyambura Kariuki,36-45,Regular,Bronze,Ruiru Town Center,6.9
+C01499,Kamau Kamau,26-35,Occasional,Bronze,Mwiki,1.4
+C01500,Mumbi Chebet,36-45,Occasional,Bronze,Githurai 44,1.2
+C01501,Kiplagat Wairimu,36-45,Occasional,Silver,Githurai 45,2.9
+C01502,Muthoni Njeri,56+,Regular,Gold,Kimbo,5.3
+C01503,Akinyi Otieno,46-55,Regular,Bronze,Githurai 45,5.8
+C01504,Chebet Mumbi,18-25,Premium,Silver,Ruiru Sports Club,7.1
+C01505,Akinyi Kamau,56+,Regular,Gold,Ruiru Town Center,4.6
+C01506,Wanjiku Omondi,46-55,Premium,Silver,Ruiru Town Center,3.5
+C01507,Kamau Wanjala,36-45,Occasional,Gold,Ndenderu,3.2
+C01508,Wambui Kinyua,36-45,Regular,Bronze,Ndenderu,6.9
+C01509,Kiplagat Wambui,36-45,Regular,Silver,Kimbo,5.9
+C01510,Kinyua Abdullah,18-25,Regular,Bronze,Githurai 45,7.3
+C01511,Kipchoge Mumbi,26-35,Occasional,Bronze,Kahawa Wendani,7.7
+C01512,Mwangi Okoth,26-35,Regular,Platinum,Ruiru Town Center,2.8
+C01513,Achieng Mumbi,36-45,New,Bronze,Githurai 44,4.5
+C01514,Abdullah Nyambura,26-35,Regular,Silver,Githurai 44,5.2
+C01515,Simiyu Hassan,18-25,Occasional,Silver,Githurai 44,1.7
+C01516,Muthoni Wanjiku,56+,Regular,Platinum,Green Valley,0.9
+C01517,Kinyua Wambui,56+,Regular,Bronze,Ruiru Town Center,7.0
+C01518,Wairimu Were,36-45,Regular,Bronze,Ndenderu,4.5
+C01519,Kariuki Wanjiku,18-25,New,Bronze,Ndenderu,4.8
+C01520,Wambui Mumbi,26-35,Regular,Bronze,Kahawa Wendani,4.7
+C01521,Omondi Mumbi,56+,Occasional,Gold,Kahawa Sukari,6.2
+C01522,Hassan Otieno,46-55,Occasional,Silver,Kihara,1.6
+C01523,Mumbi Omondi,26-35,Regular,Silver,Green Valley,5.1
+C01524,Abdullah Wanjiku,56+,Occasional,Bronze,Ruiru Sports Club,4.0
+C01525,Kipchoge Wanjiku,56+,Occasional,Bronze,Githurai 44,7.2
+C01526,Wairimu Were,36-45,Regular,Platinum,Green Valley,4.4
+C01527,Mumbi Achieng,18-25,Premium,Gold,Ruiru Sports Club,7.6
+C01528,Kipchoge Maina,36-45,Occasional,Gold,Kimbo,3.1
+C01529,Simiyu Nyambura,36-45,Regular,Bronze,Kimbo,7.8
+C01530,Njeri Wambui,46-55,New,Silver,Mwiki,7.1
+C01531,Wambui Mutiso,18-25,Occasional,Bronze,Ndenderu,4.9
+C01532,Maina Otieno,18-25,Regular,Silver,Ndenderu,3.2
+C01533,Kinyua Chebet,26-35,Regular,Bronze,Ruiru Town Center,3.3
+C01534,Njeri Abdullah,26-35,Regular,Silver,Kahawa Wendani,6.3
+C01535,Kipchoge Chebet,36-45,Occasional,Bronze,Githurai 45,4.9
+C01536,Wanjiku Kipchoge,18-25,Regular,Bronze,Kimbo,3.5
+C01537,Kariuki Otieno,18-25,New,Silver,Githurai Kimbo,5.3
+C01538,Wanjiku Adhiambo,26-35,Occasional,Silver,Githurai 44,6.0
+C01539,Kamau Achieng,46-55,Occasional,Gold,Kimbo,0.7
+C01540,Otieno Kiplagat,36-45,Regular,Silver,Ruiru Town Center,1.2
+C01541,Wanjala Hassan,18-25,Regular,Silver,Githurai 44,1.2
+C01542,Wanjiku Were,18-25,New,Gold,Githurai 44,2.2
+C01543,Wambui Achieng,36-45,Regular,Bronze,Ruiru CBD,3.7
+C01544,Mumbi Nyambura,18-25,New,Silver,Kahawa Sukari,6.5
+C01545,Omondi Wanjiku,26-35,Occasional,Gold,Green Valley,3.1
+C01546,Wanjiku Njoroge,56+,Occasional,Silver,Githurai 45,0.6
+C01547,Omondi Wairimu,18-25,New,Silver,Githurai Kimbo,4.1
+C01548,Kamau Kamau,36-45,Regular,Bronze,Ndenderu,8.0
+C01549,Okoth Achieng,26-35,Regular,Platinum,Ruiru Town Center,3.1
+C01550,Simiyu Adhiambo,26-35,Occasional,Bronze,Ruiru Town Center,7.7
+C01551,Okoth Njoroge,56+,New,Silver,Kahawa Wendani,1.3
+C01552,Wairimu Wairimu,36-45,Premium,Bronze,Ruiru Sports Club,1.8
+C01553,Mutiso Otieno,56+,Regular,Bronze,Kihara,5.9
+C01554,Njeri Were,18-25,Premium,Bronze,Ruiru Sports Club,4.3
+C01555,Akinyi Mwangi,26-35,Regular,Gold,Githurai Kimbo,6.2
+C01556,Mwangi Otieno,56+,New,Silver,Mwiki,7.0
+C01557,Ochieng Were,56+,Occasional,Gold,Githurai 44,2.4
+C01558,Wambui Wambui,18-25,Regular,Silver,Green Valley,5.6
+C01559,Omondi Simiyu,56+,Occasional,Platinum,Ruiru Town Center,5.1
+C01560,Omondi Juma,18-25,Regular,Platinum,Ruiru Sports Club,7.0
+C01561,Achieng Otieno,36-45,Premium,Silver,Green Valley,3.7
+C01562,Nyambura Akinyi,56+,Occasional,Bronze,Githurai Kimbo,0.9
+C01563,Nyambura Omondi,36-45,Occasional,Bronze,Kahawa Sukari,4.8
+C01564,Ochieng Simiyu,36-45,Regular,Bronze,Githurai Kimbo,7.7
+C01565,Omondi Simiyu,36-45,Regular,Bronze,Mwiki,0.6
+C01566,Kipchoge Achieng,26-35,New,Bronze,Kihara,2.3
+C01567,Nyambura Njeri,46-55,Occasional,Gold,Ruiru CBD,2.9
+C01568,Mutiso Otieno,56+,Regular,Gold,Green Valley,6.2
+C01569,Kinyua Chebet,56+,Regular,Bronze,Githurai 45,2.9
+C01570,Muthoni Njeri,56+,Occasional,Silver,Kimbo,2.3
+C01571,Hassan Wambui,36-45,Regular,Gold,Ruiru Sports Club,5.4
+C01572,Omondi Mutiso,36-45,Regular,Bronze,Githurai 44,0.8
+C01573,Mwangi Kamau,36-45,Regular,Gold,Kihara,1.8
+C01574,Chebet Kamau,56+,Occasional,Bronze,Ruiru Town Center,3.6
+C01575,Wanjiku Okoth,18-25,Regular,Silver,Kihara,3.2
+C01576,Wairimu Mumbi,56+,Regular,Bronze,Githurai Kimbo,3.1
+C01577,Mwangi Wambui,46-55,Occasional,Bronze,Kahawa Wendani,1.3
+C01578,Mwangi Ochieng,56+,Occasional,Silver,Ndenderu,3.2
+C01579,Juma Njeri,36-45,Occasional,Gold,Ruiru CBD,6.5
+C01580,Njoroge Wambui,26-35,Occasional,Gold,Ruiru Town Center,3.6
+C01581,Mumbi Wambui,26-35,Occasional,Silver,Kimbo,4.9
+C01582,Omondi Njeri,56+,New,Bronze,Githurai 44,1.7
+C01583,Chebet Nyambura,46-55,Regular,Bronze,Mwiki,1.0
+C01584,Kinyua Mwangi,56+,Occasional,Bronze,Kimbo,7.1
+C01585,Kipchoge Mwangi,46-55,Occasional,Bronze,Kahawa Wendani,3.0
+C01586,Wairimu Kamau,56+,Occasional,Silver,Githurai 45,3.1
+C01587,Kamau Mutiso,26-35,Premium,Platinum,Green Valley,7.1
+C01588,Mutiso Wambui,18-25,Regular,Gold,Ruiru CBD,5.8
+C01589,Wanjala Abdullah,56+,Regular,Silver,Kimbo,6.2
+C01590,Hassan Wambui,46-55,Premium,Silver,Green Valley,5.6
+C01591,Wanjala Maina,26-35,New,Gold,Mwiki,1.3
+C01592,Mutiso Mwangi,36-45,Regular,Platinum,Ruiru Town Center,7.7
+C01593,Njeri Nyambura,46-55,Occasional,Gold,Githurai 44,7.3
+C01594,Otieno Chebet,56+,Occasional,Gold,Githurai 45,2.3
+C01595,Omondi Adhiambo,18-25,Occasional,Bronze,Mwiki,6.5
+C01596,Ochieng Mutiso,26-35,Regular,Bronze,Kahawa Sukari,3.6
+C01597,Maina Kamau,36-45,Regular,Silver,Ruiru Town Center,5.6
+C01598,Juma Otieno,18-25,Regular,Platinum,Green Valley,1.7
+C01599,Kiplagat Nyambura,36-45,New,Bronze,Githurai 45,4.5
+C01600,Adhiambo Otieno,18-25,Regular,Platinum,Ruiru Town Center,1.4
+C01601,Nyambura Akinyi,18-25,Regular,Gold,Ruiru CBD,4.5
+C01602,Njoroge Njoroge,36-45,Premium,Platinum,Ruiru Sports Club,2.3
+C01603,Njoroge Achieng,46-55,Premium,Silver,Green Valley,3.9
+C01604,Kiplagat Were,46-55,Regular,Silver,Kihara,5.5
+C01605,Chebet Adhiambo,26-35,Occasional,Silver,Kimbo,7.1
+C01606,Njeri Mumbi,18-25,Occasional,Bronze,Kahawa Wendani,1.7
+C01607,Okoth Juma,18-25,Regular,Bronze,Mwiki,7.2
+C01608,Maina Mutiso,18-25,New,Silver,Kimbo,3.4
+C01609,Wambui Simiyu,26-35,Occasional,Bronze,Kihara,6.8
+C01610,Akinyi Wairimu,36-45,Regular,Silver,Ndenderu,4.3
+C01611,Kiplagat Omondi,56+,Occasional,Bronze,Green Valley,7.0
+C01612,Muthoni Kipchoge,18-25,New,Silver,Mwiki,5.5
+C01613,Achieng Wanjiku,46-55,Occasional,Bronze,Kihara,4.3
+C01614,Omondi Achieng,26-35,Occasional,Bronze,Githurai 44,2.8
+C01615,Kinyua Akinyi,18-25,Regular,Silver,Kihara,7.8
+C01616,Kipchoge Kinyua,56+,Regular,Silver,Ndenderu,6.5
+C01617,Otieno Hassan,56+,Occasional,Silver,Githurai 45,3.4
+C01618,Chebet Juma,56+,Regular,Silver,Githurai Kimbo,1.8
+C01619,Okoth Mutiso,56+,Regular,Gold,Ruiru Town Center,6.3
+C01620,Kamau Maina,18-25,Premium,Gold,Green Valley,7.9
+C01621,Wairimu Kipchoge,36-45,Occasional,Bronze,Githurai 44,2.6
+C01622,Kamau Njeri,18-25,New,Silver,Githurai 44,7.4
+C01623,Muthoni Maina,56+,Regular,Silver,Kihara,1.4
+C01624,Hassan Mwangi,18-25,Occasional,Silver,Ruiru Town Center,7.6
+C01625,Wanjiku Kariuki,26-35,Occasional,Gold,Githurai 44,6.1
+C01626,Mutiso Mumbi,56+,Occasional,Bronze,Githurai 44,3.1
+C01627,Mutiso Hassan,36-45,Regular,Gold,Kihara,2.8
+C01628,Kariuki Kipchoge,36-45,Regular,Silver,Kahawa Wendani,5.3
+C01629,Ochieng Mumbi,36-45,Regular,Platinum,Ruiru Town Center,5.0
+C01630,Simiyu Kariuki,26-35,Regular,Silver,Githurai Kimbo,7.4
+C01631,Akinyi Mwangi,18-25,Regular,Bronze,Green Valley,6.2
+C01632,Simiyu Wambui,18-25,Occasional,Silver,Ndenderu,4.6
+C01633,Kinyua Were,36-45,Regular,Gold,Kihara,7.5
+C01634,Otieno Adhiambo,36-45,Regular,Gold,Ruiru Sports Club,4.9
+C01635,Okoth Wanjiku,56+,Occasional,Silver,Githurai Kimbo,6.9
+C01636,Simiyu Wanjala,46-55,Regular,Gold,Githurai 44,6.8
+C01637,Ochieng Kariuki,26-35,Regular,Bronze,Ruiru CBD,7.4
+C01638,Wairimu Omondi,26-35,Regular,Bronze,Kimbo,1.0
+C01639,Kipchoge Maina,18-25,Regular,Bronze,Githurai Kimbo,4.9
+C01640,Kinyua Wanjiku,46-55,New,Silver,Githurai 44,4.0
+C01641,Hassan Wairimu,46-55,Regular,Gold,Ruiru Sports Club,4.2
+C01642,Kamau Njeri,46-55,Regular,Bronze,Ruiru Town Center,3.9
+C01643,Kamau Akinyi,36-45,New,Bronze,Kahawa Sukari,6.8
+C01644,Wanjala Mwangi,26-35,New,Silver,Mwiki,2.9
+C01645,Kariuki Njeri,46-55,Regular,Silver,Kihara,4.0
+C01646,Mumbi Mwangi,56+,Occasional,Gold,Ruiru Town Center,2.0
+C01647,Wambui Wairimu,18-25,Occasional,Silver,Kahawa Wendani,2.4
+C01648,Hassan Kinyua,26-35,New,Gold,Kahawa Wendani,5.5
+C01649,Okoth Mwangi,46-55,Occasional,Bronze,Githurai Kimbo,1.4
+C01650,Juma Chebet,56+,Regular,Bronze,Githurai 44,1.9
+C01651,Were Wairimu,36-45,Occasional,Gold,Kihara,4.5
+C01652,Mumbi Juma,46-55,Occasional,Platinum,Green Valley,0.8
+C01653,Otieno Maina,46-55,Occasional,Bronze,Kimbo,1.5
+C01654,Njeri Otieno,36-45,Regular,Silver,Ruiru Sports Club,7.0
+C01655,Adhiambo Kinyua,46-55,New,Bronze,Ndenderu,6.8
+C01656,Kiplagat Juma,18-25,Regular,Bronze,Githurai 44,3.1
+C01657,Wanjala Abdullah,56+,Occasional,Gold,Kihara,3.1
+C01658,Adhiambo Mutiso,18-25,Occasional,Bronze,Githurai 44,7.5
+C01659,Akinyi Wanjala,46-55,Occasional,Silver,Githurai 44,0.7
+C01660,Kinyua Kinyua,26-35,Regular,Bronze,Kimbo,4.9
+C01661,Hassan Were,36-45,New,Silver,Kimbo,5.0
+C01662,Kinyua Mwangi,26-35,New,Gold,Ndenderu,6.4
+C01663,Otieno Njeri,18-25,Premium,Gold,Green Valley,7.6
+C01664,Achieng Mumbi,36-45,Premium,Platinum,Ruiru Town Center,3.2
+C01665,Were Were,46-55,Occasional,Bronze,Kahawa Wendani,3.8
+C01666,Juma Mutiso,26-35,Occasional,Gold,Green Valley,5.5
+C01667,Otieno Wanjiku,36-45,Regular,Bronze,Kahawa Sukari,7.8
+C01668,Nyambura Ochieng,18-25,Regular,Bronze,Kimbo,7.2
+C01669,Kipchoge Muthoni,26-35,New,Silver,Githurai 44,5.5
+C01670,Ochieng Maina,56+,Regular,Silver,Green Valley,6.9
+C01671,Okoth Mumbi,36-45,New,Bronze,Ruiru CBD,1.1
+C01672,Kinyua Mumbi,26-35,Regular,Silver,Ndenderu,3.3
+C01673,Adhiambo Ochieng,46-55,Regular,Bronze,Ruiru Town Center,0.6
+C01674,Otieno Achieng,46-55,New,Bronze,Ndenderu,1.8
+C01675,Achieng Were,46-55,Occasional,Silver,Ruiru Town Center,5.2
+C01676,Simiyu Kiplagat,18-25,Regular,Platinum,Ruiru Sports Club,7.1
+C01677,Kariuki Nyambura,26-35,Premium,Platinum,Green Valley,5.2
+C01678,Kamau Otieno,26-35,Regular,Silver,Ruiru Town Center,5.5
+C01679,Were Simiyu,46-55,Occasional,Silver,Mwiki,1.3
+C01680,Hassan Mumbi,36-45,Regular,Gold,Githurai 44,5.5
+C01681,Kariuki Nyambura,18-25,Regular,Bronze,Githurai 45,3.9
+C01682,Were Wambui,56+,Regular,Silver,Ruiru Town Center,5.4
+C01683,Omondi Hassan,26-35,New,Bronze,Kimbo,2.9
+C01684,Kamau Kariuki,46-55,Regular,Bronze,Ruiru CBD,4.9
+C01685,Abdullah Njeri,18-25,Occasional,Silver,Kahawa Sukari,3.7
+C01686,Kinyua Wanjiku,18-25,Regular,Silver,Ruiru CBD,4.7
+C01687,Njeri Mwangi,56+,New,Gold,Kahawa Sukari,1.6
+C01688,Maina Wambui,36-45,Occasional,Gold,Githurai 45,3.5
+C01689,Wairimu Njeri,36-45,Occasional,Gold,Green Valley,3.3
+C01690,Kariuki Chebet,18-25,Regular,Platinum,Ruiru Town Center,6.0
+C01691,Maina Wambui,18-25,Regular,Bronze,Ruiru Sports Club,5.8
+C01692,Mutiso Kariuki,26-35,Occasional,Bronze,Kahawa Sukari,7.3
+C01693,Maina Chebet,56+,Occasional,Silver,Kahawa Wendani,5.2
+C01694,Akinyi Otieno,46-55,Regular,Gold,Ruiru Sports Club,2.9
+C01695,Njoroge Achieng,26-35,Regular,Bronze,Kahawa Wendani,6.4
+C01696,Nyambura Nyambura,26-35,Regular,Bronze,Kihara,4.2
+C01697,Omondi Otieno,46-55,New,Bronze,Kihara,2.0
+C01698,Wambui Kariuki,26-35,Regular,Bronze,Mwiki,6.1
+C01699,Achieng Kipchoge,18-25,Premium,Gold,Ruiru Sports Club,1.5
+C01700,Were Maina,46-55,Occasional,Gold,Kahawa Wendani,1.8
+C01701,Mutiso Adhiambo,26-35,Regular,Silver,Ruiru Town Center,6.2
+C01702,Adhiambo Kariuki,36-45,New,Silver,Kahawa Wendani,6.3
+C01703,Wanjiku Njoroge,36-45,Regular,Bronze,Kimbo,6.4
+C01704,Ochieng Wambui,26-35,Occasional,Bronze,Ruiru Town Center,2.7
+C01705,Kamau Hassan,46-55,Occasional,Silver,Ndenderu,7.0
+C01706,Were Kinyua,18-25,Occasional,Gold,Ndenderu,5.9
+C01707,Simiyu Were,46-55,New,Silver,Kahawa Wendani,6.8
+C01708,Maina Wanjiku,46-55,Premium,Bronze,Ruiru Sports Club,5.8
+C01709,Juma Wanjala,36-45,Regular,Bronze,Mwiki,4.8
+C01710,Wambui Kipchoge,56+,New,Silver,Kimbo,1.3
+C01711,Mumbi Achieng,26-35,Occasional,Gold,Githurai 45,5.8
+C01712,Mumbi Nyambura,26-35,Occasional,Silver,Kimbo,5.7
+C01713,Mwangi Nyambura,46-55,Premium,Gold,Ruiru Sports Club,2.8
+C01714,Adhiambo Juma,18-25,Occasional,Bronze,Ndenderu,6.0
+C01715,Simiyu Mwangi,26-35,Occasional,Silver,Kimbo,4.6
+C01716,Kipchoge Adhiambo,46-55,Occasional,Bronze,Kahawa Wendani,4.7
+C01717,Ochieng Mumbi,36-45,Regular,Gold,Githurai Kimbo,3.3
+C01718,Wanjiku Kinyua,46-55,Occasional,Silver,Mwiki,1.4
+C01719,Muthoni Kiplagat,18-25,Occasional,Bronze,Kimbo,2.1
+C01720,Juma Mwangi,18-25,Regular,Silver,Ruiru Sports Club,6.3
+C01721,Kinyua Nyambura,36-45,Occasional,Bronze,Kihara,2.5
+C01722,Hassan Achieng,36-45,Occasional,Silver,Githurai 44,0.5
+C01723,Omondi Mumbi,36-45,Occasional,Gold,Kahawa Sukari,8.0
+C01724,Ochieng Kinyua,56+,Occasional,Silver,Githurai 44,2.1
+C01725,Mwangi Kipchoge,56+,Regular,Bronze,Kahawa Wendani,5.4
+C01726,Nyambura Akinyi,18-25,Occasional,Gold,Ndenderu,7.5
+C01727,Hassan Wanjiku,36-45,Occasional,Gold,Kihara,5.0
+C01728,Nyambura Kiplagat,26-35,Regular,Gold,Kahawa Sukari,6.5
+C01729,Njoroge Wanjala,26-35,Occasional,Bronze,Kahawa Sukari,7.8
+C01730,Akinyi Simiyu,18-25,Premium,Bronze,Ruiru Sports Club,7.0
+C01731,Wanjala Nyambura,26-35,Occasional,Bronze,Ndenderu,4.7
+C01732,Otieno Chebet,56+,New,Gold,Kahawa Sukari,3.2
+C01733,Muthoni Were,26-35,Premium,Platinum,Ruiru Town Center,4.1
+C01734,Nyambura Wairimu,26-35,Regular,Bronze,Ndenderu,6.8
+C01735,Kariuki Muthoni,56+,Regular,Silver,Mwiki,6.9
+C01736,Omondi Njeri,18-25,Regular,Gold,Kahawa Sukari,6.8
+C01737,Kipchoge Wairimu,26-35,Occasional,Bronze,Kimbo,5.0
+C01738,Kipchoge Abdullah,56+,Regular,Gold,Githurai Kimbo,4.1
+C01739,Wambui Mumbi,56+,Premium,Gold,Ruiru Sports Club,2.8
+C01740,Njeri Hassan,36-45,Regular,Gold,Kahawa Sukari,0.5
+C01741,Maina Wairimu,26-35,New,Bronze,Ruiru CBD,6.2
+C01742,Adhiambo Njoroge,26-35,Regular,Bronze,Kahawa Wendani,2.6
+C01743,Mutiso Kipchoge,26-35,Occasional,Bronze,Mwiki,3.0
+C01744,Njeri Akinyi,18-25,Regular,Silver,Green Valley,6.8
+C01745,Wanjala Wambui,26-35,Premium,Silver,Green Valley,0.9
+C01746,Kinyua Ochieng,36-45,New,Bronze,Ndenderu,7.5
+C01747,Kipchoge Wanjiku,18-25,Occasional,Bronze,Kahawa Wendani,0.5
+C01748,Maina Achieng,18-25,New,Silver,Githurai Kimbo,7.5
+C01749,Hassan Maina,36-45,Occasional,Silver,Githurai 45,3.9
+C01750,Njoroge Omondi,56+,Occasional,Gold,Ndenderu,1.3
+C01751,Okoth Kariuki,36-45,Occasional,Bronze,Githurai Kimbo,5.6
+C01752,Wambui Akinyi,36-45,Regular,Gold,Kahawa Wendani,7.2
+C01753,Omondi Wairimu,46-55,New,Bronze,Githurai 44,3.8
+C01754,Wambui Kipchoge,26-35,New,Bronze,Githurai Kimbo,5.7
+C01755,Adhiambo Kinyua,36-45,Regular,Bronze,Ndenderu,7.8
+C01756,Kiplagat Wanjala,56+,Regular,Silver,Ruiru CBD,2.3
+C01757,Otieno Njoroge,56+,Occasional,Bronze,Githurai 44,6.7
+C01758,Okoth Omondi,36-45,Regular,Gold,Mwiki,2.7
+C01759,Kariuki Kariuki,18-25,Occasional,Bronze,Githurai 45,3.7
+C01760,Kariuki Achieng,26-35,Regular,Gold,Ndenderu,2.6
+C01761,Kariuki Wanjala,18-25,New,Gold,Ndenderu,3.8
+C01762,Omondi Kipchoge,26-35,Regular,Bronze,Kihara,0.5
+C01763,Njoroge Juma,26-35,Regular,Bronze,Ruiru Sports Club,2.8
+C01764,Wanjiku Abdullah,46-55,Regular,Bronze,Githurai 45,3.8
+C01765,Kipchoge Njeri,56+,Occasional,Gold,Kimbo,5.2
+C01766,Simiyu Njeri,46-55,Regular,Platinum,Ruiru Town Center,5.3
+C01767,Njeri Chebet,56+,Premium,Silver,Ruiru Sports Club,4.9
+C01768,Nyambura Kiplagat,56+,Regular,Bronze,Githurai Kimbo,2.7
+C01769,Were Wairimu,18-25,Regular,Silver,Kahawa Sukari,7.6
+C01770,Wanjala Hassan,46-55,Regular,Bronze,Green Valley,3.4
+C01771,Adhiambo Wanjala,56+,Regular,Silver,Ruiru Town Center,2.1
+C01772,Wambui Kipchoge,26-35,Occasional,Bronze,Ndenderu,4.7
+C01773,Wambui Wambui,36-45,Regular,Gold,Githurai Kimbo,6.1
+C01774,Hassan Kipchoge,36-45,Regular,Bronze,Ndenderu,0.6
+C01775,Juma Hassan,36-45,Occasional,Bronze,Githurai 44,2.6
+C01776,Mutiso Chebet,18-25,New,Bronze,Githurai 45,6.7
+C01777,Simiyu Mumbi,46-55,New,Silver,Kimbo,4.3
+C01778,Chebet Omondi,46-55,Regular,Silver,Kihara,3.6
+C01779,Juma Maina,18-25,Regular,Bronze,Ndenderu,7.5
+C01780,Chebet Hassan,56+,New,Silver,Ruiru CBD,1.2
+C01781,Wairimu Wanjiku,18-25,New,Silver,Kahawa Sukari,5.1
+C01782,Ochieng Kiplagat,26-35,Regular,Gold,Kahawa Wendani,3.1
+C01783,Kariuki Ochieng,18-25,Regular,Bronze,Kimbo,1.0
+C01784,Maina Nyambura,26-35,New,Bronze,Githurai 45,2.1
+C01785,Nyambura Chebet,26-35,New,Silver,Githurai 45,5.2
+C01786,Nyambura Akinyi,36-45,Occasional,Bronze,Kahawa Wendani,0.7
+C01787,Wanjiku Ochieng,36-45,Regular,Gold,Green Valley,4.9
+C01788,Achieng Nyambura,18-25,Occasional,Silver,Kahawa Wendani,7.7
+C01789,Achieng Mumbi,46-55,Regular,Bronze,Githurai 45,6.5
+C01790,Juma Njeri,36-45,Regular,Bronze,Githurai 44,3.1
+C01791,Nyambura Wanjiku,18-25,New,Gold,Ruiru CBD,1.5
+C01792,Wairimu Mutiso,36-45,Premium,Bronze,Green Valley,4.0
+C01793,Ochieng Maina,36-45,Occasional,Bronze,Githurai 45,3.4
+C01794,Kinyua Kipchoge,36-45,Occasional,Gold,Ruiru Town Center,7.8
+C01795,Mumbi Njoroge,56+,New,Bronze,Kahawa Sukari,7.9
+C01796,Mutiso Kamau,36-45,New,Bronze,Kihara,3.6
+C01797,Kamau Okoth,26-35,Regular,Gold,Kahawa Wendani,1.6
+C01798,Okoth Mwangi,36-45,Regular,Silver,Githurai 45,7.3
+C01799,Omondi Kamau,36-45,Regular,Gold,Ndenderu,6.5
+C01800,Kamau Wairimu,56+,New,Silver,Githurai 44,4.3
+C01801,Hassan Mwangi,36-45,Occasional,Silver,Githurai Kimbo,3.2
+C01802,Njoroge Adhiambo,56+,Occasional,Silver,Kahawa Wendani,3.9
+C01803,Kipchoge Kipchoge,56+,Premium,Bronze,Ruiru Sports Club,7.3
+C01804,Njoroge Maina,36-45,Regular,Silver,Ruiru CBD,1.9
+C01805,Omondi Wambui,36-45,Premium,Silver,Green Valley,6.6
+C01806,Abdullah Wanjiku,18-25,Regular,Silver,Githurai 44,0.6
+C01807,Okoth Maina,56+,Regular,Bronze,Githurai 45,7.4
+C01808,Kinyua Mwangi,36-45,New,Silver,Kihara,4.3
+C01809,Mumbi Okoth,46-55,Regular,Silver,Kimbo,2.2
+C01810,Wanjiku Njoroge,18-25,New,Bronze,Kahawa Wendani,0.5
+C01811,Abdullah Akinyi,36-45,Occasional,Bronze,Kahawa Sukari,4.7
+C01812,Njeri Kariuki,36-45,Occasional,Gold,Ndenderu,2.3
+C01813,Njoroge Muthoni,18-25,Occasional,Bronze,Kihara,5.2
+C01814,Were Maina,18-25,Occasional,Silver,Green Valley,2.6
+C01815,Kipchoge Okoth,46-55,New,Bronze,Ndenderu,1.2
+C01816,Kiplagat Kamau,56+,Regular,Bronze,Ruiru CBD,4.3
+C01817,Hassan Simiyu,56+,New,Gold,Ruiru CBD,4.7
+C01818,Maina Ochieng,56+,New,Bronze,Githurai 44,3.9
+C01819,Omondi Wanjala,36-45,New,Bronze,Ndenderu,3.9
+C01820,Kinyua Maina,46-55,Regular,Gold,Kahawa Wendani,4.9
+C01821,Kinyua Wanjala,18-25,Regular,Gold,Kahawa Sukari,4.4
+C01822,Nyambura Omondi,46-55,Premium,Platinum,Ruiru Sports Club,1.5
+C01823,Maina Wairimu,26-35,Occasional,Gold,Kahawa Wendani,2.0
+C01824,Were Mwangi,56+,Occasional,Bronze,Githurai 45,1.6
+C01825,Achieng Okoth,46-55,Regular,Bronze,Mwiki,5.7
+C01826,Wairimu Adhiambo,18-25,New,Gold,Kimbo,4.5
+C01827,Abdullah Were,18-25,Regular,Gold,Githurai Kimbo,3.7
+C01828,Kariuki Njeri,26-35,Regular,Silver,Kahawa Sukari,6.5
+C01829,Ochieng Muthoni,26-35,Occasional,Platinum,Ruiru Town Center,2.9
+C01830,Achieng Otieno,56+,Regular,Bronze,Mwiki,4.8
+C01831,Kiplagat Kinyua,46-55,Occasional,Silver,Kahawa Sukari,1.1
+C01832,Hassan Omondi,18-25,Regular,Gold,Ndenderu,6.1
+C01833,Nyambura Kamau,46-55,Occasional,Bronze,Githurai 45,5.7
+C01834,Kariuki Nyambura,56+,Occasional,Gold,Kimbo,6.5
+C01835,Adhiambo Juma,26-35,Regular,Bronze,Kahawa Wendani,7.1
+C01836,Kinyua Kamau,26-35,Occasional,Bronze,Kahawa Wendani,6.2
+C01837,Abdullah Kiplagat,36-45,Occasional,Bronze,Ndenderu,6.8
+C01838,Hassan Abdullah,36-45,Occasional,Silver,Kahawa Sukari,3.1
+C01839,Omondi Adhiambo,26-35,Regular,Silver,Githurai 44,3.1
+C01840,Kiplagat Adhiambo,18-25,Occasional,Bronze,Ruiru CBD,7.6
+C01841,Kariuki Abdullah,18-25,New,Silver,Githurai 45,7.4
+C01842,Adhiambo Omondi,46-55,Regular,Bronze,Green Valley,4.6
+C01843,Adhiambo Abdullah,56+,New,Silver,Mwiki,3.2
+C01844,Kariuki Chebet,36-45,Occasional,Bronze,Kahawa Sukari,7.0
+C01845,Kamau Adhiambo,56+,Regular,Platinum,Ruiru Sports Club,2.9
+C01846,Omondi Omondi,56+,New,Silver,Githurai Kimbo,1.7
+C01847,Mutiso Mutiso,36-45,Premium,Gold,Green Valley,5.3
+C01848,Mumbi Kamau,18-25,Occasional,Gold,Githurai Kimbo,0.8
+C01849,Kipchoge Njoroge,26-35,Regular,Silver,Kihara,3.3
+C01850,Abdullah Omondi,26-35,Regular,Bronze,Kahawa Wendani,6.6
+C01851,Maina Juma,26-35,Regular,Gold,Githurai Kimbo,2.7
+C01852,Maina Kinyua,26-35,Regular,Bronze,Kimbo,7.5
+C01853,Ochieng Akinyi,46-55,New,Bronze,Githurai 45,7.7
+C01854,Hassan Wanjala,46-55,New,Bronze,Kihara,6.6
+C01855,Wanjala Wairimu,26-35,Regular,Bronze,Githurai 44,7.9
+C01856,Maina Muthoni,46-55,Occasional,Silver,Kahawa Sukari,4.5
+C01857,Kariuki Simiyu,36-45,Regular,Silver,Ruiru Sports Club,4.8
+C01858,Adhiambo Were,46-55,Regular,Gold,Ruiru CBD,6.8
+C01859,Wairimu Muthoni,36-45,New,Bronze,Ndenderu,4.2
+C01860,Okoth Kariuki,46-55,Regular,Bronze,Kahawa Wendani,3.6
+C01861,Njoroge Muthoni,46-55,Occasional,Silver,Ruiru CBD,5.1
+C01862,Achieng Kamau,46-55,New,Silver,Githurai Kimbo,5.4
+C01863,Chebet Ochieng,26-35,Occasional,Gold,Ruiru Sports Club,6.1
+C01864,Kamau Otieno,36-45,Regular,Silver,Green Valley,5.5
+C01865,Mwangi Wairimu,26-35,Occasional,Bronze,Kihara,6.1
+C01866,Mwangi Muthoni,46-55,Regular,Bronze,Kahawa Wendani,5.6
+C01867,Were Juma,18-25,Regular,Gold,Kahawa Wendani,4.1
+C01868,Wanjala Okoth,46-55,Regular,Gold,Githurai 45,1.5
+C01869,Muthoni Akinyi,36-45,Regular,Silver,Mwiki,6.4
+C01870,Njeri Kariuki,46-55,New,Bronze,Kimbo,0.7
+C01871,Were Simiyu,36-45,Regular,Bronze,Kimbo,7.9
+C01872,Achieng Kipchoge,18-25,Occasional,Silver,Githurai Kimbo,6.7
+C01873,Wanjala Mumbi,18-25,Occasional,Silver,Kahawa Wendani,5.5
+C01874,Achieng Kipchoge,36-45,Regular,Silver,Ruiru Sports Club,7.7
+C01875,Kinyua Njeri,46-55,Regular,Silver,Mwiki,5.1
+C01876,Kipchoge Adhiambo,36-45,Occasional,Bronze,Kahawa Wendani,0.9
+C01877,Kipchoge Otieno,36-45,Occasional,Silver,Kahawa Sukari,4.7
+C01878,Kiplagat Okoth,46-55,Occasional,Silver,Ruiru CBD,2.6
+C01879,Maina Wanjala,56+,Occasional,Silver,Kimbo,3.3
+C01880,Kiplagat Achieng,46-55,Regular,Platinum,Green Valley,3.9
+C01881,Abdullah Were,36-45,New,Silver,Ndenderu,6.3
+C01882,Ochieng Adhiambo,18-25,Regular,Gold,Ruiru Sports Club,4.3
+C01883,Akinyi Kariuki,46-55,Regular,Bronze,Ruiru Town Center,4.1
+C01884,Kinyua Achieng,56+,Occasional,Gold,Ruiru Sports Club,2.8
+C01885,Ochieng Wambui,56+,Regular,Gold,Green Valley,4.5
+C01886,Wairimu Kariuki,26-35,Regular,Bronze,Kahawa Wendani,2.4
+C01887,Nyambura Abdullah,18-25,Regular,Gold,Githurai Kimbo,2.5
+C01888,Otieno Achieng,26-35,Occasional,Bronze,Kahawa Sukari,6.2
+C01889,Okoth Mwangi,26-35,Regular,Bronze,Githurai 45,3.1
+C01890,Kinyua Akinyi,56+,Occasional,Gold,Kahawa Wendani,0.9
+C01891,Muthoni Nyambura,56+,Occasional,Gold,Kahawa Sukari,3.1
+C01892,Hassan Wambui,46-55,Occasional,Bronze,Githurai 44,5.3
+C01893,Wairimu Wambui,56+,Occasional,Silver,Githurai 44,6.6
+C01894,Hassan Muthoni,46-55,Regular,Bronze,Githurai Kimbo,7.7
+C01895,Maina Wairimu,36-45,Regular,Silver,Githurai 45,6.1
+C01896,Maina Kariuki,46-55,Premium,Gold,Ruiru Sports Club,3.7
+C01897,Wanjiku Mumbi,36-45,Regular,Bronze,Ndenderu,2.7
+C01898,Mwangi Adhiambo,18-25,Regular,Bronze,Mwiki,1.5
+C01899,Akinyi Kipchoge,26-35,New,Bronze,Githurai 44,5.2
+C01900,Adhiambo Wambui,56+,New,Silver,Ruiru CBD,4.3
+C01901,Akinyi Simiyu,46-55,Regular,Gold,Githurai 45,5.6
+C01902,Mutiso Akinyi,56+,New,Bronze,Ruiru CBD,2.3
+C01903,Juma Nyambura,46-55,Occasional,Gold,Kimbo,2.9
+C01904,Ochieng Mumbi,18-25,Occasional,Bronze,Kahawa Sukari,2.7
+C01905,Adhiambo Wanjiku,46-55,Occasional,Gold,Kahawa Sukari,6.5
+C01906,Kipchoge Nyambura,26-35,New,Silver,Mwiki,1.8
+C01907,Ochieng Kamau,36-45,Occasional,Gold,Green Valley,5.1
+C01908,Okoth Wanjala,56+,Occasional,Bronze,Ruiru CBD,0.9
+C01909,Wairimu Maina,18-25,Occasional,Silver,Ruiru Town Center,4.6
+C01910,Achieng Kamau,26-35,Occasional,Bronze,Green Valley,1.0
+C01911,Muthoni Kamau,56+,Regular,Silver,Green Valley,1.8
+C01912,Wanjiku Achieng,56+,New,Silver,Kahawa Wendani,1.3
+C01913,Wairimu Wambui,56+,Occasional,Gold,Ruiru CBD,3.1
+C01914,Kamau Wambui,56+,Regular,Bronze,Kahawa Sukari,3.1
+C01915,Chebet Wambui,36-45,Regular,Bronze,Kahawa Sukari,6.7
+C01916,Nyambura Kiplagat,56+,New,Gold,Kahawa Wendani,2.2
+C01917,Abdullah Akinyi,56+,Regular,Bronze,Kihara,1.1
+C01918,Kariuki Simiyu,46-55,Occasional,Bronze,Kimbo,5.0
+C01919,Were Wairimu,26-35,New,Bronze,Kahawa Wendani,5.7
+C01920,Juma Wairimu,46-55,Occasional,Bronze,Githurai Kimbo,2.7
+C01921,Were Abdullah,56+,Regular,Gold,Green Valley,5.0
+C01922,Kiplagat Chebet,56+,Regular,Gold,Ruiru Sports Club,6.3
+C01923,Kiplagat Njoroge,36-45,Regular,Bronze,Mwiki,3.1
+C01924,Ochieng Wanjala,36-45,Occasional,Silver,Kahawa Sukari,4.4
+C01925,Achieng Chebet,18-25,Regular,Bronze,Githurai Kimbo,1.6
+C01926,Simiyu Akinyi,18-25,New,Bronze,Ndenderu,0.7
+C01927,Were Njeri,18-25,Regular,Silver,Kahawa Wendani,7.9
+C01928,Okoth Abdullah,26-35,Regular,Silver,Kimbo,2.7
+C01929,Wanjiku Chebet,46-55,Regular,Bronze,Githurai Kimbo,2.6
+C01930,Kiplagat Mwangi,36-45,Regular,Gold,Kimbo,7.8
+C01931,Nyambura Ochieng,18-25,Occasional,Silver,Ndenderu,6.0
+C01932,Mumbi Otieno,18-25,Occasional,Silver,Githurai Kimbo,4.9
+C01933,Kinyua Kinyua,36-45,Regular,Bronze,Kahawa Wendani,5.7
+C01934,Akinyi Kipchoge,36-45,Occasional,Bronze,Kihara,5.8
+C01935,Kamau Kinyua,56+,Regular,Gold,Ruiru CBD,6.2
+C01936,Muthoni Ochieng,56+,Occasional,Bronze,Githurai 45,1.0
+C01937,Ochieng Njoroge,36-45,Regular,Silver,Green Valley,3.6
+C01938,Adhiambo Kipchoge,18-25,Premium,Bronze,Ruiru Sports Club,2.7
+C01939,Kiplagat Kariuki,46-55,Regular,Silver,Ruiru CBD,1.0
+C01940,Kipchoge Kamau,36-45,Occasional,Bronze,Kahawa Sukari,3.6
+C01941,Ochieng Akinyi,46-55,Regular,Bronze,Ndenderu,5.1
+C01942,Omondi Juma,46-55,Premium,Silver,Ruiru Town Center,1.8
+C01943,Wanjala Hassan,56+,Occasional,Bronze,Kahawa Sukari,2.8
+C01944,Juma Omondi,18-25,Occasional,Gold,Githurai 44,5.3
+C01945,Adhiambo Mutiso,56+,New,Bronze,Githurai Kimbo,4.8
+C01946,Wairimu Wairimu,56+,Regular,Bronze,Githurai 45,7.0
+C01947,Ochieng Adhiambo,26-35,Regular,Bronze,Ndenderu,6.4
+C01948,Wanjiku Wambui,36-45,Regular,Bronze,Ndenderu,7.7
+C01949,Kipchoge Otieno,26-35,Occasional,Silver,Ndenderu,5.0
+C01950,Wanjala Wambui,36-45,Occasional,Silver,Githurai 44,5.7
+C01951,Kinyua Achieng,56+,Regular,Bronze,Ruiru CBD,7.0
+C01952,Maina Otieno,18-25,New,Bronze,Ndenderu,6.8
+C01953,Maina Wanjiku,46-55,Regular,Gold,Mwiki,5.9
+C01954,Wambui Njoroge,46-55,Regular,Gold,Kihara,4.3
+C01955,Mutiso Mwangi,18-25,Regular,Bronze,Ndenderu,2.5
+C01956,Abdullah Omondi,46-55,Regular,Gold,Kimbo,7.1
+C01957,Wanjala Adhiambo,18-25,New,Bronze,Kimbo,6.3
+C01958,Njeri Wanjala,46-55,Regular,Bronze,Ndenderu,6.8
+C01959,Kiplagat Maina,26-35,Occasional,Gold,Githurai Kimbo,1.6
+C01960,Kiplagat Abdullah,26-35,Regular,Bronze,Githurai Kimbo,2.9
+C01961,Njoroge Wairimu,36-45,New,Bronze,Mwiki,3.7
+C01962,Njoroge Achieng,56+,New,Gold,Kahawa Sukari,6.8
+C01963,Njeri Achieng,18-25,Regular,Bronze,Githurai 44,7.2
+C01964,Kariuki Wairimu,36-45,New,Silver,Githurai 45,2.6
+C01965,Mutiso Kiplagat,26-35,Occasional,Bronze,Githurai 45,5.6
+C01966,Hassan Omondi,26-35,New,Bronze,Kihara,1.1
+C01967,Mumbi Maina,56+,Regular,Silver,Ruiru Sports Club,3.6
+C01968,Were Kiplagat,36-45,Occasional,Bronze,Kimbo,4.2
+C01969,Chebet Wambui,36-45,Occasional,Silver,Ruiru Town Center,6.2
+C01970,Maina Mwangi,36-45,Regular,Bronze,Githurai Kimbo,7.2
+C01971,Kariuki Abdullah,46-55,Occasional,Bronze,Githurai 45,3.0
+C01972,Mwangi Mutiso,36-45,Regular,Gold,Green Valley,4.5
+C01973,Simiyu Abdullah,56+,Occasional,Gold,Kahawa Wendani,5.4
+C01974,Chebet Wairimu,26-35,Premium,Gold,Ruiru Town Center,3.0
+C01975,Kamau Were,36-45,New,Gold,Githurai Kimbo,7.9
+C01976,Chebet Mumbi,26-35,Regular,Silver,Ruiru Town Center,7.1
+C01977,Wambui Wanjala,36-45,Occasional,Gold,Kimbo,2.7
+C01978,Wanjiku Juma,18-25,New,Gold,Kihara,4.3
+C01979,Kipchoge Chebet,26-35,Regular,Silver,Kahawa Wendani,2.2
+C01980,Wairimu Kiplagat,36-45,Regular,Platinum,Ruiru Town Center,4.4
+C01981,Mwangi Wanjala,26-35,Regular,Bronze,Ndenderu,5.6
+C01982,Kamau Wanjala,46-55,Regular,Bronze,Githurai 44,1.1
+C01983,Mumbi Were,56+,Occasional,Gold,Githurai Kimbo,7.0
+C01984,Simiyu Were,56+,Regular,Silver,Githurai 44,5.0
+C01985,Omondi Kiplagat,56+,Regular,Bronze,Githurai 45,7.9
+C01986,Mutiso Okoth,46-55,Occasional,Silver,Kimbo,0.7
+C01987,Hassan Kiplagat,56+,New,Silver,Githurai Kimbo,6.7
+C01988,Simiyu Ochieng,46-55,Occasional,Silver,Ruiru CBD,6.4
+C01989,Hassan Adhiambo,56+,Regular,Silver,Ruiru Sports Club,1.5
+C01990,Kiplagat Nyambura,36-45,Regular,Gold,Kahawa Wendani,3.0
+C01991,Kariuki Mumbi,26-35,Regular,Gold,Ndenderu,7.1
+C01992,Adhiambo Kamau,46-55,Premium,Platinum,Green Valley,4.4
+C01993,Mumbi Kariuki,26-35,Regular,Platinum,Ruiru Town Center,3.5
+C01994,Hassan Nyambura,56+,Premium,Gold,Ruiru Sports Club,7.3
+C01995,Kamau Njoroge,18-25,New,Silver,Githurai Kimbo,1.2
+C01996,Wanjiku Nyambura,18-25,Regular,Silver,Green Valley,4.0
+C01997,Akinyi Juma,56+,New,Gold,Kahawa Wendani,5.4
+C01998,Mwangi Mumbi,18-25,Occasional,Silver,Ndenderu,5.1
+C01999,Njoroge Akinyi,18-25,New,Bronze,Ndenderu,2.5
+C02000,Kinyua Hassan,46-55,Occasional,Bronze,Mwiki,4.7
+C02001,Kipchoge Kamau,18-25,Regular,Bronze,Ruiru CBD,5.8
+C02002,Hassan Otieno,56+,Regular,Silver,Green Valley,4.9
+C02003,Otieno Otieno,36-45,Regular,Gold,Githurai 44,5.6
+C02004,Maina Wanjiku,56+,Regular,Platinum,Ruiru Town Center,2.4
+C02005,Otieno Maina,56+,Regular,Gold,Kihara,6.7
+C02006,Kiplagat Were,46-55,New,Bronze,Kahawa Sukari,3.9
+C02007,Wairimu Mutiso,56+,Regular,Bronze,Kihara,7.9
+C02008,Wairimu Kipchoge,56+,Regular,Gold,Ruiru Town Center,0.7
+C02009,Akinyi Achieng,26-35,Regular,Bronze,Githurai 44,3.4
+C02010,Hassan Njeri,26-35,Regular,Bronze,Ruiru Sports Club,1.9
+C02011,Wanjala Mutiso,26-35,Occasional,Silver,Githurai 45,4.7
+C02012,Wanjala Nyambura,18-25,Regular,Silver,Kahawa Wendani,2.3
+C02013,Simiyu Njeri,18-25,Occasional,Silver,Kimbo,6.0
+C02014,Wambui Maina,56+,Occasional,Bronze,Githurai Kimbo,7.1
+C02015,Adhiambo Adhiambo,46-55,Regular,Silver,Kimbo,2.1
+C02016,Maina Mumbi,18-25,New,Silver,Kahawa Sukari,1.7
+C02017,Akinyi Wanjala,36-45,Occasional,Bronze,Ndenderu,7.1
+C02018,Wambui Okoth,56+,Premium,Gold,Green Valley,3.2
+C02019,Njeri Achieng,56+,Regular,Gold,Ruiru Sports Club,3.8
+C02020,Njeri Wanjiku,26-35,Occasional,Gold,Kahawa Wendani,2.2
+C02021,Maina Were,36-45,Occasional,Silver,Green Valley,3.7
+C02022,Omondi Abdullah,18-25,Occasional,Bronze,Githurai Kimbo,2.2
+C02023,Kiplagat Nyambura,36-45,Regular,Silver,Kimbo,5.5
+C02024,Achieng Kinyua,46-55,New,Bronze,Githurai 44,4.2
+C02025,Omondi Abdullah,18-25,Occasional,Silver,Kihara,6.4
+C02026,Adhiambo Juma,18-25,Occasional,Gold,Mwiki,2.8
+C02027,Achieng Nyambura,46-55,Regular,Bronze,Githurai Kimbo,4.3
+C02028,Mumbi Hassan,56+,Regular,Silver,Githurai Kimbo,2.4
+C02029,Kamau Njoroge,46-55,Occasional,Bronze,Kihara,7.5
+C02030,Wanjala Chebet,46-55,New,Bronze,Githurai Kimbo,4.4
+C02031,Mutiso Achieng,46-55,Regular,Bronze,Kahawa Sukari,1.8
+C02032,Muthoni Maina,18-25,New,Bronze,Githurai Kimbo,2.5
+C02033,Achieng Muthoni,46-55,Regular,Silver,Kimbo,1.1
+C02034,Kinyua Hassan,56+,New,Bronze,Kihara,0.7
+C02035,Adhiambo Njeri,56+,Regular,Bronze,Kimbo,4.4
+C02036,Simiyu Otieno,26-35,New,Bronze,Kihara,3.0
+C02037,Mwangi Juma,56+,Occasional,Silver,Ndenderu,7.7
+C02038,Nyambura Kipchoge,56+,Occasional,Silver,Ruiru Town Center,1.8
+C02039,Wanjala Chebet,18-25,Regular,Silver,Ruiru CBD,6.5
+C02040,Omondi Chebet,26-35,Regular,Bronze,Ruiru Town Center,2.9
+C02041,Simiyu Nyambura,46-55,New,Bronze,Mwiki,2.2
+C02042,Mumbi Mwangi,26-35,Regular,Gold,Ndenderu,7.8
+C02043,Njeri Kariuki,26-35,Regular,Platinum,Ruiru Town Center,6.5
+C02044,Otieno Kariuki,26-35,Occasional,Bronze,Kahawa Wendani,5.2
+C02045,Chebet Wairimu,46-55,Occasional,Bronze,Kahawa Wendani,5.7
+C02046,Hassan Wairimu,26-35,Occasional,Bronze,Kahawa Wendani,7.9
+C02047,Kariuki Wanjiku,18-25,Regular,Bronze,Ruiru CBD,4.9
+C02048,Okoth Kipchoge,26-35,Regular,Bronze,Githurai Kimbo,1.3
+C02049,Adhiambo Hassan,46-55,Occasional,Bronze,Kahawa Sukari,1.0
+C02050,Akinyi Wambui,18-25,New,Silver,Githurai 44,5.5
+C02051,Hassan Omondi,56+,Occasional,Silver,Githurai 45,5.4
+C02052,Adhiambo Were,26-35,Occasional,Bronze,Githurai Kimbo,6.1
+C02053,Kinyua Akinyi,36-45,Regular,Gold,Kahawa Wendani,1.3
+C02054,Achieng Ochieng,36-45,Regular,Gold,Kahawa Sukari,7.6
+C02055,Mumbi Mwangi,56+,Occasional,Silver,Kahawa Sukari,4.6
+C02056,Abdullah Omondi,36-45,Occasional,Silver,Githurai Kimbo,5.4
+C02057,Wairimu Muthoni,36-45,Occasional,Gold,Kimbo,0.8
+C02058,Were Mumbi,46-55,Regular,Platinum,Green Valley,7.7
+C02059,Wambui Akinyi,46-55,Regular,Platinum,Ruiru Town Center,4.7
+C02060,Akinyi Okoth,18-25,Occasional,Silver,Githurai Kimbo,4.7
+C02061,Kamau Ochieng,56+,Occasional,Silver,Ndenderu,7.6
+C02062,Abdullah Wanjiku,46-55,Regular,Silver,Githurai 45,7.5
+C02063,Juma Abdullah,18-25,Regular,Bronze,Githurai 44,2.2
+C02064,Muthoni Okoth,56+,Occasional,Gold,Kahawa Wendani,7.5
+C02065,Mutiso Wairimu,26-35,Occasional,Bronze,Githurai 44,6.0
+C02066,Kinyua Mumbi,26-35,Regular,Bronze,Githurai Kimbo,0.6
+C02067,Wairimu Kiplagat,46-55,Occasional,Bronze,Kihara,2.3
+C02068,Nyambura Nyambura,18-25,Occasional,Bronze,Githurai 44,3.6
+C02069,Omondi Njeri,56+,Regular,Silver,Ruiru CBD,4.9
+C02070,Kamau Mutiso,36-45,New,Bronze,Githurai Kimbo,5.8
+C02071,Omondi Wanjala,36-45,Regular,Platinum,Ruiru Town Center,2.1
+C02072,Chebet Kiplagat,56+,Occasional,Gold,Githurai 45,6.8
+C02073,Juma Kamau,56+,Occasional,Gold,Githurai 44,6.8
+C02074,Muthoni Njeri,46-55,Regular,Bronze,Kahawa Wendani,5.3
+C02075,Omondi Adhiambo,36-45,New,Silver,Ndenderu,7.4
+C02076,Kipchoge Akinyi,18-25,New,Bronze,Mwiki,6.6
+C02077,Adhiambo Wanjiku,36-45,Premium,Gold,Green Valley,2.2
+C02078,Akinyi Wairimu,26-35,Occasional,Bronze,Kihara,6.5
+C02079,Nyambura Kamau,36-45,New,Bronze,Kimbo,7.6
+C02080,Kariuki Wanjiku,46-55,Regular,Gold,Ruiru CBD,1.5
+C02081,Hassan Mutiso,26-35,Regular,Silver,Mwiki,7.8
+C02082,Were Mumbi,36-45,Regular,Silver,Ndenderu,0.7
+C02083,Njoroge Hassan,46-55,Regular,Gold,Ruiru Town Center,4.4
+C02084,Muthoni Mwangi,46-55,Regular,Bronze,Kahawa Wendani,6.3
+C02085,Simiyu Wanjiku,46-55,Regular,Bronze,Githurai 45,6.4
+C02086,Kiplagat Ochieng,56+,Regular,Silver,Kahawa Sukari,6.0
+C02087,Juma Nyambura,46-55,Regular,Bronze,Ruiru CBD,4.5
+C02088,Abdullah Chebet,26-35,Occasional,Silver,Ruiru Town Center,5.4
+C02089,Juma Kipchoge,18-25,Regular,Bronze,Mwiki,5.7
+C02090,Kiplagat Kamau,46-55,Occasional,Gold,Kahawa Sukari,4.2
+C02091,Kipchoge Kariuki,18-25,Regular,Gold,Green Valley,5.0
+C02092,Kariuki Chebet,56+,Occasional,Bronze,Githurai Kimbo,6.8
+C02093,Mutiso Muthoni,56+,Occasional,Silver,Githurai 45,2.8
+C02094,Mutiso Akinyi,26-35,Occasional,Bronze,Githurai 44,4.4
+C02095,Ochieng Muthoni,36-45,New,Silver,Mwiki,0.6
+C02096,Mutiso Simiyu,56+,Occasional,Silver,Kimbo,5.7
+C02097,Kamau Hassan,18-25,Occasional,Gold,Green Valley,2.0
+C02098,Maina Muthoni,46-55,Regular,Bronze,Green Valley,4.1
+C02099,Muthoni Kipchoge,56+,Occasional,Platinum,Ruiru Town Center,2.1
+C02100,Achieng Maina,26-35,Regular,Bronze,Githurai 45,0.7
+C02101,Kamau Hassan,26-35,New,Silver,Githurai Kimbo,4.1
+C02102,Maina Wanjiku,18-25,Regular,Gold,Mwiki,3.7
+C02103,Maina Maina,46-55,New,Bronze,Mwiki,3.7
+C02104,Kamau Njoroge,36-45,Regular,Bronze,Githurai 45,2.1
+C02105,Kiplagat Nyambura,18-25,Occasional,Bronze,Ruiru Town Center,7.6
+C02106,Juma Nyambura,46-55,Regular,Silver,Mwiki,0.5
+C02107,Akinyi Were,36-45,Regular,Bronze,Green Valley,7.2
+C02108,Hassan Simiyu,18-25,Regular,Bronze,Mwiki,6.0
+C02109,Mutiso Wambui,18-25,Premium,Gold,Ruiru Town Center,1.8
+C02110,Mumbi Kiplagat,36-45,Regular,Silver,Githurai Kimbo,4.0
+C02111,Mumbi Mutiso,18-25,Occasional,Gold,Kahawa Wendani,7.9
+C02112,Mwangi Mumbi,36-45,Premium,Gold,Green Valley,5.3
+C02113,Kinyua Mumbi,56+,New,Silver,Kimbo,1.5
+C02114,Hassan Muthoni,46-55,Regular,Bronze,Githurai 45,3.9
+C02115,Abdullah Kipchoge,36-45,Regular,Bronze,Mwiki,4.0
+C02116,Kiplagat Njoroge,26-35,Regular,Bronze,Kahawa Sukari,6.5
+C02117,Kamau Adhiambo,46-55,New,Gold,Ndenderu,7.4
+C02118,Adhiambo Mumbi,26-35,New,Bronze,Kimbo,1.1
+C02119,Simiyu Akinyi,56+,Regular,Bronze,Githurai Kimbo,2.9
+C02120,Maina Kipchoge,26-35,Regular,Gold,Ruiru Town Center,2.7
+C02121,Kiplagat Nyambura,36-45,Occasional,Gold,Ruiru CBD,8.0
+C02122,Akinyi Adhiambo,56+,Premium,Gold,Ruiru Sports Club,4.7
+C02123,Kipchoge Kariuki,46-55,New,Bronze,Mwiki,7.1
+C02124,Wanjala Achieng,46-55,New,Bronze,Kahawa Sukari,3.7
+C02125,Simiyu Mwangi,46-55,Regular,Bronze,Kahawa Sukari,5.9
+C02126,Kinyua Wanjiku,46-55,Regular,Gold,Mwiki,2.6
+C02127,Mwangi Njoroge,46-55,Regular,Silver,Ruiru Town Center,7.3
+C02128,Abdullah Kariuki,36-45,Regular,Bronze,Kimbo,3.9
+C02129,Wanjala Juma,56+,Occasional,Silver,Mwiki,6.5
+C02130,Maina Wambui,56+,Regular,Gold,Ndenderu,2.4
+C02131,Abdullah Wanjala,26-35,Occasional,Bronze,Kihara,5.7
+C02132,Kipchoge Nyambura,36-45,Occasional,Bronze,Githurai 45,3.5
+C02133,Njeri Were,36-45,Regular,Bronze,Githurai 44,0.7
+C02134,Kinyua Maina,46-55,New,Bronze,Kahawa Wendani,3.6
+C02135,Mutiso Maina,46-55,Occasional,Platinum,Ruiru Sports Club,4.6
+C02136,Kinyua Wambui,36-45,Occasional,Gold,Githurai Kimbo,1.6
+C02137,Ochieng Okoth,18-25,Premium,Silver,Ruiru Town Center,1.9
+C02138,Mutiso Abdullah,26-35,Regular,Bronze,Githurai Kimbo,4.0
+C02139,Nyambura Omondi,18-25,New,Bronze,Githurai 44,3.1
+C02140,Were Chebet,18-25,Regular,Silver,Kahawa Sukari,3.8
+C02141,Omondi Chebet,36-45,New,Bronze,Mwiki,4.0
+C02142,Nyambura Kinyua,18-25,Regular,Bronze,Ruiru Sports Club,1.6
+C02143,Omondi Kariuki,18-25,Occasional,Gold,Mwiki,1.9
+C02144,Kamau Kinyua,46-55,New,Silver,Kimbo,6.9
+C02145,Nyambura Wanjala,36-45,Occasional,Bronze,Ruiru CBD,1.7
+C02146,Njeri Abdullah,26-35,Occasional,Bronze,Githurai 44,5.5
+C02147,Achieng Omondi,56+,Occasional,Bronze,Kahawa Sukari,3.6
+C02148,Adhiambo Kiplagat,18-25,Regular,Silver,Ruiru CBD,7.8
+C02149,Kinyua Mwangi,18-25,Occasional,Bronze,Kimbo,1.0
+C02150,Nyambura Achieng,46-55,Occasional,Silver,Githurai 44,6.7
+C02151,Muthoni Mumbi,46-55,Regular,Bronze,Githurai 44,4.2
+C02152,Mumbi Okoth,18-25,Regular,Silver,Githurai Kimbo,0.5
+C02153,Kamau Wanjala,26-35,Regular,Gold,Githurai 44,2.5
+C02154,Okoth Njeri,18-25,Occasional,Gold,Kahawa Wendani,3.6
+C02155,Omondi Chebet,26-35,Occasional,Bronze,Kihara,2.9
+C02156,Muthoni Wanjala,56+,New,Silver,Githurai 45,3.2
+C02157,Hassan Wanjiku,26-35,Premium,Platinum,Ruiru Sports Club,7.4
+C02158,Akinyi Okoth,36-45,Occasional,Bronze,Githurai 44,3.2
+C02159,Kiplagat Omondi,18-25,Regular,Silver,Githurai Kimbo,3.6
+C02160,Were Were,56+,Regular,Bronze,Kimbo,6.2
+C02161,Achieng Mwangi,36-45,Premium,Bronze,Ruiru Town Center,6.5
+C02162,Muthoni Were,36-45,Occasional,Bronze,Githurai 45,1.1
+C02163,Adhiambo Achieng,26-35,Premium,Silver,Green Valley,5.8
+C02164,Mwangi Wanjiku,56+,Regular,Gold,Ruiru Town Center,4.1
+C02165,Chebet Were,26-35,New,Gold,Ndenderu,1.5
+C02166,Nyambura Akinyi,18-25,Regular,Bronze,Kahawa Sukari,2.5
+C02167,Chebet Akinyi,36-45,Occasional,Bronze,Kahawa Wendani,0.8
+C02168,Wairimu Wanjiku,36-45,Occasional,Bronze,Kahawa Sukari,3.2
+C02169,Omondi Akinyi,56+,Regular,Gold,Kahawa Wendani,2.4
+C02170,Muthoni Mutiso,46-55,Regular,Platinum,Ruiru Town Center,3.4
+C02171,Mutiso Kariuki,36-45,Regular,Silver,Kihara,4.9
+C02172,Wambui Mwangi,46-55,Premium,Silver,Green Valley,6.0
+C02173,Otieno Juma,18-25,New,Silver,Ndenderu,5.0
+C02174,Juma Abdullah,56+,New,Gold,Kihara,5.6
+C02175,Mutiso Okoth,36-45,New,Silver,Githurai Kimbo,7.0
+C02176,Hassan Kipchoge,36-45,Regular,Silver,Ndenderu,7.1
+C02177,Mumbi Were,26-35,Occasional,Silver,Mwiki,7.0
+C02178,Ochieng Njeri,18-25,Premium,Gold,Ruiru Town Center,1.6
+C02179,Juma Wanjala,46-55,New,Silver,Githurai Kimbo,2.4
+C02180,Kariuki Akinyi,18-25,Occasional,Gold,Mwiki,4.3
+C02181,Achieng Njoroge,36-45,Regular,Silver,Green Valley,3.2
+C02182,Kiplagat Nyambura,36-45,Occasional,Silver,Githurai Kimbo,1.5
+C02183,Njeri Mumbi,56+,New,Gold,Kahawa Wendani,2.7
+C02184,Mutiso Abdullah,46-55,Regular,Platinum,Ruiru Town Center,7.8
+C02185,Wanjala Kamau,26-35,Regular,Silver,Kihara,3.1
+C02186,Mumbi Mumbi,46-55,Occasional,Bronze,Kimbo,3.6
+C02187,Kamau Okoth,36-45,New,Bronze,Kahawa Wendani,0.5
+C02188,Wairimu Wairimu,46-55,Occasional,Bronze,Githurai 45,5.9
+C02189,Kiplagat Chebet,36-45,Occasional,Bronze,Ruiru CBD,3.6
+C02190,Mutiso Wambui,36-45,Regular,Silver,Kahawa Sukari,1.3
+C02191,Mutiso Njeri,56+,Occasional,Bronze,Mwiki,7.8
+C02192,Mwangi Maina,46-55,Regular,Bronze,Kihara,6.3
+C02193,Hassan Simiyu,56+,Regular,Gold,Ruiru Town Center,5.9
+C02194,Njoroge Mutiso,56+,New,Gold,Ruiru CBD,7.7
+C02195,Juma Wambui,18-25,Occasional,Platinum,Green Valley,3.6
+C02196,Mutiso Wanjala,36-45,Occasional,Bronze,Mwiki,5.9
+C02197,Wanjiku Njeri,18-25,Occasional,Bronze,Githurai 45,2.0
+C02198,Njeri Chebet,46-55,New,Bronze,Githurai 45,5.7
+C02199,Kamau Njoroge,36-45,Occasional,Bronze,Ndenderu,0.6
+C02200,Omondi Kipchoge,46-55,Occasional,Silver,Kihara,1.4
+C02201,Wanjiku Mwangi,46-55,Regular,Bronze,Ndenderu,3.7
+C02202,Achieng Kariuki,18-25,Occasional,Bronze,Kihara,0.6
+C02203,Kamau Maina,56+,Regular,Platinum,Ruiru Town Center,4.0
+C02204,Kariuki Juma,56+,Regular,Bronze,Ruiru Town Center,4.4
+C02205,Ochieng Abdullah,56+,Regular,Bronze,Kahawa Wendani,5.2
+C02206,Wanjiku Wairimu,56+,New,Gold,Githurai Kimbo,1.3
+C02207,Njeri Were,56+,Regular,Silver,Kahawa Wendani,1.9
+C02208,Ochieng Maina,36-45,New,Bronze,Mwiki,5.1
+C02209,Mutiso Chebet,56+,Regular,Gold,Kihara,5.4
+C02210,Wanjiku Juma,46-55,Occasional,Bronze,Kahawa Wendani,0.7
+C02211,Wambui Wambui,56+,New,Silver,Ruiru CBD,4.6
+C02212,Wanjala Okoth,46-55,Premium,Silver,Ruiru Sports Club,6.4
+C02213,Akinyi Akinyi,56+,Regular,Gold,Githurai 44,1.0
+C02214,Muthoni Wanjiku,46-55,Regular,Gold,Ruiru CBD,3.6
+C02215,Akinyi Ochieng,36-45,New,Bronze,Mwiki,2.9
+C02216,Were Njeri,36-45,Occasional,Bronze,Ruiru Sports Club,7.4
+C02217,Njeri Juma,26-35,Occasional,Platinum,Ruiru Town Center,1.9
+C02218,Chebet Okoth,26-35,Regular,Bronze,Green Valley,2.9
+C02219,Omondi Kipchoge,56+,New,Bronze,Githurai Kimbo,7.2
+C02220,Ochieng Achieng,56+,Occasional,Bronze,Githurai 44,3.0
+C02221,Otieno Akinyi,26-35,Occasional,Silver,Githurai 45,4.5
+C02222,Okoth Abdullah,56+,Regular,Silver,Kihara,0.7
+C02223,Kiplagat Muthoni,56+,Occasional,Silver,Ruiru CBD,7.9
+C02224,Mutiso Kinyua,46-55,Occasional,Bronze,Green Valley,6.7
+C02225,Achieng Wanjala,18-25,Occasional,Silver,Ruiru CBD,5.3
+C02226,Chebet Kipchoge,26-35,Regular,Bronze,Ruiru Town Center,1.0
+C02227,Okoth Mumbi,46-55,Occasional,Silver,Ndenderu,1.1
+C02228,Omondi Were,36-45,Regular,Gold,Githurai 44,4.6
+C02229,Simiyu Simiyu,18-25,Regular,Silver,Kimbo,2.6
+C02230,Mutiso Maina,36-45,Occasional,Silver,Kahawa Wendani,5.2
+C02231,Muthoni Mutiso,36-45,New,Silver,Githurai Kimbo,5.0
+C02232,Maina Mutiso,56+,Occasional,Silver,Ruiru Sports Club,6.8
+C02233,Mutiso Kiplagat,36-45,Occasional,Silver,Ruiru Town Center,2.6
+C02234,Akinyi Juma,18-25,Occasional,Platinum,Ruiru Town Center,4.8
+C02235,Ochieng Kinyua,56+,Regular,Bronze,Githurai Kimbo,6.3
+C02236,Mwangi Hassan,26-35,Regular,Bronze,Githurai 45,4.2
+C02237,Kariuki Kamau,36-45,Occasional,Silver,Ndenderu,6.7
+C02238,Okoth Otieno,26-35,Regular,Bronze,Ruiru CBD,1.5
+C02239,Kariuki Kariuki,26-35,Occasional,Gold,Ndenderu,6.0
+C02240,Mwangi Omondi,18-25,Regular,Gold,Kahawa Wendani,7.6
+C02241,Hassan Wambui,46-55,Regular,Silver,Ruiru Sports Club,3.0
+C02242,Njoroge Kiplagat,46-55,Regular,Gold,Kahawa Wendani,3.2
+C02243,Kamau Adhiambo,36-45,Regular,Bronze,Mwiki,1.1
+C02244,Kariuki Kamau,26-35,Regular,Gold,Kahawa Wendani,5.3
+C02245,Juma Abdullah,56+,Regular,Silver,Kahawa Wendani,4.6
+C02246,Muthoni Njeri,56+,Occasional,Bronze,Githurai Kimbo,0.8
+C02247,Juma Kipchoge,36-45,Occasional,Bronze,Mwiki,6.1
+C02248,Njoroge Wairimu,26-35,Occasional,Bronze,Kahawa Sukari,6.7
+C02249,Kinyua Nyambura,26-35,New,Bronze,Kimbo,7.3
+C02250,Juma Wairimu,56+,New,Bronze,Ndenderu,4.6
+C02251,Wairimu Achieng,36-45,New,Bronze,Ndenderu,3.9
+C02252,Kiplagat Kiplagat,36-45,Occasional,Bronze,Githurai 45,7.1
+C02253,Okoth Akinyi,26-35,Occasional,Bronze,Ruiru Sports Club,3.5
+C02254,Njeri Mwangi,36-45,Regular,Bronze,Kihara,5.4
+C02255,Omondi Achieng,46-55,Regular,Bronze,Githurai 45,5.1
+C02256,Chebet Kinyua,46-55,Regular,Gold,Kihara,3.3
+C02257,Njeri Okoth,18-25,Regular,Bronze,Ndenderu,1.2
+C02258,Simiyu Were,36-45,New,Bronze,Githurai 45,0.7
+C02259,Kipchoge Wairimu,46-55,New,Bronze,Githurai 44,3.7
+C02260,Muthoni Kipchoge,26-35,Regular,Gold,Kahawa Wendani,4.1
+C02261,Muthoni Abdullah,36-45,Occasional,Gold,Ndenderu,6.7
+C02262,Mutiso Mumbi,36-45,New,Silver,Kahawa Wendani,3.6
+C02263,Mutiso Hassan,18-25,Occasional,Silver,Mwiki,2.6
+C02264,Kiplagat Abdullah,26-35,Regular,Bronze,Kimbo,4.0
+C02265,Wairimu Chebet,56+,Occasional,Gold,Green Valley,2.3
+C02266,Adhiambo Hassan,26-35,Occasional,Gold,Githurai 44,1.2
+C02267,Wanjiku Wairimu,46-55,Occasional,Bronze,Ruiru CBD,1.3
+C02268,Maina Simiyu,36-45,New,Bronze,Githurai 45,2.9
+C02269,Muthoni Omondi,36-45,New,Bronze,Githurai Kimbo,0.6
+C02270,Wambui Achieng,26-35,Regular,Gold,Ruiru Sports Club,2.2
+C02271,Okoth Omondi,46-55,Occasional,Bronze,Githurai 45,6.4
+C02272,Kariuki Kamau,18-25,New,Silver,Kimbo,2.3
+C02273,Chebet Chebet,56+,New,Bronze,Ndenderu,1.3
+C02274,Were Omondi,18-25,Regular,Gold,Ndenderu,7.6
+C02275,Akinyi Kiplagat,56+,Occasional,Bronze,Kimbo,5.2
+C02276,Abdullah Kariuki,26-35,New,Silver,Kihara,1.0
+C02277,Wanjala Hassan,18-25,Occasional,Bronze,Kahawa Wendani,1.0
+C02278,Otieno Njoroge,18-25,Regular,Bronze,Green Valley,5.1
+C02279,Kariuki Were,18-25,Regular,Gold,Ndenderu,4.6
+C02280,Wairimu Muthoni,36-45,Occasional,Gold,Githurai Kimbo,1.0
+C02281,Adhiambo Mwangi,18-25,Regular,Bronze,Kahawa Sukari,2.2
+C02282,Njeri Wambui,56+,Occasional,Bronze,Githurai 45,7.5
+C02283,Kariuki Kamau,26-35,Regular,Silver,Githurai 45,4.8
+C02284,Mwangi Njeri,18-25,New,Bronze,Kahawa Sukari,3.8
+C02285,Wairimu Wanjiku,46-55,Regular,Platinum,Green Valley,2.4
+C02286,Simiyu Hassan,36-45,Regular,Bronze,Kahawa Sukari,1.5
+C02287,Kipchoge Adhiambo,18-25,Regular,Bronze,Githurai 45,3.5
+C02288,Kinyua Kariuki,18-25,New,Silver,Githurai 44,7.4
+C02289,Abdullah Mwangi,26-35,Occasional,Gold,Ruiru CBD,0.9
+C02290,Abdullah Hassan,46-55,Premium,Gold,Ruiru Town Center,7.9
+C02291,Simiyu Abdullah,36-45,New,Gold,Ruiru CBD,2.1
+C02292,Kamau Otieno,46-55,Regular,Platinum,Ruiru Town Center,3.6
+C02293,Were Mumbi,56+,Regular,Platinum,Ruiru Sports Club,0.8
+C02294,Were Omondi,56+,Occasional,Silver,Githurai 45,4.9
+C02295,Omondi Wairimu,46-55,Occasional,Silver,Kahawa Sukari,4.1
+C02296,Abdullah Okoth,26-35,Occasional,Bronze,Kahawa Wendani,5.5
+C02297,Mwangi Njeri,18-25,New,Bronze,Kahawa Sukari,4.6
+C02298,Simiyu Were,46-55,New,Gold,Ruiru CBD,3.5
+C02299,Chebet Kinyua,56+,Regular,Bronze,Green Valley,6.0
+C02300,Akinyi Were,56+,Regular,Silver,Githurai 44,0.7
+C02301,Akinyi Kamau,56+,Occasional,Bronze,Kahawa Wendani,4.6
+C02302,Okoth Wanjala,36-45,New,Silver,Kahawa Wendani,1.4
+C02303,Kiplagat Akinyi,56+,Occasional,Gold,Ruiru CBD,3.8
+C02304,Muthoni Mwangi,36-45,Premium,Bronze,Ruiru Sports Club,6.4
+C02305,Otieno Kipchoge,56+,Premium,Platinum,Ruiru Town Center,1.6
+C02306,Akinyi Hassan,56+,Regular,Bronze,Kahawa Sukari,7.5
+C02307,Wairimu Maina,26-35,Occasional,Silver,Ruiru CBD,7.2
+C02308,Hassan Akinyi,56+,New,Bronze,Kimbo,3.6
+C02309,Otieno Maina,56+,Occasional,Bronze,Kihara,0.5
+C02310,Okoth Juma,36-45,Occasional,Silver,Kahawa Sukari,6.4
+C02311,Chebet Muthoni,46-55,Regular,Silver,Kahawa Sukari,7.1
+C02312,Chebet Otieno,56+,Regular,Platinum,Ruiru Town Center,1.8
+C02313,Otieno Simiyu,36-45,Regular,Bronze,Githurai Kimbo,7.4
+C02314,Mumbi Juma,36-45,New,Bronze,Githurai Kimbo,7.4
+C02315,Kinyua Njeri,36-45,Occasional,Bronze,Githurai 45,4.0
+C02316,Kipchoge Kariuki,46-55,Occasional,Bronze,Githurai 45,6.5
+C02317,Chebet Ochieng,36-45,New,Bronze,Githurai 44,3.8
+C02318,Wanjiku Kamau,36-45,New,Bronze,Kihara,4.7
+C02319,Kamau Adhiambo,18-25,New,Gold,Githurai 45,2.9
+C02320,Kipchoge Maina,18-25,Occasional,Bronze,Githurai 45,1.7
+C02321,Abdullah Omondi,26-35,New,Bronze,Ruiru CBD,6.1
+C02322,Ochieng Wanjala,46-55,Premium,Silver,Ruiru Town Center,0.5
+C02323,Mutiso Juma,26-35,Regular,Gold,Ruiru Town Center,4.8
+C02324,Wambui Mwangi,56+,Occasional,Silver,Ruiru Sports Club,7.0
+C02325,Chebet Otieno,46-55,Regular,Bronze,Ndenderu,2.2
+C02326,Kinyua Kamau,46-55,New,Gold,Kahawa Wendani,3.0
+C02327,Achieng Achieng,26-35,Regular,Bronze,Ruiru CBD,4.9
+C02328,Njeri Abdullah,36-45,Regular,Platinum,Green Valley,2.4
+C02329,Mutiso Juma,18-25,Occasional,Bronze,Kahawa Sukari,6.9
+C02330,Achieng Simiyu,56+,Regular,Silver,Ruiru Town Center,3.2
+C02331,Omondi Kiplagat,56+,Regular,Bronze,Kimbo,4.9
+C02332,Juma Kinyua,46-55,New,Silver,Githurai Kimbo,2.2
+C02333,Mutiso Akinyi,46-55,Occasional,Silver,Ruiru CBD,0.8
+C02334,Njeri Hassan,18-25,Premium,Platinum,Green Valley,1.8
+C02335,Kariuki Wairimu,56+,New,Silver,Githurai Kimbo,0.8
+C02336,Simiyu Abdullah,18-25,Occasional,Bronze,Githurai Kimbo,4.0
+C02337,Juma Otieno,26-35,Occasional,Platinum,Ruiru Town Center,4.9
+C02338,Nyambura Mutiso,26-35,Occasional,Gold,Kimbo,0.8
+C02339,Wairimu Njoroge,46-55,Regular,Silver,Ndenderu,1.2
+C02340,Mutiso Maina,56+,New,Bronze,Kimbo,4.1
+C02341,Maina Kiplagat,46-55,Occasional,Silver,Kimbo,6.5
+C02342,Adhiambo Omondi,36-45,Occasional,Bronze,Githurai 44,5.2
+C02343,Adhiambo Kariuki,26-35,New,Silver,Kahawa Wendani,1.3
+C02344,Okoth Otieno,36-45,Occasional,Gold,Ruiru Sports Club,7.2
+C02345,Hassan Omondi,56+,Occasional,Silver,Githurai 45,7.4
+C02346,Maina Njeri,36-45,Regular,Bronze,Githurai 45,2.9
+C02347,Hassan Mutiso,36-45,Occasional,Gold,Green Valley,5.1
+C02348,Okoth Mwangi,36-45,Premium,Gold,Ruiru Sports Club,4.2
+C02349,Mwangi Chebet,46-55,Regular,Gold,Kahawa Sukari,7.6
+C02350,Akinyi Kinyua,46-55,New,Gold,Kahawa Sukari,4.3
+C02351,Kariuki Abdullah,26-35,Regular,Silver,Githurai Kimbo,7.7
+C02352,Muthoni Wambui,18-25,Occasional,Bronze,Kihara,2.0
+C02353,Kamau Kamau,56+,Premium,Silver,Ruiru Sports Club,3.1
+C02354,Wanjala Kamau,18-25,Occasional,Bronze,Kahawa Wendani,6.4
+C02355,Wairimu Mwangi,26-35,Regular,Bronze,Kahawa Wendani,6.4
+C02356,Adhiambo Wanjala,36-45,Occasional,Silver,Kahawa Sukari,6.0
+C02357,Mumbi Ochieng,56+,Occasional,Bronze,Ruiru Sports Club,6.9
+C02358,Kariuki Nyambura,26-35,New,Gold,Ruiru CBD,5.8
+C02359,Were Njoroge,56+,Occasional,Platinum,Green Valley,5.3
+C02360,Okoth Wanjiku,46-55,Regular,Bronze,Kahawa Sukari,3.9
+C02361,Mumbi Muthoni,18-25,Regular,Bronze,Kihara,4.0
+C02362,Wambui Nyambura,36-45,Occasional,Bronze,Ruiru CBD,3.5
+C02363,Mumbi Akinyi,56+,Regular,Silver,Mwiki,5.2
+C02364,Simiyu Mwangi,36-45,Occasional,Gold,Kahawa Sukari,3.5
+C02365,Mutiso Muthoni,18-25,Occasional,Silver,Ndenderu,1.6
+C02366,Adhiambo Kamau,56+,Regular,Bronze,Ruiru Town Center,1.3
+C02367,Chebet Njoroge,18-25,Premium,Silver,Ruiru Sports Club,7.4
+C02368,Njoroge Juma,46-55,Regular,Gold,Ndenderu,0.7
+C02369,Mumbi Okoth,46-55,Regular,Bronze,Kimbo,1.3
+C02370,Mumbi Kipchoge,56+,Regular,Bronze,Kahawa Wendani,3.8
+C02371,Kamau Kamau,56+,Regular,Bronze,Githurai 44,2.5
+C02372,Muthoni Abdullah,18-25,Regular,Gold,Green Valley,3.5
+C02373,Nyambura Nyambura,26-35,New,Bronze,Ndenderu,1.4
+C02374,Kipchoge Simiyu,36-45,Occasional,Bronze,Ruiru CBD,1.5
+C02375,Juma Njeri,56+,New,Bronze,Kahawa Wendani,6.5
+C02376,Abdullah Ochieng,26-35,New,Bronze,Ruiru CBD,6.2
+C02377,Were Chebet,18-25,Occasional,Silver,Githurai 45,1.3
+C02378,Hassan Kipchoge,18-25,Occasional,Gold,Githurai Kimbo,5.5
+C02379,Wanjiku Okoth,26-35,Occasional,Silver,Githurai Kimbo,5.1
+C02380,Were Njoroge,18-25,Occasional,Silver,Kahawa Wendani,5.9
+C02381,Mutiso Achieng,46-55,Occasional,Bronze,Ndenderu,4.1
+C02382,Kiplagat Abdullah,18-25,New,Gold,Githurai 45,2.5
+C02383,Chebet Njoroge,26-35,Occasional,Silver,Githurai 45,5.5
+C02384,Maina Okoth,36-45,Regular,Gold,Githurai Kimbo,3.3
+C02385,Wambui Hassan,18-25,Occasional,Silver,Githurai Kimbo,2.1
+C02386,Hassan Kamau,26-35,Occasional,Silver,Ruiru CBD,3.6
+C02387,Adhiambo Mumbi,36-45,Occasional,Bronze,Kahawa Sukari,6.2
+C02388,Kamau Maina,56+,Occasional,Bronze,Githurai 45,4.1
+C02389,Wanjiku Kamau,36-45,Regular,Gold,Githurai 44,2.7
+C02390,Akinyi Akinyi,26-35,Occasional,Bronze,Kahawa Wendani,6.7
+C02391,Maina Hassan,26-35,Regular,Bronze,Green Valley,7.1
+C02392,Wairimu Mutiso,18-25,Occasional,Bronze,Ruiru CBD,3.7
+C02393,Were Wambui,26-35,Occasional,Bronze,Githurai 45,3.3
+C02394,Njeri Abdullah,26-35,Regular,Silver,Ruiru Sports Club,5.1
+C02395,Maina Wairimu,36-45,New,Silver,Ndenderu,0.9
+C02396,Chebet Kipchoge,46-55,Occasional,Bronze,Mwiki,5.7
+C02397,Muthoni Wanjala,36-45,Occasional,Bronze,Mwiki,6.4
+C02398,Wambui Njoroge,46-55,Regular,Bronze,Kahawa Sukari,3.5
+C02399,Abdullah Hassan,46-55,Occasional,Silver,Mwiki,1.8
+C02400,Simiyu Nyambura,26-35,Regular,Silver,Ruiru Sports Club,0.7
+C02401,Kariuki Okoth,18-25,Regular,Silver,Mwiki,5.3
+C02402,Were Omondi,56+,New,Silver,Githurai 44,2.5
+C02403,Mwangi Kamau,56+,Occasional,Bronze,Ruiru CBD,4.0
+C02404,Mutiso Kamau,56+,Occasional,Bronze,Mwiki,3.4
+C02405,Abdullah Akinyi,18-25,Occasional,Gold,Githurai 44,1.8
+C02406,Nyambura Wanjiku,36-45,Regular,Platinum,Ruiru Town Center,4.3
+C02407,Juma Chebet,36-45,New,Silver,Githurai Kimbo,3.9
+C02408,Mwangi Were,56+,New,Gold,Kihara,5.2
+C02409,Ochieng Maina,46-55,Regular,Silver,Ruiru CBD,2.4
+C02410,Kipchoge Abdullah,36-45,Regular,Bronze,Kihara,2.1
+C02411,Chebet Kiplagat,46-55,Regular,Silver,Kimbo,6.6
+C02412,Mwangi Akinyi,18-25,New,Bronze,Githurai 44,5.8
+C02413,Chebet Okoth,46-55,New,Silver,Kimbo,6.3
+C02414,Njoroge Kariuki,18-25,Regular,Bronze,Kahawa Sukari,1.4
+C02415,Ochieng Njeri,36-45,Premium,Bronze,Ruiru Town Center,2.2
+C02416,Juma Kiplagat,56+,Occasional,Bronze,Githurai 45,4.8
+C02417,Njoroge Wairimu,56+,Occasional,Gold,Ndenderu,6.9
+C02418,Mumbi Mwangi,18-25,New,Silver,Kahawa Wendani,7.2
+C02419,Simiyu Abdullah,56+,Occasional,Gold,Ruiru Sports Club,6.7
+C02420,Maina Otieno,56+,New,Bronze,Githurai Kimbo,0.8
+C02421,Wanjiku Mutiso,46-55,Occasional,Silver,Kahawa Wendani,6.7
+C02422,Hassan Okoth,26-35,Occasional,Silver,Mwiki,7.2
+C02423,Kamau Mutiso,36-45,Regular,Gold,Mwiki,0.9
+C02424,Muthoni Wambui,36-45,Regular,Silver,Ruiru Town Center,3.6
+C02425,Ochieng Wambui,46-55,Regular,Bronze,Kimbo,4.5
+C02426,Kariuki Muthoni,56+,Occasional,Silver,Kimbo,2.2
+C02427,Maina Abdullah,36-45,Regular,Bronze,Kihara,4.4
+C02428,Wairimu Njoroge,36-45,Regular,Bronze,Ndenderu,7.1
+C02429,Kamau Abdullah,56+,Regular,Bronze,Githurai 44,7.0
+C02430,Kiplagat Akinyi,56+,Occasional,Silver,Githurai 44,7.5
+C02431,Wairimu Kipchoge,26-35,Regular,Gold,Mwiki,4.1
+C02432,Adhiambo Akinyi,56+,Regular,Silver,Kahawa Sukari,3.6
+C02433,Nyambura Omondi,36-45,Occasional,Bronze,Kahawa Sukari,5.5
+C02434,Abdullah Chebet,18-25,New,Bronze,Githurai Kimbo,3.6
+C02435,Maina Kiplagat,56+,Regular,Bronze,Kahawa Sukari,0.8
+C02436,Mutiso Hassan,26-35,Regular,Bronze,Githurai 45,5.9
+C02437,Njeri Adhiambo,56+,Regular,Bronze,Ruiru CBD,2.6
+C02438,Achieng Abdullah,56+,Occasional,Bronze,Kihara,0.9
+C02439,Njeri Mumbi,46-55,Occasional,Bronze,Githurai 45,0.7
+C02440,Were Njoroge,46-55,Occasional,Silver,Kimbo,7.5
+C02441,Were Mwangi,26-35,Regular,Silver,Githurai Kimbo,2.4
+C02442,Okoth Wanjala,26-35,Regular,Bronze,Ruiru CBD,3.9
+C02443,Wanjiku Mumbi,56+,Occasional,Bronze,Kahawa Wendani,7.6
+C02444,Mutiso Wambui,26-35,New,Gold,Ruiru CBD,4.0
+C02445,Simiyu Adhiambo,56+,Regular,Bronze,Kahawa Wendani,1.1
+C02446,Nyambura Mwangi,56+,New,Bronze,Githurai 45,4.6
+C02447,Wanjiku Mutiso,46-55,Regular,Gold,Githurai 45,1.2
+C02448,Maina Kiplagat,18-25,Occasional,Gold,Ruiru Sports Club,1.2
+C02449,Wanjiku Nyambura,18-25,New,Bronze,Kahawa Sukari,6.9
+C02450,Otieno Adhiambo,56+,Regular,Gold,Githurai Kimbo,2.7
+C02451,Njoroge Juma,18-25,Occasional,Bronze,Kimbo,5.6
+C02452,Muthoni Ochieng,18-25,Regular,Bronze,Githurai 45,4.3
+C02453,Nyambura Achieng,56+,Occasional,Bronze,Kahawa Sukari,2.2
+C02454,Mutiso Otieno,18-25,Occasional,Silver,Kahawa Wendani,4.4
+C02455,Wanjiku Ochieng,36-45,Regular,Bronze,Kahawa Sukari,1.0
+C02456,Ochieng Wanjiku,56+,Occasional,Silver,Ruiru Sports Club,3.1
+C02457,Kipchoge Akinyi,56+,Regular,Bronze,Githurai 45,4.4
+C02458,Njoroge Adhiambo,18-25,Regular,Silver,Kihara,2.2
+C02459,Wanjiku Kariuki,26-35,Regular,Platinum,Ruiru Town Center,5.5
+C02460,Adhiambo Wairimu,56+,Occasional,Bronze,Kahawa Sukari,0.9
+C02461,Wambui Achieng,46-55,Regular,Bronze,Kahawa Sukari,4.1
+C02462,Kipchoge Wanjiku,56+,Occasional,Bronze,Mwiki,5.9
+C02463,Adhiambo Mumbi,56+,Regular,Gold,Ruiru Town Center,3.7
+C02464,Okoth Wairimu,18-25,Occasional,Bronze,Kahawa Wendani,7.1
+C02465,Otieno Kiplagat,18-25,Premium,Bronze,Ruiru Town Center,5.2
+C02466,Chebet Kariuki,46-55,Regular,Bronze,Green Valley,7.7
+C02467,Abdullah Muthoni,26-35,New,Silver,Ndenderu,2.6
+C02468,Omondi Muthoni,36-45,Occasional,Silver,Kimbo,7.5
+C02469,Kariuki Otieno,36-45,Regular,Silver,Ruiru CBD,5.1
+C02470,Muthoni Kamau,18-25,Regular,Bronze,Githurai 45,6.1
+C02471,Wanjala Akinyi,46-55,Regular,Bronze,Kahawa Wendani,7.3
+C02472,Were Maina,18-25,New,Gold,Ruiru CBD,4.6
+C02473,Juma Wanjiku,46-55,Regular,Bronze,Kahawa Wendani,7.0
+C02474,Chebet Mutiso,56+,Occasional,Gold,Githurai 45,4.6
+C02475,Simiyu Ochieng,18-25,Regular,Gold,Ruiru Sports Club,5.0
+C02476,Wairimu Wairimu,18-25,Regular,Bronze,Kihara,3.8
+C02477,Hassan Kinyua,18-25,Regular,Gold,Kahawa Wendani,1.6
+C02478,Abdullah Mwangi,56+,Occasional,Bronze,Kihara,4.7
+C02479,Omondi Simiyu,36-45,Regular,Platinum,Green Valley,7.8
+C02480,Wanjala Wanjiku,26-35,New,Gold,Kimbo,6.4
+C02481,Mwangi Adhiambo,36-45,Occasional,Bronze,Ruiru CBD,6.1
+C02482,Njoroge Chebet,56+,Regular,Bronze,Githurai 44,5.3
+C02483,Wairimu Kinyua,56+,Regular,Bronze,Kihara,3.1
+C02484,Kiplagat Njoroge,18-25,Occasional,Silver,Kimbo,1.8
+C02485,Kinyua Kamau,36-45,Occasional,Gold,Githurai 44,2.2
+C02486,Njeri Hassan,26-35,Regular,Bronze,Kihara,0.5
+C02487,Abdullah Njoroge,46-55,New,Bronze,Ruiru CBD,5.6
+C02488,Were Were,46-55,New,Bronze,Githurai 44,6.6
+C02489,Hassan Chebet,46-55,Occasional,Silver,Ndenderu,2.5
+C02490,Mutiso Njoroge,56+,Occasional,Gold,Ruiru Town Center,1.2
+C02491,Njoroge Mutiso,36-45,Premium,Gold,Ruiru Sports Club,3.0
+C02492,Kinyua Simiyu,56+,New,Bronze,Kahawa Wendani,2.7
+C02493,Were Simiyu,46-55,Regular,Bronze,Kahawa Sukari,3.9
+C02494,Wairimu Wairimu,56+,Occasional,Bronze,Kahawa Wendani,2.5
+C02495,Njeri Kamau,36-45,Occasional,Bronze,Kahawa Wendani,3.0
+C02496,Kariuki Maina,46-55,Premium,Silver,Green Valley,7.3
+C02497,Kamau Kiplagat,56+,Occasional,Bronze,Kimbo,3.0
+C02498,Akinyi Kamau,36-45,New,Silver,Mwiki,6.4
+C02499,Kamau Kamau,46-55,Regular,Bronze,Ruiru CBD,5.2
+C02500,Akinyi Mutiso,56+,Regular,Bronze,Githurai Kimbo,3.0
+C02501,Hassan Njeri,18-25,Regular,Gold,Ruiru CBD,6.6
+C02502,Okoth Were,18-25,Regular,Bronze,Kahawa Sukari,5.0
+C02503,Were Wanjala,46-55,Occasional,Bronze,Githurai 45,0.6
+C02504,Adhiambo Juma,26-35,Regular,Bronze,Githurai 45,1.0
+C02505,Akinyi Were,18-25,Regular,Silver,Ruiru CBD,6.1
+C02506,Okoth Muthoni,36-45,Regular,Bronze,Kahawa Sukari,3.8
+C02507,Kinyua Achieng,26-35,Premium,Platinum,Green Valley,3.5
+C02508,Nyambura Wanjiku,56+,Occasional,Bronze,Githurai 44,1.6
+C02509,Kamau Wanjiku,46-55,Occasional,Bronze,Githurai 45,1.7
+C02510,Chebet Otieno,46-55,Occasional,Bronze,Githurai 44,6.5
+C02511,Omondi Okoth,56+,New,Gold,Kimbo,6.7
+C02512,Wambui Okoth,26-35,Regular,Silver,Kihara,4.7
+C02513,Mutiso Njeri,46-55,Occasional,Gold,Githurai Kimbo,2.7
+C02514,Mwangi Nyambura,36-45,Occasional,Bronze,Kahawa Wendani,7.5
+C02515,Mutiso Kinyua,46-55,New,Silver,Githurai 45,5.2
+C02516,Were Kipchoge,46-55,Occasional,Bronze,Githurai Kimbo,6.5
+C02517,Muthoni Muthoni,26-35,Regular,Bronze,Ruiru CBD,0.5
+C02518,Simiyu Were,56+,Premium,Gold,Green Valley,3.9
+C02519,Mumbi Wanjala,46-55,Regular,Bronze,Githurai 45,7.0
+C02520,Nyambura Wanjiku,36-45,Regular,Bronze,Ndenderu,3.0
+C02521,Ochieng Akinyi,36-45,Regular,Bronze,Kahawa Sukari,5.9
+C02522,Mumbi Kinyua,36-45,Regular,Gold,Ruiru Sports Club,5.4
+C02523,Were Adhiambo,26-35,Regular,Silver,Githurai 44,1.6
+C02524,Njeri Kamau,56+,Regular,Gold,Githurai 45,6.3
+C02525,Kinyua Njoroge,56+,New,Silver,Kihara,1.3
+C02526,Njoroge Adhiambo,36-45,Occasional,Bronze,Ruiru Sports Club,6.0
+C02527,Mwangi Achieng,46-55,Occasional,Bronze,Ruiru Town Center,7.9
+C02528,Were Were,36-45,Premium,Gold,Ruiru Sports Club,7.7
+C02529,Akinyi Hassan,26-35,Regular,Silver,Kihara,6.5
+C02530,Were Wairimu,18-25,Regular,Bronze,Kahawa Sukari,4.5
+C02531,Simiyu Wanjala,56+,Regular,Bronze,Githurai Kimbo,5.6
+C02532,Wambui Kipchoge,46-55,Regular,Bronze,Mwiki,6.0
+C02533,Kipchoge Hassan,26-35,New,Silver,Ruiru CBD,0.6
+C02534,Chebet Juma,56+,Occasional,Bronze,Githurai 45,1.3
+C02535,Njeri Wambui,26-35,Regular,Bronze,Githurai 45,5.0
+C02536,Kiplagat Akinyi,56+,Occasional,Bronze,Kahawa Sukari,0.5
+C02537,Kipchoge Kariuki,36-45,Premium,Platinum,Green Valley,7.3
+C02538,Hassan Wanjala,26-35,Regular,Bronze,Kimbo,4.2
+C02539,Were Achieng,46-55,Occasional,Silver,Githurai Kimbo,2.4
+C02540,Ochieng Ochieng,26-35,Occasional,Bronze,Githurai Kimbo,3.5
+C02541,Nyambura Mutiso,18-25,Regular,Bronze,Ruiru Sports Club,6.9
+C02542,Simiyu Kipchoge,56+,Regular,Bronze,Kahawa Wendani,7.5
+C02543,Chebet Hassan,26-35,New,Bronze,Githurai Kimbo,1.4
+C02544,Mutiso Hassan,56+,Regular,Bronze,Kahawa Sukari,6.3
+C02545,Akinyi Njeri,26-35,Regular,Bronze,Githurai Kimbo,4.8
+C02546,Akinyi Kipchoge,18-25,Regular,Silver,Githurai Kimbo,4.9
+C02547,Mumbi Chebet,18-25,Premium,Gold,Green Valley,6.3
+C02548,Abdullah Otieno,26-35,Regular,Platinum,Green Valley,2.2
+C02549,Ochieng Were,36-45,New,Silver,Githurai Kimbo,4.5
+C02550,Ochieng Were,46-55,Regular,Bronze,Kahawa Sukari,2.9
+C02551,Kipchoge Kamau,18-25,Regular,Bronze,Ruiru CBD,1.2
+C02552,Kinyua Hassan,46-55,Occasional,Silver,Mwiki,1.3
+C02553,Mwangi Wambui,18-25,Regular,Gold,Githurai 45,1.5
+C02554,Maina Otieno,26-35,Regular,Gold,Kihara,5.1
+C02555,Kariuki Okoth,46-55,Regular,Silver,Ruiru Town Center,1.3
+C02556,Adhiambo Njoroge,46-55,Regular,Bronze,Kihara,4.8
+C02557,Kipchoge Hassan,18-25,Regular,Bronze,Githurai Kimbo,4.9
+C02558,Okoth Were,18-25,Occasional,Bronze,Kimbo,7.3
+C02559,Ochieng Muthoni,26-35,Occasional,Silver,Mwiki,5.2
+C02560,Kipchoge Abdullah,18-25,Regular,Silver,Githurai 44,7.9
+C02561,Kamau Kamau,18-25,Regular,Gold,Ruiru Sports Club,0.7
+C02562,Wanjala Juma,18-25,Occasional,Bronze,Ndenderu,5.8
+C02563,Njeri Kipchoge,18-25,Regular,Bronze,Kihara,0.7
+C02564,Njoroge Kariuki,36-45,Occasional,Silver,Ndenderu,6.0
+C02565,Wairimu Kariuki,18-25,Regular,Bronze,Githurai 45,3.4
+C02566,Maina Kamau,36-45,Regular,Silver,Githurai 45,5.1
+C02567,Otieno Otieno,18-25,Occasional,Bronze,Githurai 45,2.8
+C02568,Akinyi Muthoni,18-25,Occasional,Bronze,Kihara,1.7
+C02569,Wanjiku Wanjiku,26-35,New,Bronze,Githurai Kimbo,5.9
+C02570,Kiplagat Njoroge,56+,Occasional,Silver,Kahawa Sukari,7.3
+C02571,Achieng Wanjiku,26-35,Occasional,Silver,Githurai Kimbo,1.9
+C02572,Kiplagat Abdullah,56+,Regular,Bronze,Githurai 45,7.4
+C02573,Adhiambo Muthoni,46-55,Occasional,Silver,Githurai 45,1.6
+C02574,Wanjiku Hassan,18-25,Regular,Platinum,Green Valley,6.0
+C02575,Muthoni Njoroge,46-55,Regular,Gold,Ruiru CBD,7.7
+C02576,Okoth Hassan,36-45,Occasional,Silver,Kahawa Wendani,1.6
+C02577,Were Kariuki,26-35,Occasional,Silver,Kimbo,3.8
+C02578,Omondi Wairimu,46-55,Regular,Gold,Green Valley,3.0
+C02579,Wambui Adhiambo,46-55,Regular,Gold,Green Valley,3.4
+C02580,Abdullah Juma,26-35,Regular,Bronze,Kahawa Sukari,6.1
+C02581,Muthoni Omondi,56+,Regular,Bronze,Kahawa Wendani,5.5
+C02582,Otieno Abdullah,18-25,New,Bronze,Githurai Kimbo,7.8
+C02583,Kariuki Otieno,18-25,Regular,Silver,Kihara,1.9
+C02584,Abdullah Kiplagat,56+,Regular,Bronze,Githurai 45,4.6
+C02585,Hassan Muthoni,26-35,Regular,Silver,Ruiru Town Center,3.9
+C02586,Wairimu Njeri,36-45,Regular,Silver,Ndenderu,7.4
+C02587,Adhiambo Mutiso,46-55,Regular,Gold,Githurai Kimbo,0.6
+C02588,Kiplagat Wairimu,56+,New,Bronze,Ruiru CBD,7.9
+C02589,Wambui Kariuki,46-55,Occasional,Gold,Githurai 45,4.1
+C02590,Kariuki Ochieng,56+,Occasional,Bronze,Ruiru Town Center,5.2
+C02591,Kiplagat Kariuki,26-35,Occasional,Bronze,Kahawa Sukari,3.2
+C02592,Abdullah Njoroge,46-55,Premium,Silver,Ruiru Sports Club,6.9
+C02593,Mwangi Abdullah,36-45,Occasional,Bronze,Kahawa Wendani,4.7
+C02594,Kariuki Simiyu,26-35,Occasional,Gold,Githurai 44,5.5
+C02595,Were Mwangi,18-25,Regular,Silver,Kimbo,5.4
+C02596,Kamau Akinyi,46-55,New,Gold,Mwiki,3.2
+C02597,Wairimu Wanjala,36-45,Occasional,Bronze,Ruiru CBD,1.1
+C02598,Otieno Nyambura,56+,Regular,Gold,Githurai Kimbo,6.6
+C02599,Adhiambo Kamau,56+,Occasional,Bronze,Kahawa Sukari,2.7
+C02600,Wairimu Achieng,56+,Regular,Gold,Green Valley,6.9
+C02601,Abdullah Adhiambo,46-55,New,Bronze,Ruiru CBD,5.1
+C02602,Mwangi Wanjiku,36-45,New,Gold,Githurai Kimbo,3.2
+C02603,Achieng Wambui,26-35,New,Bronze,Ndenderu,5.0
+C02604,Adhiambo Otieno,56+,Occasional,Silver,Githurai Kimbo,5.3
+C02605,Nyambura Mumbi,26-35,Occasional,Bronze,Githurai Kimbo,5.8
+C02606,Wanjala Wairimu,18-25,Premium,Gold,Ruiru Town Center,6.7
+C02607,Were Okoth,56+,Regular,Bronze,Ruiru Sports Club,1.7
+C02608,Wairimu Simiyu,36-45,Occasional,Gold,Kahawa Wendani,7.6
+C02609,Omondi Wanjala,36-45,Occasional,Bronze,Mwiki,3.6
+C02610,Achieng Adhiambo,36-45,Occasional,Bronze,Githurai 44,7.0
+C02611,Mutiso Ochieng,36-45,Regular,Gold,Ruiru Town Center,2.2
+C02612,Mwangi Ochieng,26-35,Occasional,Gold,Githurai Kimbo,0.7
+C02613,Wambui Okoth,36-45,Regular,Gold,Kahawa Sukari,4.8
+C02614,Akinyi Wanjiku,26-35,Regular,Bronze,Ndenderu,2.9
+C02615,Achieng Kamau,26-35,Occasional,Bronze,Kahawa Sukari,7.9
+C02616,Akinyi Chebet,26-35,Regular,Bronze,Mwiki,1.3
+C02617,Muthoni Kipchoge,18-25,Premium,Gold,Ruiru Town Center,0.9
+C02618,Adhiambo Muthoni,46-55,Occasional,Gold,Githurai Kimbo,0.8
+C02619,Mumbi Chebet,26-35,Occasional,Silver,Kimbo,2.1
+C02620,Kinyua Chebet,18-25,Occasional,Bronze,Githurai 44,4.8
+C02621,Abdullah Adhiambo,46-55,Occasional,Bronze,Mwiki,4.3
+C02622,Adhiambo Mwangi,56+,Occasional,Silver,Githurai 45,3.1
+C02623,Chebet Abdullah,26-35,Occasional,Silver,Kahawa Wendani,1.2
+C02624,Mwangi Kiplagat,18-25,Regular,Gold,Ruiru CBD,2.3
+C02625,Kariuki Omondi,18-25,Regular,Silver,Githurai Kimbo,1.9
+C02626,Kariuki Kiplagat,56+,Occasional,Gold,Kihara,6.1
+C02627,Wairimu Kipchoge,46-55,Regular,Bronze,Ruiru CBD,6.3
+C02628,Wambui Wambui,46-55,Occasional,Silver,Ruiru Sports Club,6.3
+C02629,Adhiambo Ochieng,26-35,Occasional,Gold,Kahawa Sukari,7.8
+C02630,Chebet Wambui,26-35,Regular,Silver,Ruiru CBD,7.1
+C02631,Omondi Hassan,56+,Regular,Silver,Green Valley,4.2
+C02632,Achieng Simiyu,56+,New,Gold,Kahawa Wendani,3.6
+C02633,Mwangi Kipchoge,56+,Regular,Bronze,Mwiki,7.4
+C02634,Njeri Juma,26-35,Regular,Silver,Ndenderu,5.1
+C02635,Simiyu Abdullah,26-35,Occasional,Bronze,Githurai Kimbo,2.7
+C02636,Hassan Kiplagat,26-35,Regular,Bronze,Kahawa Sukari,4.7
+C02637,Simiyu Juma,18-25,Regular,Silver,Kihara,7.9
+C02638,Achieng Mwangi,56+,Occasional,Bronze,Kimbo,6.9
+C02639,Achieng Kiplagat,18-25,Regular,Bronze,Githurai Kimbo,2.6
+C02640,Juma Mutiso,26-35,New,Silver,Kahawa Sukari,7.6
+C02641,Abdullah Akinyi,46-55,Regular,Silver,Mwiki,7.9
+C02642,Simiyu Ochieng,26-35,New,Silver,Ruiru CBD,2.2
+C02643,Kipchoge Muthoni,18-25,Regular,Silver,Kahawa Wendani,7.2
+C02644,Kinyua Simiyu,26-35,Occasional,Silver,Ruiru CBD,7.1
+C02645,Wanjala Hassan,46-55,New,Gold,Kahawa Wendani,0.8
+C02646,Juma Wanjiku,26-35,Regular,Gold,Green Valley,5.5
+C02647,Wanjiku Were,36-45,Occasional,Gold,Githurai 44,2.8
+C02648,Mwangi Achieng,36-45,New,Bronze,Kihara,5.6
+C02649,Njeri Abdullah,18-25,New,Bronze,Ndenderu,7.4
+C02650,Muthoni Simiyu,56+,Premium,Silver,Green Valley,4.2
+C02651,Njoroge Achieng,56+,Occasional,Silver,Mwiki,3.6
+C02652,Adhiambo Wanjala,46-55,Occasional,Gold,Ruiru Town Center,7.4
+C02653,Ochieng Simiyu,46-55,Occasional,Platinum,Ruiru Sports Club,7.8
+C02654,Kamau Kariuki,56+,New,Bronze,Kimbo,1.0
+C02655,Muthoni Hassan,26-35,Occasional,Silver,Kimbo,7.4
+C02656,Wanjiku Omondi,26-35,Occasional,Silver,Kahawa Wendani,1.1
+C02657,Nyambura Were,26-35,Occasional,Bronze,Kihara,3.0
+C02658,Achieng Achieng,56+,Regular,Gold,Kimbo,6.2
+C02659,Njeri Simiyu,18-25,New,Silver,Ndenderu,6.3
+C02660,Kinyua Juma,46-55,Regular,Bronze,Kahawa Sukari,5.9
+C02661,Mwangi Were,26-35,Regular,Bronze,Ndenderu,0.8
+C02662,Hassan Kamau,46-55,Regular,Platinum,Ruiru Sports Club,1.5
+C02663,Kamau Omondi,56+,Occasional,Silver,Green Valley,7.5
+C02664,Adhiambo Njeri,26-35,Regular,Bronze,Green Valley,1.1
+C02665,Mwangi Simiyu,46-55,Occasional,Gold,Kimbo,1.1
+C02666,Akinyi Nyambura,36-45,Regular,Bronze,Green Valley,6.8
+C02667,Muthoni Abdullah,56+,Occasional,Bronze,Kihara,5.3
+C02668,Kiplagat Kinyua,46-55,Regular,Gold,Ruiru CBD,3.1
+C02669,Omondi Muthoni,26-35,Premium,Gold,Green Valley,1.7
+C02670,Wairimu Mwangi,46-55,Occasional,Gold,Ndenderu,7.1
+C02671,Kipchoge Adhiambo,18-25,Premium,Platinum,Ruiru Town Center,7.9
+C02672,Abdullah Mutiso,18-25,Regular,Bronze,Kahawa Wendani,0.9
+C02673,Njoroge Juma,26-35,Regular,Silver,Kihara,4.7
+C02674,Okoth Kariuki,46-55,Occasional,Bronze,Githurai Kimbo,2.5
+C02675,Mutiso Achieng,26-35,Regular,Bronze,Ruiru CBD,6.7
+C02676,Otieno Wambui,56+,Regular,Silver,Green Valley,3.1
+C02677,Were Wairimu,18-25,Regular,Gold,Ruiru CBD,5.9
+C02678,Muthoni Kipchoge,36-45,Occasional,Bronze,Kihara,4.5
+C02679,Ochieng Juma,18-25,Regular,Gold,Kimbo,4.6
+C02680,Kariuki Muthoni,36-45,Occasional,Silver,Githurai 45,6.9
+C02681,Mumbi Kariuki,26-35,Regular,Platinum,Ruiru Sports Club,4.0
+C02682,Chebet Mutiso,26-35,Regular,Silver,Githurai 44,6.8
+C02683,Muthoni Maina,56+,Regular,Bronze,Githurai 45,3.2
+C02684,Chebet Wanjiku,26-35,Occasional,Silver,Mwiki,1.8
+C02685,Akinyi Kariuki,26-35,Regular,Silver,Ruiru CBD,3.9
+C02686,Njeri Mumbi,18-25,Regular,Silver,Githurai 45,4.2
+C02687,Achieng Njoroge,26-35,Regular,Bronze,Ruiru Sports Club,4.1
+C02688,Njeri Juma,46-55,Regular,Gold,Kahawa Sukari,6.6
+C02689,Muthoni Kariuki,56+,New,Bronze,Kahawa Wendani,4.7
+C02690,Chebet Omondi,46-55,Premium,Platinum,Green Valley,7.2
+C02691,Mwangi Juma,46-55,New,Bronze,Githurai Kimbo,4.4
+C02692,Ochieng Achieng,36-45,New,Bronze,Githurai 45,2.2
+C02693,Kiplagat Simiyu,18-25,Regular,Bronze,Kimbo,1.5
+C02694,Mutiso Simiyu,46-55,Regular,Gold,Green Valley,7.0
+C02695,Omondi Njoroge,18-25,New,Bronze,Ruiru CBD,0.9
+C02696,Mutiso Otieno,36-45,Occasional,Silver,Ndenderu,1.4
+C02697,Otieno Chebet,56+,Regular,Gold,Ruiru Town Center,1.0
+C02698,Mumbi Wanjala,18-25,Occasional,Bronze,Kahawa Sukari,3.7
+C02699,Otieno Mwangi,26-35,Regular,Bronze,Ruiru Town Center,4.5
+C02700,Abdullah Kariuki,36-45,Regular,Gold,Githurai 44,0.6
+C02701,Njoroge Kamau,56+,New,Silver,Ndenderu,4.4
+C02702,Kariuki Njeri,46-55,Regular,Bronze,Mwiki,3.5
+C02703,Kinyua Kipchoge,18-25,Occasional,Gold,Kimbo,6.3
+C02704,Otieno Mwangi,36-45,Regular,Silver,Ruiru CBD,6.7
+C02705,Kamau Kariuki,26-35,New,Bronze,Kimbo,5.6
+C02706,Wambui Wanjala,26-35,Regular,Bronze,Kahawa Wendani,4.1
+C02707,Okoth Mutiso,46-55,Occasional,Silver,Kimbo,2.1
+C02708,Ochieng Achieng,36-45,Occasional,Bronze,Ruiru CBD,6.9
+C02709,Maina Chebet,56+,Occasional,Bronze,Githurai Kimbo,3.1
+C02710,Were Nyambura,18-25,Occasional,Silver,Kahawa Wendani,3.2
+C02711,Wanjiku Were,46-55,Regular,Platinum,Green Valley,7.4
+C02712,Okoth Juma,26-35,New,Bronze,Kahawa Wendani,7.8
+C02713,Njoroge Muthoni,56+,Regular,Bronze,Ndenderu,7.2
+C02714,Muthoni Were,46-55,Occasional,Silver,Githurai Kimbo,8.0
+C02715,Otieno Omondi,26-35,Occasional,Platinum,Ruiru Town Center,7.0
+C02716,Ochieng Wanjala,46-55,Occasional,Bronze,Githurai 44,5.8
+C02717,Wambui Mutiso,36-45,Occasional,Silver,Ruiru CBD,2.7
+C02718,Nyambura Njeri,18-25,New,Bronze,Kahawa Wendani,7.6
+C02719,Njeri Abdullah,36-45,Premium,Gold,Ruiru Sports Club,7.1
+C02720,Hassan Kiplagat,18-25,Occasional,Gold,Ruiru CBD,2.3
+C02721,Akinyi Akinyi,36-45,New,Bronze,Githurai 44,4.2
+C02722,Simiyu Muthoni,56+,Regular,Gold,Ruiru Town Center,1.0
+C02723,Hassan Mwangi,18-25,Occasional,Silver,Ruiru Sports Club,7.6
+C02724,Kariuki Ochieng,36-45,Occasional,Bronze,Mwiki,4.8
+C02725,Achieng Nyambura,26-35,Occasional,Bronze,Githurai 44,2.3
+C02726,Abdullah Kiplagat,56+,Regular,Silver,Kimbo,2.7
+C02727,Juma Mumbi,46-55,New,Bronze,Ruiru CBD,7.9
+C02728,Juma Okoth,56+,Occasional,Bronze,Ndenderu,5.1
+C02729,Omondi Kinyua,26-35,Regular,Bronze,Kihara,3.7
+C02730,Otieno Omondi,56+,New,Gold,Kahawa Sukari,4.2
+C02731,Ochieng Akinyi,18-25,Regular,Silver,Kihara,1.2
+C02732,Njoroge Adhiambo,26-35,New,Silver,Kihara,1.1
+C02733,Wanjiku Kamau,26-35,Regular,Bronze,Kahawa Sukari,4.9
+C02734,Njeri Achieng,56+,Occasional,Silver,Kahawa Wendani,4.3
+C02735,Adhiambo Abdullah,18-25,Regular,Platinum,Ruiru Sports Club,3.2
+C02736,Mwangi Adhiambo,36-45,Regular,Bronze,Kahawa Wendani,4.7
+C02737,Mutiso Otieno,36-45,Occasional,Bronze,Githurai 45,1.0
+C02738,Kamau Njeri,26-35,Regular,Platinum,Green Valley,7.6
+C02739,Hassan Otieno,46-55,Premium,Silver,Green Valley,2.7
+C02740,Kipchoge Kamau,36-45,Regular,Gold,Githurai Kimbo,1.0
+C02741,Otieno Akinyi,36-45,Regular,Gold,Green Valley,1.8
+C02742,Njoroge Njoroge,56+,Occasional,Platinum,Green Valley,1.2
+C02743,Njoroge Kamau,46-55,Regular,Bronze,Githurai Kimbo,1.8
+C02744,Otieno Hassan,46-55,New,Silver,Kahawa Sukari,3.6
+C02745,Wanjala Ochieng,56+,Regular,Bronze,Ndenderu,6.0
+C02746,Mutiso Kipchoge,26-35,New,Bronze,Mwiki,2.5
+C02747,Kamau Omondi,56+,Regular,Silver,Kahawa Sukari,3.8
+C02748,Omondi Juma,56+,Occasional,Silver,Kahawa Wendani,7.5
+C02749,Nyambura Omondi,56+,Regular,Gold,Githurai Kimbo,2.7
+C02750,Mwangi Wambui,56+,Regular,Bronze,Ndenderu,6.5
+C02751,Hassan Kiplagat,26-35,Regular,Bronze,Githurai 45,1.7
+C02752,Wanjiku Were,26-35,Regular,Bronze,Githurai Kimbo,1.8
+C02753,Okoth Kariuki,26-35,Regular,Bronze,Githurai Kimbo,3.9
+C02754,Were Mwangi,46-55,New,Silver,Kahawa Wendani,2.3
+C02755,Chebet Kipchoge,46-55,Regular,Silver,Ruiru Town Center,7.3
+C02756,Wairimu Abdullah,46-55,Regular,Silver,Kimbo,0.9
+C02757,Njeri Kipchoge,56+,New,Silver,Kahawa Sukari,5.0
+C02758,Kamau Juma,36-45,Regular,Platinum,Ruiru Sports Club,5.0
+C02759,Kipchoge Hassan,56+,Occasional,Silver,Mwiki,1.0
+C02760,Hassan Maina,36-45,Regular,Bronze,Githurai 44,6.0
+C02761,Maina Achieng,46-55,Occasional,Gold,Githurai 44,4.0
+C02762,Mwangi Simiyu,46-55,New,Silver,Githurai 45,5.9
+C02763,Mwangi Njoroge,46-55,Regular,Bronze,Githurai 45,6.7
+C02764,Wambui Kipchoge,56+,Regular,Gold,Githurai 44,2.9
+C02765,Were Nyambura,56+,Regular,Silver,Ruiru Sports Club,4.1
+C02766,Kamau Mumbi,26-35,Occasional,Platinum,Green Valley,2.5
+C02767,Mutiso Kiplagat,26-35,New,Gold,Kahawa Sukari,2.0
+C02768,Kiplagat Maina,46-55,New,Gold,Ndenderu,0.5
+C02769,Akinyi Kariuki,56+,Regular,Gold,Ruiru Sports Club,7.7
+C02770,Mutiso Wanjala,46-55,Regular,Gold,Githurai 45,3.8
+C02771,Wambui Omondi,26-35,Regular,Gold,Ruiru Sports Club,0.6
+C02772,Wanjala Abdullah,46-55,Regular,Gold,Green Valley,0.6
+C02773,Kariuki Kariuki,46-55,Regular,Silver,Mwiki,2.7
+C02774,Kiplagat Muthoni,56+,Occasional,Bronze,Mwiki,0.6
+C02775,Mwangi Muthoni,18-25,Occasional,Bronze,Kimbo,3.3
+C02776,Wambui Otieno,26-35,Occasional,Platinum,Ruiru Town Center,1.0
+C02777,Kariuki Akinyi,56+,Regular,Gold,Mwiki,0.8
+C02778,Otieno Hassan,18-25,Regular,Gold,Githurai Kimbo,5.5
+C02779,Nyambura Achieng,46-55,Regular,Bronze,Githurai Kimbo,7.3
+C02780,Achieng Njeri,56+,Occasional,Bronze,Kimbo,3.6
+C02781,Omondi Kamau,56+,Regular,Bronze,Kahawa Wendani,6.8
+C02782,Hassan Maina,18-25,Regular,Platinum,Ruiru Sports Club,0.7
+C02783,Otieno Juma,26-35,New,Bronze,Githurai 44,6.3
+C02784,Adhiambo Nyambura,46-55,Occasional,Bronze,Ndenderu,1.0
+C02785,Mumbi Juma,36-45,Regular,Bronze,Ndenderu,6.8
+C02786,Okoth Njeri,26-35,New,Bronze,Kahawa Wendani,7.1
+C02787,Kinyua Mutiso,26-35,Regular,Silver,Kimbo,6.4
+C02788,Muthoni Okoth,56+,Regular,Gold,Ruiru Town Center,6.7
+C02789,Juma Mwangi,26-35,New,Bronze,Kahawa Sukari,4.7
+C02790,Kinyua Okoth,46-55,Occasional,Bronze,Ruiru CBD,2.5
+C02791,Kamau Were,56+,Regular,Gold,Green Valley,5.3
+C02792,Njoroge Hassan,18-25,Occasional,Silver,Kahawa Sukari,3.8
+C02793,Nyambura Mutiso,36-45,Occasional,Bronze,Githurai 44,0.5
+C02794,Mumbi Juma,18-25,Occasional,Silver,Ndenderu,4.1
+C02795,Otieno Nyambura,18-25,Occasional,Silver,Ndenderu,5.4
+C02796,Adhiambo Mwangi,18-25,Regular,Silver,Githurai 45,0.6
+C02797,Kinyua Chebet,56+,Premium,Platinum,Ruiru Sports Club,5.2
+C02798,Were Were,56+,Occasional,Silver,Ruiru CBD,5.4
+C02799,Kinyua Juma,36-45,Occasional,Silver,Ruiru Town Center,1.7
+C02800,Abdullah Wanjiku,36-45,Occasional,Bronze,Githurai Kimbo,3.7
+C02801,Njeri Kiplagat,26-35,Occasional,Bronze,Mwiki,7.7
+C02802,Otieno Muthoni,18-25,Regular,Bronze,Green Valley,7.1
+C02803,Kipchoge Hassan,36-45,Premium,Platinum,Ruiru Town Center,3.6
+C02804,Kipchoge Kariuki,56+,Premium,Platinum,Ruiru Sports Club,3.1
+C02805,Simiyu Mutiso,56+,Occasional,Silver,Ruiru Sports Club,1.4
+C02806,Were Otieno,26-35,Regular,Gold,Ruiru CBD,0.8
+C02807,Mwangi Omondi,46-55,Premium,Platinum,Ruiru Town Center,2.7
+C02808,Wambui Were,36-45,Occasional,Platinum,Ruiru Town Center,7.6
+C02809,Ochieng Akinyi,56+,Occasional,Bronze,Kihara,7.7
+C02810,Kinyua Njoroge,46-55,Regular,Gold,Ruiru Sports Club,6.6
+C02811,Hassan Mutiso,18-25,Premium,Gold,Ruiru Sports Club,3.1
+C02812,Njoroge Wambui,36-45,Occasional,Gold,Githurai 45,1.6
+C02813,Simiyu Wambui,26-35,New,Gold,Githurai Kimbo,5.0
+C02814,Juma Were,56+,Regular,Gold,Githurai 45,5.3
+C02815,Chebet Mumbi,26-35,Regular,Silver,Githurai Kimbo,3.7
+C02816,Wanjiku Juma,26-35,Regular,Bronze,Mwiki,5.7
+C02817,Okoth Njeri,56+,Occasional,Silver,Mwiki,6.1
+C02818,Adhiambo Achieng,18-25,Occasional,Silver,Githurai 45,6.4
+C02819,Mwangi Hassan,18-25,Regular,Gold,Githurai 44,4.3
+C02820,Mumbi Achieng,18-25,Regular,Silver,Kihara,6.4
+C02821,Njoroge Mumbi,18-25,Occasional,Silver,Ruiru CBD,0.7
+C02822,Mwangi Mumbi,56+,Premium,Bronze,Green Valley,5.6
+C02823,Wanjiku Otieno,56+,Regular,Silver,Ruiru Sports Club,2.3
+C02824,Juma Achieng,36-45,Occasional,Silver,Green Valley,2.5
+C02825,Njoroge Otieno,26-35,Occasional,Platinum,Ruiru Town Center,1.2
+C02826,Ochieng Okoth,26-35,Regular,Bronze,Mwiki,1.9
+C02827,Kinyua Wanjiku,46-55,Occasional,Bronze,Kihara,7.9
+C02828,Muthoni Were,56+,Regular,Bronze,Kahawa Sukari,3.6
+C02829,Kinyua Achieng,56+,Regular,Bronze,Ndenderu,7.5
+C02830,Chebet Ochieng,36-45,Regular,Gold,Kahawa Sukari,1.7
+C02831,Kariuki Chebet,26-35,Occasional,Bronze,Ruiru CBD,2.0
+C02832,Njeri Okoth,18-25,Regular,Bronze,Ruiru Town Center,4.7
+C02833,Maina Adhiambo,18-25,Occasional,Bronze,Githurai 44,3.1
+C02834,Njoroge Mutiso,56+,Occasional,Bronze,Ruiru Town Center,5.3
+C02835,Were Abdullah,26-35,Occasional,Bronze,Kahawa Wendani,3.7
+C02836,Were Achieng,36-45,Occasional,Bronze,Kahawa Wendani,6.6
+C02837,Wanjala Muthoni,46-55,Occasional,Silver,Kahawa Wendani,3.7
+C02838,Nyambura Simiyu,18-25,Regular,Bronze,Githurai Kimbo,4.8
+C02839,Okoth Otieno,18-25,Regular,Silver,Ruiru Town Center,2.9
+C02840,Omondi Mumbi,18-25,Occasional,Gold,Green Valley,5.8
+C02841,Ochieng Achieng,18-25,Regular,Silver,Githurai 44,5.4
+C02842,Mwangi Kamau,36-45,Occasional,Silver,Kahawa Wendani,3.5
+C02843,Maina Wanjala,26-35,Regular,Silver,Githurai 44,2.6
+C02844,Chebet Kinyua,56+,Occasional,Bronze,Kihara,5.1
+C02845,Hassan Kariuki,26-35,Regular,Gold,Ndenderu,7.6
+C02846,Nyambura Kinyua,46-55,Regular,Bronze,Githurai Kimbo,1.5
+C02847,Akinyi Wanjala,26-35,Occasional,Bronze,Githurai 44,6.5
+C02848,Chebet Ochieng,26-35,Occasional,Bronze,Kahawa Sukari,4.6
+C02849,Kiplagat Njoroge,26-35,Regular,Gold,Green Valley,4.4
+C02850,Adhiambo Omondi,56+,Occasional,Bronze,Githurai Kimbo,7.7
+C02851,Achieng Kinyua,18-25,Occasional,Silver,Mwiki,5.0
+C02852,Kiplagat Ochieng,46-55,Regular,Gold,Ruiru Town Center,6.7
+C02853,Wanjiku Otieno,56+,Regular,Bronze,Kahawa Sukari,4.4
+C02854,Wambui Akinyi,18-25,Regular,Bronze,Ndenderu,2.4
+C02855,Were Kamau,56+,Regular,Bronze,Kahawa Sukari,5.7
+C02856,Kiplagat Juma,26-35,Regular,Bronze,Githurai 44,7.4
+C02857,Akinyi Juma,56+,Regular,Bronze,Kihara,6.8
+C02858,Njoroge Wanjala,18-25,Occasional,Gold,Githurai Kimbo,2.0
+C02859,Adhiambo Wanjala,56+,Regular,Bronze,Kahawa Sukari,2.9
+C02860,Chebet Wanjala,36-45,New,Bronze,Githurai 45,4.4
+C02861,Simiyu Muthoni,26-35,New,Bronze,Githurai 45,4.8
+C02862,Achieng Okoth,56+,Occasional,Silver,Ruiru Town Center,2.0
+C02863,Akinyi Simiyu,26-35,Occasional,Bronze,Githurai Kimbo,2.2
+C02864,Akinyi Kamau,56+,Occasional,Silver,Githurai Kimbo,6.2
+C02865,Hassan Nyambura,56+,Occasional,Bronze,Mwiki,6.0
+C02866,Kiplagat Muthoni,46-55,Regular,Gold,Githurai 45,6.8
+C02867,Wanjala Adhiambo,56+,Premium,Platinum,Ruiru Town Center,7.5
+C02868,Juma Kamau,26-35,Occasional,Gold,Githurai 44,2.8
+C02869,Mutiso Chebet,36-45,Occasional,Gold,Mwiki,6.9
+C02870,Wanjiku Njoroge,26-35,Regular,Gold,Githurai Kimbo,5.5
+C02871,Achieng Adhiambo,46-55,Occasional,Bronze,Kahawa Wendani,7.7
+C02872,Kamau Mutiso,26-35,Occasional,Gold,Green Valley,2.5
+C02873,Kipchoge Kinyua,56+,Regular,Bronze,Kihara,2.5
+C02874,Hassan Akinyi,56+,Occasional,Bronze,Mwiki,5.8
+C02875,Mwangi Njeri,26-35,Regular,Bronze,Ruiru CBD,7.5
+C02876,Were Kiplagat,18-25,Occasional,Gold,Kahawa Sukari,6.7
+C02877,Achieng Were,26-35,Occasional,Bronze,Ruiru CBD,6.0
+C02878,Kiplagat Kiplagat,18-25,New,Silver,Githurai Kimbo,3.4
+C02879,Kiplagat Abdullah,18-25,Regular,Silver,Mwiki,5.9
+C02880,Kiplagat Omondi,18-25,Regular,Silver,Githurai 44,6.5
+C02881,Okoth Kipchoge,56+,Occasional,Silver,Kimbo,6.1
+C02882,Chebet Maina,26-35,New,Bronze,Githurai 45,5.6
+C02883,Kamau Wairimu,46-55,Regular,Platinum,Ruiru Sports Club,0.9
+C02884,Chebet Muthoni,46-55,Regular,Gold,Ruiru Sports Club,5.4
+C02885,Njeri Simiyu,46-55,Regular,Bronze,Githurai 44,4.1
+C02886,Akinyi Okoth,18-25,Premium,Gold,Ruiru Sports Club,7.7
+C02887,Okoth Kariuki,36-45,Occasional,Silver,Kihara,5.1
+C02888,Kiplagat Chebet,36-45,New,Silver,Githurai 45,5.1
+C02889,Mumbi Muthoni,18-25,Regular,Silver,Mwiki,8.0
+C02890,Hassan Wanjala,18-25,Regular,Gold,Ruiru Town Center,1.2
+C02891,Were Kipchoge,36-45,Regular,Silver,Mwiki,2.6
+C02892,Hassan Mwangi,36-45,Regular,Gold,Green Valley,5.4
+C02893,Maina Njoroge,18-25,Occasional,Silver,Ruiru CBD,2.9
+C02894,Njeri Maina,46-55,Regular,Bronze,Githurai 45,3.1
+C02895,Abdullah Maina,36-45,New,Silver,Ndenderu,7.2
+C02896,Hassan Njeri,56+,Occasional,Silver,Mwiki,4.8
+C02897,Njeri Ochieng,18-25,New,Silver,Mwiki,1.3
+C02898,Muthoni Mutiso,36-45,Regular,Bronze,Ruiru CBD,2.8
+C02899,Njoroge Ochieng,46-55,New,Bronze,Kahawa Wendani,1.1
+C02900,Chebet Wairimu,18-25,New,Gold,Kimbo,4.7
+C02901,Akinyi Omondi,36-45,New,Bronze,Mwiki,1.8
+C02902,Kipchoge Otieno,36-45,Occasional,Bronze,Green Valley,6.9
+C02903,Okoth Mutiso,56+,Regular,Platinum,Ruiru Town Center,4.8
+C02904,Akinyi Okoth,46-55,Occasional,Bronze,Githurai 44,0.9
+C02905,Kipchoge Wambui,36-45,Regular,Platinum,Ruiru Sports Club,2.8
+C02906,Muthoni Njoroge,56+,Occasional,Platinum,Ruiru Town Center,5.1
+C02907,Wanjiku Adhiambo,36-45,Occasional,Bronze,Githurai Kimbo,3.0
+C02908,Chebet Wanjala,26-35,Regular,Silver,Ruiru Town Center,4.3
+C02909,Wanjala Kamau,18-25,Regular,Silver,Githurai 45,7.3
+C02910,Maina Wanjiku,18-25,New,Bronze,Kahawa Wendani,3.1
+C02911,Were Nyambura,18-25,Regular,Silver,Mwiki,3.0
+C02912,Ochieng Adhiambo,26-35,Premium,Bronze,Ruiru Sports Club,6.6
+C02913,Hassan Wairimu,56+,Occasional,Gold,Ruiru Sports Club,2.9
+C02914,Okoth Okoth,36-45,Regular,Bronze,Kahawa Sukari,1.1
+C02915,Kariuki Kamau,36-45,Regular,Bronze,Mwiki,1.9
+C02916,Wanjiku Kamau,46-55,Occasional,Silver,Ndenderu,7.6
+C02917,Mwangi Kinyua,36-45,Occasional,Bronze,Ruiru Town Center,7.5
+C02918,Njeri Abdullah,56+,Occasional,Bronze,Githurai Kimbo,2.2
+C02919,Otieno Okoth,26-35,Occasional,Silver,Ndenderu,4.7
+C02920,Wanjiku Kiplagat,56+,Occasional,Silver,Kimbo,1.5
+C02921,Otieno Wanjala,46-55,Premium,Silver,Green Valley,5.6
+C02922,Abdullah Were,56+,Occasional,Bronze,Kahawa Wendani,1.9
+C02923,Okoth Achieng,56+,Occasional,Bronze,Kihara,0.9
+C02924,Adhiambo Mumbi,26-35,New,Bronze,Kahawa Sukari,6.7
+C02925,Were Juma,46-55,Regular,Silver,Ruiru Town Center,2.9
+C02926,Ochieng Wanjala,26-35,Regular,Gold,Green Valley,1.3
+C02927,Njoroge Kipchoge,56+,Occasional,Bronze,Githurai Kimbo,6.8
+C02928,Wanjiku Mumbi,18-25,Regular,Bronze,Githurai 44,6.2
+C02929,Akinyi Kariuki,36-45,Regular,Bronze,Githurai 45,5.6
+C02930,Kiplagat Wanjala,56+,Occasional,Bronze,Ruiru CBD,7.3
+C02931,Maina Akinyi,46-55,Regular,Gold,Githurai 45,4.2
+C02932,Abdullah Simiyu,56+,Regular,Gold,Ruiru Town Center,1.5
+C02933,Abdullah Wambui,46-55,Occasional,Gold,Green Valley,1.0
+C02934,Kinyua Njoroge,26-35,Occasional,Bronze,Ruiru CBD,2.9
+C02935,Muthoni Maina,46-55,Occasional,Bronze,Kimbo,1.2
+C02936,Mwangi Njoroge,46-55,Regular,Bronze,Githurai Kimbo,4.5
+C02937,Achieng Muthoni,26-35,Occasional,Silver,Green Valley,0.6
+C02938,Achieng Ochieng,26-35,Regular,Silver,Ruiru Town Center,3.8
+C02939,Wanjala Muthoni,56+,New,Bronze,Githurai Kimbo,1.8
+C02940,Ochieng Juma,18-25,Regular,Bronze,Ruiru Sports Club,3.3
+C02941,Achieng Njeri,26-35,Occasional,Gold,Kimbo,5.6
+C02942,Kamau Hassan,26-35,Occasional,Bronze,Ndenderu,3.1
+C02943,Wanjiku Kipchoge,26-35,Occasional,Bronze,Mwiki,3.1
+C02944,Otieno Muthoni,46-55,Premium,Gold,Ruiru Sports Club,7.9
+C02945,Muthoni Were,46-55,Regular,Gold,Githurai 45,5.9
+C02946,Mwangi Chebet,36-45,Regular,Silver,Kihara,4.4
+C02947,Mutiso Adhiambo,46-55,Occasional,Silver,Ndenderu,4.8
+C02948,Chebet Achieng,46-55,Regular,Bronze,Githurai 44,5.2
+C02949,Adhiambo Abdullah,26-35,Regular,Bronze,Kimbo,0.7
+C02950,Kariuki Ochieng,26-35,Regular,Bronze,Mwiki,1.1
+C02951,Kamau Chebet,26-35,Regular,Bronze,Kahawa Wendani,5.4
+C02952,Hassan Ochieng,26-35,Regular,Bronze,Kimbo,3.2

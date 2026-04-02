@@ -1,0 +1,115 @@
+product_id,product_name,category,price
+P0001,Sukuma Wiki (Kale),Fresh Produce,480.72
+P0002,Tomatoes,Fresh Produce,1143.32
+P0003,Onions,Fresh Produce,891.79
+P0004,Potatoes Irish,Fresh Produce,738.46
+P0005,Potatoes Sweet,Fresh Produce,229.42
+P0006,Carrots,Fresh Produce,229.39
+P0007,Cabbage,Fresh Produce,116.8
+P0008,Spinach,Fresh Produce,1046.1
+P0009,Avocado,Fresh Produce,741.28
+P0010,Mangoes,Fresh Produce,864.28
+P0011,Bananas,Fresh Produce,73.67
+P0012,Pineapples,Fresh Produce,1165.4
+P0013,Oranges,Fresh Produce,1007.31
+P0014,Lemons,Fresh Produce,294.19
+P0015,Dhania,Fresh Produce,259.1
+P0016,Garlic,Fresh Produce,260.92
+P0017,Ginger,Fresh Produce,399.88
+P0018,Tuzo Milk 500ml,Dairy & Eggs,653.47
+P0019,Tuzo Milk 1L,Dairy & Eggs,546.74
+P0020,Brookside Milk 500ml,Dairy & Eggs,384.91
+P0021,Brookside Yoghurt,Dairy & Eggs,753.63
+P0022,Mala,Dairy & Eggs,210.42
+P0023,Eggs (Tray of 30),Dairy & Eggs,385.97
+P0024,Eggs (Half Tray),Dairy & Eggs,471.32
+P0025,Mchele Cheese,Dairy & Eggs,574.48
+P0026,Butter,Dairy & Eggs,952.95
+P0027,Margarine,Dairy & Eggs,279.62
+P0028,Fresh Milk (Ruiru Dairy),Dairy & Eggs,425.96
+P0029,Fermented Milk,Dairy & Eggs,731.28
+P0030,Beef Steak (per kg),Meat & Poultry,103.42
+P0031,Chicken Whole,Meat & Poultry,748.68
+P0032,Chicken Pieces,Meat & Poultry,246.1
+P0033,Minced Meat,Meat & Poultry,124.81
+P0034,Goat Meat (per kg),Meat & Poultry,1141.22
+P0035,Sausages,Meat & Poultry,1160.48
+P0036,Bacon,Meat & Poultry,979.66
+P0037,Pork,Meat & Poultry,400.31
+P0038,Fish Tilapia,Meat & Poultry,162.32
+P0039,Fish Nile Perch,Meat & Poultry,836.87
+P0040,White Bread,Bakery,556.18
+P0041,Brown Bread,Bakery,190.34
+P0042,Chapati (pack of 4),Bakery,619.45
+P0043,Mandazi,Bakery,89.55
+P0044,Cakes,Bakery,1095.72
+P0045,Cookies,Bakery,347.6
+P0046,Croissants,Bakery,811.9
+P0047,Donuts,Bakery,408.47
+P0048,Samosa,Bakery,648.08
+P0049,Maize Flour (2kg),Dry Goods,678.72
+P0050,Wheat Flour (2kg),Dry Goods,262.58
+P0051,Rice (2kg),Dry Goods,1165.02
+P0052,Beans (1kg),Dry Goods,941.4
+P0053,Lentils (500g),Dry Goods,1130.42
+P0054,Sugar (2kg),Dry Goods,1079.05
+P0055,Salt (1kg),Dry Goods,737.58
+P0056,Cooking Oil (1L),Dry Goods,1110.16
+P0057,Blue Band (500g),Dry Goods,151.77
+P0058,Tea Leaves,Dry Goods,275.38
+P0059,Coffee,Dry Goods,102.01
+P0060,Spices Mix,Dry Goods,424.13
+P0061,Coca-Cola 500ml,Beverages,496.98
+P0062,Fanta Orange 500ml,Beverages,362.05
+P0063,Sprite 500ml,Beverages,1003.05
+P0064,Stoney Tangawizi,Beverages,460.27
+P0065,Bottled Water 500ml,Beverages,373.07
+P0066,Eden Tea Leaves,Beverages,674.1
+P0067,Dormans Coffee,Beverages,212.06
+P0068,Fresh Juice,Beverages,972.53
+P0069,DairyBest Flavoured Milk,Beverages,135.73
+P0070,Soda,Beverages,1184.92
+P0071,Energy Drinks,Beverages,938.08
+P0072,Malt Drinks,Beverages,278.52
+P0073,Biscuits (Assorted),Snacks,56.35
+P0074,Crisps,Snacks,987.78
+P0075,Chocolate,Snacks,862.89
+P0076,Sweets,Snacks,888.36
+P0077,Nuts,Snacks,936.96
+P0078,Popcorn,Snacks,135.15
+P0079,Kenyyan Chevda,Snacks,462.24
+P0080,Cakes,Snacks,183.25
+P0081,Muffins,Snacks,1042.57
+P0082,Omo (500g),Household,766.79
+P0083,Surf (500g),Household,430.53
+P0084,Toilet Paper (4 rolls),Household,123.09
+P0085,Tissue Box,Household,407.63
+P0086,Soap Bar,Household,423.96
+P0087,Detergent,Household,889.05
+P0088,Matches,Household,783.19
+P0089,Candles,Household,1070.29
+P0090,Mosquito Coils,Household,593.05
+P0091,Air Freshener,Household,187.53
+P0092,Toothpaste,Personal Care,870.23
+P0093,Toothbrush,Personal Care,924.9
+P0094,Sanitary Pads,Personal Care,695.47
+P0095,Shampoo,Personal Care,936.61
+P0096,Body Lotion,Personal Care,617.86
+P0097,Razor Blades,Personal Care,651.14
+P0098,Deodorant,Personal Care,541.67
+P0099,Hair Oil,Personal Care,79.23
+P0100,Baby Diapers,Personal Care,174.08
+P0101,Baby Wipes,Personal Care,86.14
+P0102,Phone Charger,Electronics,781.87
+P0103,Earphones,Electronics,411.51
+P0104,Batteries AA,Electronics,634.86
+P0105,Batteries AAA,Electronics,1093.7
+P0106,Light Bulbs,Electronics,336.69
+P0107,Extension Cord,Electronics,521.94
+P0108,Phone Cables,Electronics,918.88
+P0109,Ruiru Maize Flour,Ruiru Specialties,206.17
+P0110,Local Fresh Vegetables,Ruiru Specialties,89.27
+P0111,Local Fresh Chicken,Ruiru Specialties,253.11
+P0112,Fresh Farm Eggs,Ruiru Specialties,154.14
+P0113,Ruiru Honey,Ruiru Specialties,745.87
+P0114,Traditional Herbs,Ruiru Specialties,652.25
